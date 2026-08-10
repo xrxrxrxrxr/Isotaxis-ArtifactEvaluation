@@ -1,0 +1,2 @@
+# Plotting dependency used by gen-fig.py and plot.py.
+matplotlib==3.9.4

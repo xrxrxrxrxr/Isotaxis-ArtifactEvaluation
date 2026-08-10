@@ -1,0 +1,266 @@
+% Artifact Appendix template for the NDSS Artifact Evaluation
+% version 1.1 (20250525)
+
+% Remove the following block when merging the appendix with the camera-ready paper.
+%%%
+\documentclass[conference]{IEEEtran}
+\usepackage[most]{tcolorbox}
+\usepackage{listings}
+\usepackage[scaled=0.88]{newtxtt}
+\usepackage[most]{tcolorbox}
+\usepackage{listings}
+
+\newtcblisting{commandbox}{
+  listing only,
+  listing options={
+    basicstyle=\ttfamily,
+    breaklines=true,
+    columns=fullflexible,
+  },
+  colback=black!2,
+  colframe=black!30,
+  boxrule=0pt,
+  leftrule=1.2pt,
+  arc=0pt,
+  left=6pt,
+  right=4pt,
+  top=3pt,
+  bottom=3pt,
+  boxsep=0pt,
+  before skip=5pt,
+  after skip=5pt,
+}
+\pagestyle{plain}
+\usepackage{url}
+\usepackage{hyperref}
+\begin{document}
+%%%
+
+\appendices
+\section{Artifact Appendix}
+
+This artifact accompanies \emph{Isotaxis: Optimal Asynchronous Byzantine
+Consensus with Ordering Linearizability}.  It provides the Isotaxis and Pompe
+implementations, a common HotStuff backend, four-replica Docker experiments,
+the global EC2 workflow, and the data and script for Figs.~2, 3, and 5--7.
+These components evaluate the latency, throughput--latency, and ordering-layer
+denial-of-service (DoS) results in Section VIII of the paper.  Operational
+details are in \texttt{README-AE.md}.
+
+\subsection{Description \& Requirements}
+
+The main Rust crate contains Isotaxis, Pompe, clients, and adversarial nodes;
+the bundled second crate is their modified HotStuff backend.  The two Compose
+files run the normal and attack cases.  Global deployment scripts are under
+\path{ec2}, and \path{gen-fig.py} regenerates the plots.
+
+\subsubsection{How to access}
+
+The repository is available at
+\url{https://github.com/xrxrxrxrxr/Isotaxis-ArtifactEvaluation}.  Clone the
+evaluated revision:
+
+\begin{commandbox}
+git clone \
+  https://github.com/xrxrxrxrxr/\
+Isotaxis-ArtifactEvaluation
+cd Isotaxis-ArtifactEvaluation
+\end{commandbox}
+
+The evaluated commit is recorded in \texttt{README-AE.md}; the camera-ready
+appendix will cite the AEC-approved archive DOI.  The authors' code is
+Apache-2.0; third-party components retain their original licenses.
+
+\subsubsection{Hardware dependencies}
+
+The local four-replica run needs an x86-64 host with 8 logical cores, 16~GiB
+RAM, and 20~GiB free disk; no GPU is needed.  CPU-affinity settings refer to
+cores 0--3.  Docker Desktop can run the functional test, but its measurements
+are not directly comparable to the paper.  A full rerun needs one dedicated
+EC2 \texttt{c6a.2xlarge} (8 vCPUs, 16~GiB) per process and a
+\texttt{t3.micro} client, distributed over 11 regions for up to 100 processes.
+
+\subsubsection{Software dependencies}
+
+Local experiments require Git, Docker Engine, and Docker Compose; testing used
+Engine 28.3.2, Compose v2.38.2, and Buildx v0.25.0.  Rust is built inside the
+image.  Plotting needs Python~3.9+ and \texttt{matplotlib==3.9.4}, pinned in
+\path{requirements-plot.txt}.  E3 additionally needs AWS CLI v2,
+\texttt{jq}, SSH/SCP, GNU Make, credentials, and the EC2 fleet above.
+
+\subsubsection{Benchmarks}
+
+No dataset is required: the client generates synthetic transactions.
+\texttt{ORDERING\_BATCH\_SIZE} is the nominal transactions per ordering input;
+the paper uses one for sparse latency and sweeps up to $1.6\times10^{5}$ for
+throughput.  Processed series for Figs.~2, 3, and 5--7 are embedded in
+\path{gen-fig.py}; live runs produce client and per-replica logs.
+
+\subsection{Artifact Installation \& Configuration}
+
+From the repository root, verify the revision and both Compose configurations:
+
+\begin{commandbox}
+git rev-parse HEAD
+docker compose config --quiet
+docker compose --env-file .attack.env \
+  -f docker-compose.attack.yml config -q
+\end{commandbox}
+
+The revision must match \texttt{README-AE.md}, and both configuration checks
+must succeed.  E1 builds Rust inside Docker.  For E2:
+
+\begin{commandbox}
+python3 -m venv .venv-ae
+source .venv-ae/bin/activate
+python -m pip install -r \
+  requirements-plot.txt
+\end{commandbox}
+
+\subsection{Experiment Workflow}
+
+E0 validates the package; E1.1 and E1.2 run the local normal and DoS paths; E2
+renders the archived paper data; and optional E3 collects new global EC2 data.
+Because \texttt{run\_test.sh} clears \texttt{logs}, preserve each run first.
+For comparisons, use at least three repetitions with the same commit,
+environment, hardware, batch size, and attack rate, then compare medians.
+
+\subsection{Major Claims}
+
+\begin{itemize}
+    \setlength{\itemsep}{0pt}
+    \setlength{\parskip}{0pt}
+    \setlength{\parsep}{0pt}
+    \item \textbf{(C1) Sparse-load scalability.}  The confirmation latency of
+    Pompe grows faster with replica count.  At $n=100$, Fig.~5 reports about
+    22~s for Pompe and 12~s for Isotaxis.  E1.1 checks the path; E2 checks the
+    archived result.
+
+    \item \textbf{(C2) Throughput--latency trade-off.}  Batching initially
+    raises throughput until resource limits; Isotaxis's advantage grows with
+    $n$.  At $n=100$ and batch size $\approx1.3\times10^{4}$, it exceeds
+    28,000 transactions/s, nearly twice Pompe.  Figs.~3 and~6 are checked by E2
+    and optionally rerun by E3.
+
+    \item \textbf{(C3) Robustness to ordering-layer DoS.}  With one of 30
+    processes flooding, Fig.~7 shows Isotaxis changing from 2.597 to 3.067~s
+    and from 1,155 to 978 transactions/s; Pompe changes from 2.030 to 33.474~s
+    and from 1,478 to 90 transactions/s.  E1.2 checks the path and E2 the data.
+\end{itemize}
+
+The paper's safety, liveness, resilience, and asymptotic communication claims
+are established analytically and are not treated as artifact-evaluation
+claims.
+
+\subsection{Evaluation}
+
+\subsubsection{Experiment (E0): package and build validation}
+
+\textit{[5--20 human-minutes plus first-build time].}
+\textit{Preparation/Execution:} run the installation checks above.
+\textit{Results:} all commands exit zero and the revision matches; E1 must
+subsequently build four replica containers and the load generator.
+
+\subsubsection{Experiment (E1.1): local normal execution}
+
+\textit{[About 5 human-minutes and 4 compute-minutes per run].}
+\textit{Preparation:} in \texttt{.env}, set
+\texttt{CLIENT\_ORDERING\_MODE=smrol} and
+\texttt{ORDERING\_BATCH\_SIZE=1} for the four-node sparse-latency path.
+Use a larger batch for a throughput check.  \textit{Execution:}
+
+\begin{commandbox}
+./run_test.sh --rebuild
+./run_test.sh --reuse
+\end{commandbox}
+
+Repeat with \texttt{CLIENT\_ORDERING\_MODE=pompe} for the baseline.  Preserve
+the logs before switching.  \textit{Results:} \path{logs/load_test.log} contains
+aggregate ordering/consensus latency, and
+\path{logs/node/consensus-node*.log} shows continuing commits and throughput.
+This is the four-node counterpart of Figs.~3, 5, and~6, not their global scale.
+
+\subsubsection{Experiment (E1.2): local DoS execution}
+
+\textit{[About 5 human-minutes and 4 compute-minutes per run].}
+\textit{Preparation:} preserve matching E1.1 logs, then set in
+\texttt{.attack.env}:
+
+\begin{commandbox}
+CLIENT_ORDERING_MODE=smrol
+ADVERSARY_MODE=smrol
+CLIENT_EXCLUDED_NODE_IDS=1
+ATTACK_SLEEP_MICROS=100
+\end{commandbox}
+
+For Pompe, change both protocol variables to \texttt{pompe} and set
+\texttt{POMPE\_ATTACK\_WORKERS=4}.  \textit{Execution:}
+
+\begin{commandbox}
+./run_test.sh adversary --rebuild
+./run_test.sh adversary --reuse
+\end{commandbox}
+
+\textit{Results:} node1 reports the pure attacker and HotStuff participation;
+all replicas keep committing and the client prints its aggregate report.  Pompe
+also prints \texttt{[pompe-attacker][rate]}.  Across matched repetitions,
+Pompe's median ordering latency should degrade markedly, while Isotaxis remains
+comparatively stable, matching Fig.~7 qualitatively.  Illustrative four-node
+logs are in \path{log-examples/attack-logs}; new results are in \path{logs}.
+
+
+\subsubsection{Experiment (E2): regenerate the paper figures}
+
+\textit{[About 2 human-minutes; less than 1 compute-minute].}
+\textit{Preparation/Execution:}
+
+\begin{commandbox}
+source .venv-ae/bin/activate
+python gen-fig.py
+\end{commandbox}
+
+\textit{Results:} ten PDFs appear under path \path{python-fig}: those figures are the
+\path{attacks-intro}, \path{tradeoff-100-intro}, and \path{latency} PDFs map to
+Figs.~2, 3, and~5; the six \path{tps-*}/\path{tradeoff-*} PDFs map to Fig.~6;
+and \path{attacks-exp.pdf} maps to Fig.~7.  They must show the C1--C3 values
+above.  E2 renders archived processed series; it is not a new AWS measurement.
+
+\subsubsection{Experiment (E3): global AWS execution for Fig.~6}
+
+\textit{[Optional; about 5 compute-minutes per point or 4.5 compute-hours for
+the full sweep].}  This costly, state-changing workflow selects existing
+instances; first inspect the plan and dry-run:
+
+\begin{commandbox}
+cd ec2
+NODE_INSTANCE_TYPE=c6a.2xlarge \
+  ./start_instances.sh \
+  --plan plans/plan-16.json --dry-run
+\end{commandbox}
+
+Plans 16, 64, and 100 correspond to the Fig.~6 panels.  On an authorized
+account with initialized instances, \textit{execute:}
+
+\begin{commandbox}
+./start_instances.sh \
+  --plan plans/plan-16.json
+NODE_IP_SOURCE=public ./get_ips.sh
+\end{commandbox}
+
+\path{get_ips.sh} invokes \texttt{make deploy}, which runs, collects logs, and
+stops the instances; do not invoke \texttt{make deploy/start} again.  Repeat
+the documented batch/load sweep for both protocols and record the plan and
+configuration.  \textit{Results:} \path{ec2/ec2-logs} contains client latency
+and committed throughput for reconstructing the selected Fig.~6 panel.
+
+\subsection{Customization}
+
+Use \texttt{.env} for normal runs and \texttt{.attack.env} for attacks.  Main
+controls are the protocol, ordering batch size, excluded client targets, attack
+interval, and Pompe worker count.  An \path{ec2/plans/plan-x.json} selects the
+distributed replica count and regions.  Record any CPU-affinity changes.
+
+% Remove the following block when merging the appendix with the camera-ready paper.
+%%%
+\end{document}
+%%%

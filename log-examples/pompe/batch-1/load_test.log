@@ -1,0 +1,283 @@
+2026-08-08T12:18:10.118711Z  INFO ThreadId(01) client: [logger] client logging initialized with filter 'info'
+2026-08-08T12:18:10.119629Z  INFO ThreadId(01) client: [client] transaction send mode: Pompe
+2026-08-08T12:18:10.120433Z  INFO ThreadId(01) client: [client] starting separated-state client: load_tester_001
+2026-08-08T12:18:10.121167Z  INFO ThreadId(01) client: [client] individual latency logging: disabled (aggregate summaries only); warm-up=5 s; aggregate interval=100 consensus samples
+2026-08-08T12:18:10.121506Z  INFO ThreadId(01) client: [client] initializing core: load_tester_001
+2026-08-08T12:18:10.122086Z  INFO ThreadId(01) client: [client] waiting for consensus nodes to start...
+2026-08-08T12:18:30.125129Z  INFO ThreadId(01) client: [client] establishing persistent connections to all nodes...
+2026-08-08T12:18:30.126030Z  INFO ThreadId(01) client: Resolved address for node 0: node0:9000
+2026-08-08T12:18:30.126155Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 0: node0:9000
+2026-08-08T12:18:30.130072Z  WARN ThreadId(01) client: [client] failed to connect to node 0 on attempt 1/10: Connection refused (os error 111); retrying in 500 ms
+2026-08-08T12:18:30.632230Z  INFO ThreadId(01) client: Resolved address for node 0: node0:9000
+2026-08-08T12:18:30.636133Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 0: node0:9000
+2026-08-08T12:18:30.650013Z  INFO ThreadId(01) client: [client] established persistent connection to node 0
+2026-08-08T12:18:30.654377Z  INFO ThreadId(01) client: [client] connected to node 0 on attempt 2/10
+2026-08-08T12:18:30.651788Z  INFO ThreadId(08) client: [client] starting response receiver for node 0
+2026-08-08T12:18:30.664105Z  INFO ThreadId(01) client: Resolved address for node 1: node1:9000
+2026-08-08T12:18:30.675175Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 1: node1:9000
+2026-08-08T12:18:30.682558Z  INFO ThreadId(01) client: [client] established persistent connection to node 1
+2026-08-08T12:18:30.682565Z  INFO ThreadId(08) client: [client] starting response receiver for node 1
+2026-08-08T12:18:30.687836Z  INFO ThreadId(01) client: [client] connected to node 1 on attempt 1/10
+2026-08-08T12:18:30.692091Z  INFO ThreadId(01) client: Resolved address for node 2: node2:9000
+2026-08-08T12:18:30.698414Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 2: node2:9000
+2026-08-08T12:18:30.700450Z  INFO ThreadId(01) client: [client] established persistent connection to node 2
+2026-08-08T12:18:30.703560Z  INFO ThreadId(01) client: [client] connected to node 2 on attempt 1/10
+2026-08-08T12:18:30.700511Z  INFO ThreadId(08) client: [client] starting response receiver for node 2
+2026-08-08T12:18:30.710012Z  INFO ThreadId(01) client: Resolved address for node 3: node3:9000
+2026-08-08T12:18:30.725177Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 3: node3:9000
+2026-08-08T12:18:30.733431Z  INFO ThreadId(01) client: [client] established persistent connection to node 3
+2026-08-08T12:18:30.733440Z  INFO ThreadId(08) client: [client] starting response receiver for node 3
+2026-08-08T12:18:30.734443Z  INFO ThreadId(01) client: [client] connected to node 3 on attempt 1/10
+2026-08-08T12:18:30.734605Z  INFO ThreadId(01) client: [client] established 4 persistent connections
+2026-08-08T12:18:30.734669Z  INFO ThreadId(01) client: [client] target TPS: 400 x n
+2026-08-08T12:18:30.734740Z  INFO ThreadId(01) client: [client] consensus-only warm-up for 5 s; no transactions will be sent
+2026-08-08T12:18:35.736546Z  INFO ThreadId(01) client: [client] consensus-only warm-up complete; starting load test
+2026-08-08T12:18:35.740833Z  INFO ThreadId(01) client: [load-test] starting load test - target TPS: 400, duration: 100 s
+2026-08-08T12:18:35.741656Z  INFO ThreadId(01) client: [load-test] overriding batch size via ORDERING_BATCH_SIZE=1
+2026-08-08T12:18:35.743217Z  INFO ThreadId(01) client: [load-test] dispatching one batch per interval in round-robin order across 4 nodes; aggregate client rate does not scale with node count
+2026-08-08T12:18:35.743960Z  INFO ThreadId(01) client: [client-stats] first generated batch: physical txs=1, total bincode tx bytes=58, avg tx bytes=58.0
+2026-08-08T12:18:55.669101Z  INFO ThreadId(06) client: [latency] ============= aggregate latency report =============
+2026-08-08T12:18:55.669900Z  INFO ThreadId(06) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-08T12:18:55.670733Z  INFO ThreadId(06) client: [latency] excluded warm-up transactions=0
+2026-08-08T12:18:55.671605Z  INFO ThreadId(06) client: [ordering] latency statistics (samples: 102):
+2026-08-08T12:18:55.672107Z  INFO ThreadId(06) client:   Average: 2.59 ms
+2026-08-08T12:18:55.672353Z  INFO ThreadId(06) client:   P50: 1.841 ms
+2026-08-08T12:18:55.673077Z  INFO ThreadId(06) client:   P95: 6.321 ms
+2026-08-08T12:18:55.673517Z  INFO ThreadId(06) client:   P99: 17.111 ms
+2026-08-08T12:18:55.674996Z  INFO ThreadId(06) client: [consensus] latency statistics (samples: 100):
+2026-08-08T12:18:55.675318Z  INFO ThreadId(06) client:   Average: 810.58 ms
+2026-08-08T12:18:55.675650Z  INFO ThreadId(06) client:   P50: 676.667 ms
+2026-08-08T12:18:55.676026Z  INFO ThreadId(06) client:   P95: 1929.721 ms
+2026-08-08T12:18:55.676292Z  INFO ThreadId(06) client:   P99: 2171.04 ms
+2026-08-08T12:18:55.677390Z  INFO ThreadId(06) client: [pushed2hotstuff->consensus] latency statistics (samples: 100):
+2026-08-08T12:18:55.677564Z  INFO ThreadId(06) client:   Average: 610.97 ms
+2026-08-08T12:18:55.680299Z  INFO ThreadId(06) client:   P50: 501.969 ms
+2026-08-08T12:18:55.680617Z  INFO ThreadId(06) client:   P95: 1766.607 ms
+2026-08-08T12:18:55.680820Z  INFO ThreadId(06) client:   P99: 1951.953 ms
+2026-08-08T12:18:55.680970Z  INFO ThreadId(06) client: [latency] comparison analysis:
+2026-08-08T12:18:55.681166Z  INFO ThreadId(06) client:   Ordering average: 2.59 ms
+2026-08-08T12:18:55.681278Z  INFO ThreadId(06) client:   Consensus average: 810.58 ms
+2026-08-08T12:18:55.681391Z  INFO ThreadId(06) client:   Consensus/Ordering ratio: 312.56x
+2026-08-08T12:18:55.681774Z  INFO ThreadId(06) client:   Pushed2HotStuff->Consensus average: 610.97 ms
+2026-08-08T12:18:55.683772Z  INFO ThreadId(06) client: 📊 ==========================================
+2026-08-08T12:19:15.974026Z  INFO ThreadId(02) client: [latency] ============= aggregate latency report =============
+2026-08-08T12:19:15.974341Z  INFO ThreadId(02) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-08T12:19:15.974565Z  INFO ThreadId(02) client: [latency] excluded warm-up transactions=0
+2026-08-08T12:19:15.975115Z  INFO ThreadId(02) client: [ordering] latency statistics (samples: 202):
+2026-08-08T12:19:15.975236Z  INFO ThreadId(02) client:   Average: 2.61 ms
+2026-08-08T12:19:15.975519Z  INFO ThreadId(02) client:   P50: 1.77 ms
+2026-08-08T12:19:15.975611Z  INFO ThreadId(02) client:   P95: 5.455 ms
+2026-08-08T12:19:15.975938Z  INFO ThreadId(02) client:   P99: 17.966 ms
+2026-08-08T12:19:15.976025Z  INFO ThreadId(02) client: [consensus] latency statistics (samples: 200):
+2026-08-08T12:19:15.976198Z  INFO ThreadId(02) client:   Average: 644.94 ms
+2026-08-08T12:19:15.976494Z  INFO ThreadId(02) client:   P50: 413.028 ms
+2026-08-08T12:19:15.976892Z  INFO ThreadId(02) client:   P95: 1772.487 ms
+2026-08-08T12:19:15.977691Z  INFO ThreadId(02) client:   P99: 2171.04 ms
+2026-08-08T12:19:15.977785Z  INFO ThreadId(02) client: [pushed2hotstuff->consensus] latency statistics (samples: 200):
+2026-08-08T12:19:15.977873Z  INFO ThreadId(02) client:   Average: 442.93 ms
+2026-08-08T12:19:15.978206Z  INFO ThreadId(02) client:   P50: 221.826 ms
+2026-08-08T12:19:15.978279Z  INFO ThreadId(02) client:   P95: 1582.862 ms
+2026-08-08T12:19:15.978605Z  INFO ThreadId(02) client:   P99: 1951.953 ms
+2026-08-08T12:19:15.979033Z  INFO ThreadId(02) client: [latency] comparison analysis:
+2026-08-08T12:19:15.979123Z  INFO ThreadId(02) client:   Ordering average: 2.61 ms
+2026-08-08T12:19:15.979298Z  INFO ThreadId(02) client:   Consensus average: 644.94 ms
+2026-08-08T12:19:15.979710Z  INFO ThreadId(02) client:   Consensus/Ordering ratio: 246.72x
+2026-08-08T12:19:15.979902Z  INFO ThreadId(02) client:   Pushed2HotStuff->Consensus average: 442.93 ms
+2026-08-08T12:19:15.980047Z  INFO ThreadId(02) client: 📊 ==========================================
+2026-08-08T12:19:36.380725Z  INFO ThreadId(05) client: [latency] ============= aggregate latency report =============
+2026-08-08T12:19:36.381644Z  INFO ThreadId(05) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-08T12:19:36.382492Z  INFO ThreadId(05) client: [latency] excluded warm-up transactions=0
+2026-08-08T12:19:36.383797Z  INFO ThreadId(05) client: [ordering] latency statistics (samples: 302):
+2026-08-08T12:19:36.384630Z  INFO ThreadId(05) client:   Average: 2.89 ms
+2026-08-08T12:19:36.384869Z  INFO ThreadId(05) client:   P50: 1.732 ms
+2026-08-08T12:19:36.385516Z  INFO ThreadId(05) client:   P95: 6.321 ms
+2026-08-08T12:19:36.386495Z  INFO ThreadId(05) client:   P99: 20.407 ms
+2026-08-08T12:19:36.387265Z  INFO ThreadId(05) client: [consensus] latency statistics (samples: 300):
+2026-08-08T12:19:36.387530Z  INFO ThreadId(05) client:   Average: 599.40 ms
+2026-08-08T12:19:36.388231Z  INFO ThreadId(05) client:   P50: 354.085 ms
+2026-08-08T12:19:36.388622Z  INFO ThreadId(05) client:   P95: 1811.714 ms
+2026-08-08T12:19:36.389527Z  INFO ThreadId(05) client:   P99: 2215.188 ms
+2026-08-08T12:19:36.393286Z  INFO ThreadId(05) client: [pushed2hotstuff->consensus] latency statistics (samples: 300):
+2026-08-08T12:19:36.394007Z  INFO ThreadId(05) client:   Average: 395.32 ms
+2026-08-08T12:19:36.395080Z  INFO ThreadId(05) client:   P50: 136.903 ms
+2026-08-08T12:19:36.395246Z  INFO ThreadId(05) client:   P95: 1604.7 ms
+2026-08-08T12:19:36.396449Z  INFO ThreadId(05) client:   P99: 1979.65 ms
+2026-08-08T12:19:36.396938Z  INFO ThreadId(05) client: [latency] comparison analysis:
+2026-08-08T12:19:36.397231Z  INFO ThreadId(05) client:   Ordering average: 2.89 ms
+2026-08-08T12:19:36.397811Z  INFO ThreadId(05) client:   Consensus average: 599.40 ms
+2026-08-08T12:19:36.399067Z  INFO ThreadId(05) client:   Consensus/Ordering ratio: 207.55x
+2026-08-08T12:19:36.400138Z  INFO ThreadId(05) client:   Pushed2HotStuff->Consensus average: 395.32 ms
+2026-08-08T12:19:36.400588Z  INFO ThreadId(05) client: 📊 ==========================================
+2026-08-08T12:19:56.306234Z  INFO ThreadId(04) client: [latency] ============= aggregate latency report =============
+2026-08-08T12:19:56.307251Z  INFO ThreadId(04) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-08T12:19:56.307745Z  INFO ThreadId(04) client: [latency] excluded warm-up transactions=0
+2026-08-08T12:19:56.308047Z  INFO ThreadId(04) client: [ordering] latency statistics (samples: 402):
+2026-08-08T12:19:56.308278Z  INFO ThreadId(04) client:   Average: 2.96 ms
+2026-08-08T12:19:56.308506Z  INFO ThreadId(04) client:   P50: 1.748 ms
+2026-08-08T12:19:56.308907Z  INFO ThreadId(04) client:   P95: 7.362 ms
+2026-08-08T12:19:56.309125Z  INFO ThreadId(04) client:   P99: 20.407 ms
+2026-08-08T12:19:56.309383Z  INFO ThreadId(04) client: [consensus] latency statistics (samples: 400):
+2026-08-08T12:19:56.310751Z  INFO ThreadId(04) client:   Average: 526.86 ms
+2026-08-08T12:19:56.311421Z  INFO ThreadId(04) client:   P50: 330.029 ms
+2026-08-08T12:19:56.312408Z  INFO ThreadId(04) client:   P95: 1612.228 ms
+2026-08-08T12:19:56.312938Z  INFO ThreadId(04) client:   P99: 2171.04 ms
+2026-08-08T12:19:56.313653Z  INFO ThreadId(04) client: [pushed2hotstuff->consensus] latency statistics (samples: 400):
+2026-08-08T12:19:56.315104Z  INFO ThreadId(04) client:   Average: 323.07 ms
+2026-08-08T12:19:56.315273Z  INFO ThreadId(04) client:   P50: 118.73 ms
+2026-08-08T12:19:56.315442Z  INFO ThreadId(04) client:   P95: 1438.08 ms
+2026-08-08T12:19:56.315809Z  INFO ThreadId(04) client:   P99: 1951.953 ms
+2026-08-08T12:19:56.315958Z  INFO ThreadId(04) client: [latency] comparison analysis:
+2026-08-08T12:19:56.316326Z  INFO ThreadId(04) client:   Ordering average: 2.96 ms
+2026-08-08T12:19:56.316957Z  INFO ThreadId(04) client:   Consensus average: 526.86 ms
+2026-08-08T12:19:56.317105Z  INFO ThreadId(04) client:   Consensus/Ordering ratio: 178.16x
+2026-08-08T12:19:56.317508Z  INFO ThreadId(04) client:   Pushed2HotStuff->Consensus average: 323.07 ms
+2026-08-08T12:19:56.318058Z  INFO ThreadId(04) client: 📊 ==========================================
+2026-08-08T12:20:16.709945Z  INFO ThreadId(06) client: [latency] ============= aggregate latency report =============
+2026-08-08T12:20:16.712194Z  INFO ThreadId(06) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-08T12:20:16.713110Z  INFO ThreadId(06) client: [latency] excluded warm-up transactions=0
+2026-08-08T12:20:16.716035Z  INFO ThreadId(06) client: [ordering] latency statistics (samples: 502):
+2026-08-08T12:20:16.717690Z  INFO ThreadId(06) client:   Average: 2.83 ms
+2026-08-08T12:20:16.717823Z  INFO ThreadId(06) client:   P50: 1.744 ms
+2026-08-08T12:20:16.717903Z  INFO ThreadId(06) client:   P95: 6.968 ms
+2026-08-08T12:20:16.717971Z  INFO ThreadId(06) client:   P99: 19.87 ms
+2026-08-08T12:20:16.718457Z  INFO ThreadId(06) client: [consensus] latency statistics (samples: 500):
+2026-08-08T12:20:16.718645Z  INFO ThreadId(06) client:   Average: 483.71 ms
+2026-08-08T12:20:16.719680Z  INFO ThreadId(06) client:   P50: 323.423 ms
+2026-08-08T12:20:16.720019Z  INFO ThreadId(06) client:   P95: 1471.339 ms
+2026-08-08T12:20:16.720353Z  INFO ThreadId(06) client:   P99: 2165.423 ms
+2026-08-08T12:20:16.721098Z  INFO ThreadId(06) client: [pushed2hotstuff->consensus] latency statistics (samples: 500):
+2026-08-08T12:20:16.721276Z  INFO ThreadId(06) client:   Average: 279.50 ms
+2026-08-08T12:20:16.721460Z  INFO ThreadId(06) client:   P50: 111.302 ms
+2026-08-08T12:20:16.721566Z  INFO ThreadId(06) client:   P95: 1287.95 ms
+2026-08-08T12:20:16.721688Z  INFO ThreadId(06) client:   P99: 1927.606 ms
+2026-08-08T12:20:16.722140Z  INFO ThreadId(06) client: [latency] comparison analysis:
+2026-08-08T12:20:16.722663Z  INFO ThreadId(06) client:   Ordering average: 2.83 ms
+2026-08-08T12:20:16.722885Z  INFO ThreadId(06) client:   Consensus average: 483.71 ms
+2026-08-08T12:20:16.723000Z  INFO ThreadId(06) client:   Consensus/Ordering ratio: 171.08x
+2026-08-08T12:20:16.723176Z  INFO ThreadId(06) client:   Pushed2HotStuff->Consensus average: 279.50 ms
+2026-08-08T12:20:16.723258Z  INFO ThreadId(06) client: 📊 ==========================================
+2026-08-08T12:20:36.972137Z  INFO ThreadId(05) client: [latency] ============= aggregate latency report =============
+2026-08-08T12:20:36.972585Z  INFO ThreadId(05) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-08T12:20:36.974412Z  INFO ThreadId(05) client: [latency] excluded warm-up transactions=0
+2026-08-08T12:20:36.975076Z  INFO ThreadId(05) client: [ordering] latency statistics (samples: 603):
+2026-08-08T12:20:36.975800Z  INFO ThreadId(05) client:   Average: 2.91 ms
+2026-08-08T12:20:36.976068Z  INFO ThreadId(05) client:   P50: 1.737 ms
+2026-08-08T12:20:36.976850Z  INFO ThreadId(05) client:   P95: 7.351 ms
+2026-08-08T12:20:36.977022Z  INFO ThreadId(05) client:   P99: 20.407 ms
+2026-08-08T12:20:36.978178Z  INFO ThreadId(05) client: [consensus] latency statistics (samples: 600):
+2026-08-08T12:20:36.978664Z  INFO ThreadId(05) client:   Average: 488.91 ms
+2026-08-08T12:20:36.980295Z  INFO ThreadId(05) client:   P50: 321.388 ms
+2026-08-08T12:20:36.980793Z  INFO ThreadId(05) client:   P95: 1576.105 ms
+2026-08-08T12:20:36.980992Z  INFO ThreadId(05) client:   P99: 2166.93 ms
+2026-08-08T12:20:36.982215Z  INFO ThreadId(05) client: [pushed2hotstuff->consensus] latency statistics (samples: 600):
+2026-08-08T12:20:36.984152Z  INFO ThreadId(05) client:   Average: 284.69 ms
+2026-08-08T12:20:36.984358Z  INFO ThreadId(05) client:   P50: 109.182 ms
+2026-08-08T12:20:36.984665Z  INFO ThreadId(05) client:   P95: 1368.422 ms
+2026-08-08T12:20:36.984974Z  INFO ThreadId(05) client:   P99: 1951.953 ms
+2026-08-08T12:20:36.986411Z  INFO ThreadId(05) client: [latency] comparison analysis:
+2026-08-08T12:20:36.987026Z  INFO ThreadId(05) client:   Ordering average: 2.91 ms
+2026-08-08T12:20:36.987168Z  INFO ThreadId(05) client:   Consensus average: 488.91 ms
+2026-08-08T12:20:36.987480Z  INFO ThreadId(05) client:   Consensus/Ordering ratio: 167.91x
+2026-08-08T12:20:36.987641Z  INFO ThreadId(05) client:   Pushed2HotStuff->Consensus average: 284.69 ms
+2026-08-08T12:20:36.987777Z  INFO ThreadId(05) client: 📊 ==========================================
+2026-08-08T12:20:57.366983Z  INFO ThreadId(05) client: [latency] ============= aggregate latency report =============
+2026-08-08T12:20:57.367565Z  INFO ThreadId(05) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-08T12:20:57.367709Z  INFO ThreadId(05) client: [latency] excluded warm-up transactions=0
+2026-08-08T12:20:57.367884Z  INFO ThreadId(05) client: [ordering] latency statistics (samples: 703):
+2026-08-08T12:20:57.368022Z  INFO ThreadId(05) client:   Average: 2.88 ms
+2026-08-08T12:20:57.368442Z  INFO ThreadId(05) client:   P50: 1.744 ms
+2026-08-08T12:20:57.368611Z  INFO ThreadId(05) client:   P95: 7.351 ms
+2026-08-08T12:20:57.368796Z  INFO ThreadId(05) client:   P99: 19.87 ms
+2026-08-08T12:20:57.369204Z  INFO ThreadId(05) client: [consensus] latency statistics (samples: 700):
+2026-08-08T12:20:57.369297Z  INFO ThreadId(05) client:   Average: 465.53 ms
+2026-08-08T12:20:57.369406Z  INFO ThreadId(05) client:   P50: 321.388 ms
+2026-08-08T12:20:57.370384Z  INFO ThreadId(05) client:   P95: 1442.713 ms
+2026-08-08T12:20:57.370578Z  INFO ThreadId(05) client:   P99: 2165.423 ms
+2026-08-08T12:20:57.370706Z  INFO ThreadId(05) client: [pushed2hotstuff->consensus] latency statistics (samples: 700):
+2026-08-08T12:20:57.370781Z  INFO ThreadId(05) client:   Average: 261.10 ms
+2026-08-08T12:20:57.370948Z  INFO ThreadId(05) client:   P50: 109.509 ms
+2026-08-08T12:20:57.371024Z  INFO ThreadId(05) client:   P95: 1271.547 ms
+2026-08-08T12:20:57.371137Z  INFO ThreadId(05) client:   P99: 1927.606 ms
+2026-08-08T12:20:57.371228Z  INFO ThreadId(05) client: [latency] comparison analysis:
+2026-08-08T12:20:57.371342Z  INFO ThreadId(05) client:   Ordering average: 2.88 ms
+2026-08-08T12:20:57.371777Z  INFO ThreadId(05) client:   Consensus average: 465.53 ms
+2026-08-08T12:20:57.371987Z  INFO ThreadId(05) client:   Consensus/Ordering ratio: 161.67x
+2026-08-08T12:20:57.372103Z  INFO ThreadId(05) client:   Pushed2HotStuff->Consensus average: 261.10 ms
+2026-08-08T12:20:57.372204Z  INFO ThreadId(05) client: 📊 ==========================================
+2026-08-08T12:21:17.825783Z  INFO ThreadId(02) client: [latency] ============= aggregate latency report =============
+2026-08-08T12:21:17.826332Z  INFO ThreadId(02) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-08T12:21:17.827030Z  INFO ThreadId(02) client: [latency] excluded warm-up transactions=0
+2026-08-08T12:21:17.828258Z  INFO ThreadId(02) client: [ordering] latency statistics (samples: 803):
+2026-08-08T12:21:17.828450Z  INFO ThreadId(02) client:   Average: 3.12 ms
+2026-08-08T12:21:17.829245Z  INFO ThreadId(02) client:   P50: 1.79 ms
+2026-08-08T12:21:17.829382Z  INFO ThreadId(02) client:   P95: 8.187 ms
+2026-08-08T12:21:17.830942Z  INFO ThreadId(02) client:   P99: 21.437 ms
+2026-08-08T12:21:17.831123Z  INFO ThreadId(02) client: [consensus] latency statistics (samples: 800):
+2026-08-08T12:21:17.831350Z  INFO ThreadId(02) client:   Average: 476.97 ms
+2026-08-08T12:21:17.832034Z  INFO ThreadId(02) client:   P50: 326.202 ms
+2026-08-08T12:21:17.832206Z  INFO ThreadId(02) client:   P95: 1544.507 ms
+2026-08-08T12:21:17.832398Z  INFO ThreadId(02) client:   P99: 2166.93 ms
+2026-08-08T12:21:17.832661Z  INFO ThreadId(02) client: [pushed2hotstuff->consensus] latency statistics (samples: 800):
+2026-08-08T12:21:17.833054Z  INFO ThreadId(02) client:   Average: 272.13 ms
+2026-08-08T12:21:17.833412Z  INFO ThreadId(02) client:   P50: 115.134 ms
+2026-08-08T12:21:17.833618Z  INFO ThreadId(02) client:   P95: 1334.105 ms
+2026-08-08T12:21:17.833821Z  INFO ThreadId(02) client:   P99: 1951.953 ms
+2026-08-08T12:21:17.835168Z  INFO ThreadId(02) client: [latency] comparison analysis:
+2026-08-08T12:21:17.835384Z  INFO ThreadId(02) client:   Ordering average: 3.12 ms
+2026-08-08T12:21:17.835818Z  INFO ThreadId(02) client:   Consensus average: 476.97 ms
+2026-08-08T12:21:17.836090Z  INFO ThreadId(02) client:   Consensus/Ordering ratio: 152.86x
+2026-08-08T12:21:17.836684Z  INFO ThreadId(02) client:   Pushed2HotStuff->Consensus average: 272.13 ms
+2026-08-08T12:21:17.836804Z  INFO ThreadId(02) client: 📊 ==========================================
+2026-08-08T12:21:38.358358Z  INFO ThreadId(04) client: [latency] ============= aggregate latency report =============
+2026-08-08T12:21:38.360911Z  INFO ThreadId(04) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-08T12:21:38.369029Z  INFO ThreadId(04) client: [latency] excluded warm-up transactions=0
+2026-08-08T12:21:38.372004Z  INFO ThreadId(04) client: [ordering] latency statistics (samples: 903):
+2026-08-08T12:21:38.372546Z  INFO ThreadId(04) client:   Average: 3.13 ms
+2026-08-08T12:21:38.373232Z  INFO ThreadId(04) client:   P50: 1.805 ms
+2026-08-08T12:21:38.373692Z  INFO ThreadId(04) client:   P95: 8.187 ms
+2026-08-08T12:21:38.379582Z  INFO ThreadId(04) client:   P99: 21.437 ms
+2026-08-08T12:21:38.383352Z  INFO ThreadId(04) client: [consensus] latency statistics (samples: 900):
+2026-08-08T12:21:38.384292Z  INFO ThreadId(04) client:   Average: 462.23 ms
+2026-08-08T12:21:38.384685Z  INFO ThreadId(04) client:   P50: 328.444 ms
+2026-08-08T12:21:38.384880Z  INFO ThreadId(04) client:   P95: 1442.713 ms
+2026-08-08T12:21:38.385179Z  INFO ThreadId(04) client:   P99: 2165.423 ms
+2026-08-08T12:21:38.385311Z  INFO ThreadId(04) client: [pushed2hotstuff->consensus] latency statistics (samples: 900):
+2026-08-08T12:21:38.386020Z  INFO ThreadId(04) client:   Average: 256.97 ms
+2026-08-08T12:21:38.386122Z  INFO ThreadId(04) client:   P50: 117.431 ms
+2026-08-08T12:21:38.386354Z  INFO ThreadId(04) client:   P95: 1271.547 ms
+2026-08-08T12:21:38.391059Z  INFO ThreadId(04) client:   P99: 1941.199 ms
+2026-08-08T12:21:38.393361Z  INFO ThreadId(04) client: [latency] comparison analysis:
+2026-08-08T12:21:38.401348Z  INFO ThreadId(04) client:   Ordering average: 3.13 ms
+2026-08-08T12:21:38.403747Z  INFO ThreadId(04) client:   Consensus average: 462.23 ms
+2026-08-08T12:21:38.408066Z  INFO ThreadId(04) client:   Consensus/Ordering ratio: 147.45x
+2026-08-08T12:21:38.411929Z  INFO ThreadId(04) client:   Pushed2HotStuff->Consensus average: 256.97 ms
+2026-08-08T12:21:38.415300Z  INFO ThreadId(04) client: 📊 ==========================================
+2026-08-08T12:21:57.784321Z  INFO ThreadId(01) client: [load-test] completed; total transactions sent: 1000
+2026-08-08T12:21:57.795763Z  INFO ThreadId(01) client: [client-stats] sent: 1000, confirmed: 1000, failed: 0, TPS: 4.95, success rate: 100.0%, avg tx bytes: 57.3
+2026-08-08T12:21:57.801978Z  INFO ThreadId(01) client: [client] load test complete; awaiting response processing...
+2026-08-08T12:22:01.741474Z  INFO ThreadId(01) client: [client] shutdown signal received while draining responses
+2026-08-08T12:22:01.741672Z  INFO ThreadId(01) client: [latency] final summary before client exit
+2026-08-08T12:22:01.741799Z  INFO ThreadId(01) client: [latency] ============= aggregate latency report =============
+2026-08-08T12:22:01.741922Z  INFO ThreadId(01) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-08T12:22:01.742036Z  INFO ThreadId(01) client: [latency] excluded warm-up transactions=0
+2026-08-08T12:22:01.742273Z  INFO ThreadId(01) client: [ordering] latency statistics (samples: 1000):
+2026-08-08T12:22:01.742374Z  INFO ThreadId(01) client:   Average: 3.27 ms
+2026-08-08T12:22:01.742472Z  INFO ThreadId(01) client:   P50: 1.817 ms
+2026-08-08T12:22:01.742555Z  INFO ThreadId(01) client:   P95: 8.526 ms
+2026-08-08T12:22:01.742649Z  INFO ThreadId(01) client:   P99: 27.106 ms
+2026-08-08T12:22:01.742776Z  INFO ThreadId(01) client: [consensus] latency statistics (samples: 997):
+2026-08-08T12:22:01.742970Z  INFO ThreadId(01) client:   Average: 453.71 ms
+2026-08-08T12:22:01.743062Z  INFO ThreadId(01) client:   P50: 331.153 ms
+2026-08-08T12:22:01.743154Z  INFO ThreadId(01) client:   P95: 1343.464 ms
+2026-08-08T12:22:01.743264Z  INFO ThreadId(01) client:   P99: 2158.851 ms
+2026-08-08T12:22:01.743479Z  INFO ThreadId(01) client: [pushed2hotstuff->consensus] latency statistics (samples: 997):
+2026-08-08T12:22:01.743574Z  INFO ThreadId(01) client:   Average: 248.76 ms
+2026-08-08T12:22:01.743648Z  INFO ThreadId(01) client:   P50: 121.077 ms
+2026-08-08T12:22:01.743719Z  INFO ThreadId(01) client:   P95: 1153.995 ms
+2026-08-08T12:22:01.743780Z  INFO ThreadId(01) client:   P99: 1927.606 ms
+2026-08-08T12:22:01.743849Z  INFO ThreadId(01) client: [latency] comparison analysis:
+2026-08-08T12:22:01.743950Z  INFO ThreadId(01) client:   Ordering average: 3.27 ms
+2026-08-08T12:22:01.744197Z  INFO ThreadId(01) client:   Consensus average: 453.71 ms
+2026-08-08T12:22:01.744294Z  INFO ThreadId(01) client:   Consensus/Ordering ratio: 138.79x
+2026-08-08T12:22:01.744527Z  INFO ThreadId(01) client:   Pushed2HotStuff->Consensus average: 248.76 ms
+2026-08-08T12:22:01.744616Z  INFO ThreadId(01) client: 📊 ==========================================

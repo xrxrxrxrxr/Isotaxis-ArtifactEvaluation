@@ -1,0 +1,9 @@
+smrol_threshold_task_exec_ms_count{task="pnfifo_sign",pool="pnfifo"} 96
+smrol_threshold_task_exec_ms_count{task="verify_seq_order_batch",pool="seq_offload"} 24
+smrol_threshold_task_exec_ms_count{task="multisig_sign",pool="multisig_sign_combine"} 24
+smrol_threshold_task_exec_ms_count{task="aggregate_median_signatures",pool="multisig_sign_combine"} 6
+smrol_threshold_task_exec_ms_count{task="pnfifo_verify_final",pool="pnfifo"} 96
+smrol_threshold_task_exec_ms_count{task="verify_median_signature",pool="multisig_verify_median"} 12
+smrol_threshold_task_exec_ms_count{task="pnfifo_verify_share",pool="pnfifo"} 96
+smrol_threshold_task_exec_ms_count{task="pnfifo_combine",pool="pnfifo"} 24
+smrol_threshold_task_exec_ms_count{task="verify_combined_signature",pool="multisig_verify_combined"} 24

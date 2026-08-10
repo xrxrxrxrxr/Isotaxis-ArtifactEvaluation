@@ -1,0 +1,31 @@
+# version: '3.8'
+
+services:
+  hotstuff-client:
+    image: ${HOTSTUFF_IMAGE:-georgiaxr/hs-test:latest@sha256:143eaa72aec71dbc287176ff05f9e65207e5027d7a6abd76b970d06684541e31}
+    container_name: hotstuff_client
+    hostname: client
+    network_mode: host
+    command: ["client"]  # Run the client binary
+    environment:
+      - CLIENT_ID=${CLIENT_ID}
+      - CLIENT_MODE=${CLIENT_MODE}
+      - NODE_LEAST_ID=${NODE_LEAST_ID}
+      - NODE_NUM=${NODE_NUM}
+      - NODE_HOSTS=${NODE_HOSTS}
+      - TEST_DURATION=${TEST_DURATION}
+      - RUST_LOG=${RUST_LOG}
+      - CLIENT_LOG_LEVEL=${CLIENT_LOG_LEVEL:-info}
+      - CLIENT_ORDERING_MODE=${CLIENT_ORDERING_MODE}
+      - TARGET_TPS=500
+      - CLIENT_TOTAL_TX=1000
+      - ORDERING_BATCH_SIZE=130000  # batch mode (batch-tps test)
+      - CLIENT_BATCH_SIZE_CONSTANT=1 # normal batch per node
+      # - HOTSTUFF_NODE_LEAST_ID_VALUE=1
+
+    volumes:
+      - ./logs:/logs
+      - ./logs:/log
+    restart: "no"
+    profiles:
+      - client

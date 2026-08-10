@@ -1,0 +1,1265 @@
+[2026-08-06 11:44:30.066][INFO] Node 0 starting view 2
+[2026-08-06 11:44:30.135][INFO] Node 0 starting view 3
+[2026-08-06 11:44:30.152][INFO] Node 0 starting view 4
+[2026-08-06 11:44:30.157][INFO] 💎 Node 0 Commit block - Height: 0, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 1, tx_ids.len= 0
+[2026-08-06 11:44:30.159][INFO] 💎 Node 0 Commit block - Height: 1, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 2, tx_ids.len= 0
+[2026-08-06 11:44:30.167][INFO] Node 0 starting view 5
+[2026-08-06 11:44:30.170][INFO] Node 0 starting view 6
+[2026-08-06 11:44:30.176][INFO] 💎 Node 0 Commit block - Height: 2, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 3, tx_ids.len= 0
+[2026-08-06 11:44:30.179][INFO] Node 0 starting view 7
+[2026-08-06 11:44:30.184][INFO] 💎 Node 0 Commit block - Height: 3, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 4, tx_ids.len= 0
+[2026-08-06 11:44:30.187][INFO] Node 0 starting view 8
+[2026-08-06 11:44:30.190][INFO] 💎 Node 0 Commit block - Height: 4, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 5, tx_ids.len= 0
+[2026-08-06 11:44:30.193][INFO] 💎 Node 0 Commit block - Height: 5, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 6, tx_ids.len= 0
+[2026-08-06 11:44:30.198][INFO] Node 0 starting view 9
+[2026-08-06 11:44:30.201][INFO] Node 0 starting view 10
+[2026-08-06 11:44:30.206][INFO] 💎 Node 0 Commit block - Height: 6, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 7, tx_ids.len= 0
+[2026-08-06 11:44:30.209][INFO] Node 0 starting view 11
+[2026-08-06 11:44:30.211][INFO] 💎 Node 0 Commit block - Height: 7, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 8, tx_ids.len= 0
+[2026-08-06 11:44:30.219][INFO] Node 0 starting view 12
+[2026-08-06 11:44:30.221][INFO] 💎 Node 0 Commit block - Height: 8, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 9, tx_ids.len= 0
+[2026-08-06 11:44:30.222][INFO] 💎 Node 0 Commit block - Height: 9, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 10, tx_ids.len= 0
+[2026-08-06 11:44:30.230][INFO] Node 0 starting view 13
+[2026-08-06 11:44:30.233][INFO] Node 0 starting view 14
+[2026-08-06 11:44:30.237][INFO] 💎 Node 0 Commit block - Height: 10, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 11, tx_ids.len= 0
+[2026-08-06 11:44:30.241][INFO] Node 0 starting view 15
+[2026-08-06 11:44:30.243][INFO] 💎 Node 0 Commit block - Height: 11, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 12, tx_ids.len= 0
+[2026-08-06 11:44:30.259][INFO] Node 0 starting view 16
+[2026-08-06 11:44:30.264][INFO] 💎 Node 0 Commit block - Height: 12, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 13, tx_ids.len= 0
+[2026-08-06 11:44:30.267][INFO] 💎 Node 0 Commit block - Height: 13, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 14, tx_ids.len= 0
+[2026-08-06 11:44:30.271][INFO] Node 0 starting view 17
+[2026-08-06 11:44:30.275][INFO] Node 0 starting view 18
+[2026-08-06 11:44:30.281][INFO] 💎 Node 0 Commit block - Height: 14, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 15, tx_ids.len= 0
+[2026-08-06 11:44:30.285][INFO] Node 0 starting view 19
+[2026-08-06 11:44:30.291][INFO] 💎 Node 0 Commit block - Height: 15, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 16, tx_ids.len= 0
+[2026-08-06 11:44:30.311][INFO] Node 0 starting view 20
+[2026-08-06 11:44:30.322][INFO] 💎 Node 0 Commit block - Height: 16, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 17, tx_ids.len= 0
+[2026-08-06 11:44:30.326][INFO] 💎 Node 0 Commit block - Height: 17, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 18, tx_ids.len= 0
+[2026-08-06 11:44:30.332][INFO] Node 0 starting view 21
+[2026-08-06 11:44:30.338][INFO] Node 0 starting view 22
+[2026-08-06 11:44:30.343][INFO] 💎 Node 0 Commit block - Height: 18, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 19, tx_ids.len= 0
+[2026-08-06 11:44:30.345][INFO] Node 0 starting view 23
+[2026-08-06 11:44:30.348][INFO] 💎 Node 0 Commit block - Height: 19, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 20, tx_ids.len= 0
+[2026-08-06 11:44:30.370][INFO] 💎 Node 0 Commit block - Height: 20, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 21, tx_ids.len= 0
+[2026-08-06 11:44:30.377][INFO] 💎 Node 0 Commit block - Height: 21, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 22, tx_ids.len= 0
+[2026-08-06 11:44:30.379][INFO] Node 0 starting view 25
+[2026-08-06 11:44:30.387][INFO] Node 0 starting view 26
+[2026-08-06 11:44:30.393][INFO] 💎 Node 0 Commit block - Height: 22, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 23, tx_ids.len= 0
+[2026-08-06 11:44:30.395][INFO] Node 0 starting view 27
+[2026-08-06 11:44:30.399][INFO] 💎 Node 0 Commit block - Height: 23, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 24, tx_ids.len= 0
+[2026-08-06 11:44:30.403][INFO] Node 0 starting view 28
+[2026-08-06 11:44:30.407][INFO] 💎 Node 0 Commit block - Height: 24, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 25, tx_ids.len= 0
+[2026-08-06 11:44:30.410][INFO] 💎 Node 0 Commit block - Height: 25, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 26, tx_ids.len= 0
+[2026-08-06 11:44:30.418][INFO] Node 0 starting view 29
+[2026-08-06 11:44:30.427][INFO] Node 0 starting view 30
+[2026-08-06 11:44:30.454][INFO] 💎 Node 0 Commit block - Height: 26, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 27, tx_ids.len= 0
+[2026-08-06 11:44:30.460][INFO] Node 0 starting view 31
+[2026-08-06 11:44:30.474][INFO] 💎 Node 0 Commit block - Height: 27, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 28, tx_ids.len= 0
+[2026-08-06 11:44:30.484][INFO] Node 0 starting view 32
+[2026-08-06 11:44:30.488][INFO] 💎 Node 0 Commit block - Height: 28, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 29, tx_ids.len= 0
+[2026-08-06 11:44:30.491][INFO] 💎 Node 0 Commit block - Height: 29, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 30, tx_ids.len= 0
+[2026-08-06 11:44:30.503][INFO] Node 0 starting view 33
+[2026-08-06 11:44:30.506][INFO] Node 0 starting view 34
+[2026-08-06 11:44:30.519][INFO] 💎 Node 0 Commit block - Height: 30, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 31, tx_ids.len= 0
+[2026-08-06 11:44:30.530][INFO] Node 0 starting view 35
+[2026-08-06 11:44:30.535][INFO] 💎 Node 0 Commit block - Height: 31, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 32, tx_ids.len= 0
+[2026-08-06 11:44:30.538][INFO] Node 0 starting view 36
+[2026-08-06 11:44:30.540][INFO] 💎 Node 0 Commit block - Height: 32, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 33, tx_ids.len= 0
+[2026-08-06 11:44:30.546][INFO] 💎 Node 0 Commit block - Height: 33, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 34, tx_ids.len= 0
+[2026-08-06 11:44:30.555][INFO] Node 0 starting view 37
+[2026-08-06 11:44:30.573][INFO] Node 0 starting view 38
+[2026-08-06 11:44:30.574][INFO] 💎 Node 0 Commit block - Height: 34, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 35, tx_ids.len= 0
+[2026-08-06 11:44:30.578][INFO] Node 0 starting view 39
+[2026-08-06 11:44:30.591][INFO] 💎 Node 0 Commit block - Height: 35, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 36, tx_ids.len= 0
+[2026-08-06 11:44:30.610][INFO] Node 0 starting view 40
+[2026-08-06 11:44:30.614][INFO] 💎 Node 0 Commit block - Height: 36, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 37, tx_ids.len= 0
+[2026-08-06 11:44:30.618][INFO] 💎 Node 0 Commit block - Height: 37, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 38, tx_ids.len= 0
+[2026-08-06 11:44:30.624][INFO] Node 0 starting view 41
+[2026-08-06 11:44:30.628][INFO] Node 0 starting view 42
+[2026-08-06 11:44:30.631][INFO] 💎 Node 0 Commit block - Height: 38, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 39, tx_ids.len= 0
+[2026-08-06 11:44:30.637][INFO] Node 0 starting view 43
+[2026-08-06 11:44:30.643][INFO] 💎 Node 0 Commit block - Height: 39, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 40, tx_ids.len= 0
+[2026-08-06 11:44:30.646][INFO] Node 0 starting view 44
+[2026-08-06 11:44:30.666][INFO] 💎 Node 0 Commit block - Height: 40, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 41, tx_ids.len= 0
+[2026-08-06 11:44:30.687][INFO] 💎 Node 0 Commit block - Height: 41, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 42, tx_ids.len= 0
+[2026-08-06 11:44:30.690][INFO] Node 0 starting view 45
+[2026-08-06 11:44:30.698][INFO] Node 0 starting view 46
+[2026-08-06 11:44:30.711][INFO] 💎 Node 0 Commit block - Height: 42, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 43, tx_ids.len= 0
+[2026-08-06 11:44:30.721][INFO] Node 0 starting view 47
+[2026-08-06 11:44:30.737][INFO] 💎 Node 0 Commit block - Height: 43, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 44, tx_ids.len= 0
+[2026-08-06 11:44:30.747][INFO] Node 0 starting view 48
+[2026-08-06 11:44:30.772][INFO] 💎 Node 0 Commit block - Height: 44, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 45, tx_ids.len= 0
+[2026-08-06 11:44:30.777][INFO] 💎 Node 0 Commit block - Height: 45, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 46, tx_ids.len= 0
+[2026-08-06 11:44:30.779][INFO] Node 0 starting view 49
+[2026-08-06 11:44:30.781][INFO] Node 0 starting view 50
+[2026-08-06 11:44:30.785][INFO] 💎 Node 0 Commit block - Height: 46, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 47, tx_ids.len= 0
+[2026-08-06 11:44:30.793][INFO] Node 0 starting view 51
+[2026-08-06 11:44:30.797][INFO] 💎 Node 0 Commit block - Height: 47, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 48, tx_ids.len= 0
+[2026-08-06 11:44:30.801][INFO] Node 0 starting view 52
+[2026-08-06 11:44:30.808][INFO] 💎 Node 0 Commit block - Height: 48, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 49, tx_ids.len= 0
+[2026-08-06 11:44:30.813][INFO] 💎 Node 0 Commit block - Height: 49, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 50, tx_ids.len= 0
+[2026-08-06 11:44:30.823][INFO] Node 0 starting view 53
+[2026-08-06 11:44:30.829][INFO] Node 0 starting view 54
+[2026-08-06 11:44:30.834][INFO] 💎 Node 0 Commit block - Height: 50, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 51, tx_ids.len= 0
+[2026-08-06 11:44:30.838][INFO] Node 0 starting view 55
+[2026-08-06 11:44:30.843][INFO] 💎 Node 0 Commit block - Height: 51, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 52, tx_ids.len= 0
+[2026-08-06 11:44:30.846][INFO] Node 0 starting view 56
+[2026-08-06 11:44:30.850][INFO] 💎 Node 0 Commit block - Height: 52, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 53, tx_ids.len= 0
+[2026-08-06 11:44:30.855][INFO] 💎 Node 0 Commit block - Height: 53, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 54, tx_ids.len= 0
+[2026-08-06 11:44:30.860][INFO] Node 0 starting view 57
+[2026-08-06 11:44:30.864][INFO] Node 0 starting view 58
+[2026-08-06 11:44:30.867][INFO] 💎 Node 0 Commit block - Height: 54, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 55, tx_ids.len= 0
+[2026-08-06 11:44:30.871][INFO] Node 0 starting view 59
+[2026-08-06 11:44:30.876][INFO] 💎 Node 0 Commit block - Height: 55, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 56, tx_ids.len= 0
+[2026-08-06 11:44:30.885][INFO] Node 0 starting view 60
+[2026-08-06 11:44:30.893][INFO] 💎 Node 0 Commit block - Height: 56, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 57, tx_ids.len= 0
+[2026-08-06 11:44:30.901][INFO] 💎 Node 0 Commit block - Height: 57, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 58, tx_ids.len= 0
+[2026-08-06 11:44:30.904][INFO] Node 0 starting view 61
+[2026-08-06 11:44:30.909][INFO] Node 0 starting view 62
+[2026-08-06 11:44:30.912][INFO] 💎 Node 0 Commit block - Height: 58, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 59, tx_ids.len= 0
+[2026-08-06 11:44:30.916][INFO] Node 0 starting view 63
+[2026-08-06 11:44:30.925][INFO] 💎 Node 0 Commit block - Height: 59, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 60, tx_ids.len= 0
+[2026-08-06 11:44:30.929][INFO] Node 0 starting view 64
+[2026-08-06 11:44:30.941][INFO] 💎 Node 0 Commit block - Height: 60, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 61, tx_ids.len= 0
+[2026-08-06 11:44:30.950][INFO] 💎 Node 0 Commit block - Height: 61, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 62, tx_ids.len= 0
+[2026-08-06 11:44:30.956][INFO] Node 0 starting view 65
+[2026-08-06 11:44:30.967][INFO] Node 0 starting view 66
+[2026-08-06 11:44:30.970][INFO] 💎 Node 0 Commit block - Height: 62, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 63, tx_ids.len= 0
+[2026-08-06 11:44:30.972][INFO] Node 0 starting view 67
+[2026-08-06 11:44:30.976][INFO] 💎 Node 0 Commit block - Height: 63, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 64, tx_ids.len= 0
+[2026-08-06 11:44:30.979][INFO] Node 0 starting view 68
+[2026-08-06 11:44:30.988][INFO] 💎 Node 0 Commit block - Height: 64, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 65, tx_ids.len= 0
+[2026-08-06 11:44:30.989][INFO] 💎 Node 0 Commit block - Height: 65, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 66, tx_ids.len= 0
+[2026-08-06 11:44:30.992][INFO] Node 0 starting view 69
+[2026-08-06 11:44:30.993][INFO] Node 0 starting view 70
+[2026-08-06 11:44:30.996][INFO] 💎 Node 0 Commit block - Height: 66, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 67, tx_ids.len= 0
+[2026-08-06 11:44:31.001][INFO] Node 0 starting view 71
+[2026-08-06 11:44:31.007][INFO] 💎 Node 0 Commit block - Height: 67, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 68, tx_ids.len= 0
+[2026-08-06 11:44:31.013][INFO] Node 0 starting view 72
+[2026-08-06 11:44:31.019][INFO] 💎 Node 0 Commit block - Height: 68, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 69, tx_ids.len= 0
+[2026-08-06 11:44:31.023][INFO] 💎 Node 0 Commit block - Height: 69, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 70, tx_ids.len= 0
+[2026-08-06 11:44:31.028][INFO] Node 0 starting view 73
+[2026-08-06 11:44:31.047][INFO] Node 0 starting view 74
+[2026-08-06 11:44:31.050][INFO] 💎 Node 0 Commit block - Height: 70, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 71, tx_ids.len= 0
+[2026-08-06 11:44:31.053][INFO] Node 0 starting view 75
+[2026-08-06 11:44:31.061][INFO] 💎 Node 0 Commit block - Height: 71, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 72, tx_ids.len= 0
+[2026-08-06 11:44:31.064][INFO] Node 0 starting view 76
+[2026-08-06 11:44:31.067][INFO] 💎 Node 0 Commit block - Height: 72, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 73, tx_ids.len= 0
+[2026-08-06 11:44:31.070][INFO] 💎 Node 0 Commit block - Height: 73, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 74, tx_ids.len= 0
+[2026-08-06 11:44:31.076][INFO] Node 0 starting view 77
+[2026-08-06 11:44:31.081][INFO] Node 0 starting view 78
+[2026-08-06 11:44:31.085][INFO] 💎 Node 0 Commit block - Height: 74, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 75, tx_ids.len= 0
+[2026-08-06 11:44:31.088][INFO] Node 0 starting view 79
+[2026-08-06 11:44:31.093][INFO] 💎 Node 0 Commit block - Height: 75, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 76, tx_ids.len= 0
+[2026-08-06 11:44:31.102][INFO] Node 0 starting view 80
+[2026-08-06 11:44:31.106][INFO] 💎 Node 0 Commit block - Height: 76, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 77, tx_ids.len= 0
+[2026-08-06 11:44:31.113][INFO] 💎 Node 0 Commit block - Height: 77, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 78, tx_ids.len= 0
+[2026-08-06 11:44:31.122][INFO] Node 0 starting view 81
+[2026-08-06 11:44:31.127][INFO] Node 0 starting view 82
+[2026-08-06 11:44:31.131][INFO] 💎 Node 0 Commit block - Height: 78, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 79, tx_ids.len= 0
+[2026-08-06 11:44:31.138][INFO] Node 0 starting view 83
+[2026-08-06 11:44:31.140][INFO] 💎 Node 0 Commit block - Height: 79, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 80, tx_ids.len= 0
+[2026-08-06 11:44:31.144][INFO] Node 0 starting view 84
+[2026-08-06 11:44:31.151][INFO] 💎 Node 0 Commit block - Height: 80, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 81, tx_ids.len= 0
+[2026-08-06 11:44:31.217][INFO] 💎 Node 0 Commit block - Height: 81, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 82, tx_ids.len= 0
+[2026-08-06 11:44:31.247][INFO] Node 0 starting view 85
+[2026-08-06 11:44:31.258][INFO] Node 0 starting view 86
+[2026-08-06 11:44:31.277][INFO] 💎 Node 0 Commit block - Height: 82, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 83, tx_ids.len= 0
+[2026-08-06 11:44:31.286][INFO] Node 0 starting view 87
+[2026-08-06 11:44:31.290][INFO] 💎 Node 0 Commit block - Height: 83, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 84, tx_ids.len= 0
+[2026-08-06 11:44:31.302][INFO] Node 0 starting view 88
+[2026-08-06 11:44:31.307][INFO] 💎 Node 0 Commit block - Height: 84, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 85, tx_ids.len= 0
+[2026-08-06 11:44:31.310][INFO] 💎 Node 0 Commit block - Height: 85, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 86, tx_ids.len= 0
+[2026-08-06 11:44:31.325][INFO] Node 0 starting view 89
+[2026-08-06 11:44:31.327][INFO] Node 0 starting view 90
+[2026-08-06 11:44:31.334][INFO] 💎 Node 0 Commit block - Height: 86, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 87, tx_ids.len= 0
+[2026-08-06 11:44:31.339][INFO] Node 0 starting view 91
+[2026-08-06 11:44:31.344][INFO] 💎 Node 0 Commit block - Height: 87, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 88, tx_ids.len= 0
+[2026-08-06 11:44:31.354][INFO] Node 0 starting view 92
+[2026-08-06 11:44:31.359][INFO] 💎 Node 0 Commit block - Height: 88, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 89, tx_ids.len= 0
+[2026-08-06 11:44:31.364][INFO] 💎 Node 0 Commit block - Height: 89, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 90, tx_ids.len= 0
+[2026-08-06 11:44:31.372][INFO] Node 0 starting view 93
+[2026-08-06 11:44:31.382][INFO] Node 0 starting view 94
+[2026-08-06 11:44:31.386][INFO] 💎 Node 0 Commit block - Height: 90, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 91, tx_ids.len= 0
+[2026-08-06 11:44:31.393][INFO] Node 0 starting view 95
+[2026-08-06 11:44:31.395][INFO] 💎 Node 0 Commit block - Height: 91, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 92, tx_ids.len= 0
+[2026-08-06 11:44:31.399][INFO] Node 0 starting view 96
+[2026-08-06 11:44:31.404][INFO] 💎 Node 0 Commit block - Height: 92, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 93, tx_ids.len= 0
+[2026-08-06 11:44:31.411][INFO] 💎 Node 0 Commit block - Height: 93, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 94, tx_ids.len= 0
+[2026-08-06 11:44:31.416][INFO] Node 0 starting view 97
+[2026-08-06 11:44:31.421][INFO] Node 0 starting view 98
+[2026-08-06 11:44:31.424][INFO] 💎 Node 0 Commit block - Height: 94, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 95, tx_ids.len= 0
+[2026-08-06 11:44:31.429][INFO] Node 0 starting view 99
+[2026-08-06 11:44:31.434][INFO] 💎 Node 0 Commit block - Height: 95, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 96, tx_ids.len= 0
+[2026-08-06 11:44:31.440][INFO] Node 0 starting view 100
+[2026-08-06 11:44:31.445][INFO] 💎 Node 0 Commit block - Height: 96, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 97, tx_ids.len= 0
+[2026-08-06 11:44:31.449][INFO] 💎 Node 0 Commit block - Height: 97, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 98, tx_ids.len= 0
+[2026-08-06 11:44:31.453][INFO] Node 0 starting view 101
+[2026-08-06 11:44:31.456][INFO] Node 0 starting view 102
+[2026-08-06 11:44:31.460][INFO] 💎 Node 0 Commit block - Height: 98, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 99, tx_ids.len= 0
+[2026-08-06 11:44:31.473][INFO] Node 0 starting view 103
+[2026-08-06 11:44:31.486][INFO] 💎 Node 0 Commit block - Height: 99, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 100, tx_ids.len= 0
+[2026-08-06 11:44:31.488][INFO] Node 0 starting view 104
+[2026-08-06 11:44:31.489][INFO] 💎 Node 0 Commit block - Height: 100, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 101, tx_ids.len= 0
+[2026-08-06 11:44:31.490][INFO] 💎 Node 0 Commit block - Height: 101, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 102, tx_ids.len= 0
+[2026-08-06 11:44:31.492][INFO] Node 0 starting view 105
+[2026-08-06 11:44:31.494][INFO] Node 0 starting view 106
+[2026-08-06 11:44:31.497][INFO] 💎 Node 0 Commit block - Height: 102, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 103, tx_ids.len= 0
+[2026-08-06 11:44:31.503][INFO] Node 0 starting view 107
+[2026-08-06 11:44:31.507][INFO] 💎 Node 0 Commit block - Height: 103, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 104, tx_ids.len= 0
+[2026-08-06 11:44:31.511][INFO] Node 0 starting view 108
+[2026-08-06 11:44:31.518][INFO] 💎 Node 0 Commit block - Height: 104, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 105, tx_ids.len= 0
+[2026-08-06 11:44:31.521][INFO] 💎 Node 0 Commit block - Height: 105, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 106, tx_ids.len= 0
+[2026-08-06 11:44:31.535][INFO] Node 0 starting view 109
+[2026-08-06 11:44:31.540][INFO] Node 0 starting view 110
+[2026-08-06 11:44:31.542][INFO] 💎 Node 0 Commit block - Height: 106, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 107, tx_ids.len= 0
+[2026-08-06 11:44:31.544][INFO] Node 0 starting view 111
+[2026-08-06 11:44:31.553][INFO] 💎 Node 0 Commit block - Height: 107, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 108, tx_ids.len= 0
+[2026-08-06 11:44:31.555][INFO] Node 0 starting view 112
+[2026-08-06 11:44:31.557][INFO] 💎 Node 0 Commit block - Height: 108, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 109, tx_ids.len= 0
+[2026-08-06 11:44:31.563][INFO] 💎 Node 0 Commit block - Height: 109, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 110, tx_ids.len= 0
+[2026-08-06 11:44:31.568][INFO] Node 0 starting view 113
+[2026-08-06 11:44:31.572][INFO] Node 0 starting view 114
+[2026-08-06 11:44:31.579][INFO] 💎 Node 0 Commit block - Height: 110, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 111, tx_ids.len= 0
+[2026-08-06 11:44:31.585][INFO] Node 0 starting view 115
+[2026-08-06 11:44:31.590][INFO] 💎 Node 0 Commit block - Height: 111, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 112, tx_ids.len= 0
+[2026-08-06 11:44:31.596][INFO] Node 0 starting view 116
+[2026-08-06 11:44:31.602][INFO] 💎 Node 0 Commit block - Height: 112, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 113, tx_ids.len= 0
+[2026-08-06 11:44:31.607][INFO] 💎 Node 0 Commit block - Height: 113, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 114, tx_ids.len= 0
+[2026-08-06 11:44:31.611][INFO] Node 0 starting view 117
+[2026-08-06 11:44:31.616][INFO] Node 0 starting view 118
+[2026-08-06 11:44:31.620][INFO] 💎 Node 0 Commit block - Height: 114, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 115, tx_ids.len= 0
+[2026-08-06 11:44:31.624][INFO] Node 0 starting view 119
+[2026-08-06 11:44:31.630][INFO] 💎 Node 0 Commit block - Height: 115, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 116, tx_ids.len= 0
+[2026-08-06 11:44:31.634][INFO] Node 0 starting view 120
+[2026-08-06 11:44:31.640][INFO] 💎 Node 0 Commit block - Height: 116, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 117, tx_ids.len= 0
+[2026-08-06 11:44:31.647][INFO] 💎 Node 0 Commit block - Height: 117, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 118, tx_ids.len= 0
+[2026-08-06 11:44:31.650][INFO] Node 0 starting view 121
+[2026-08-06 11:44:31.654][INFO] Node 0 starting view 122
+[2026-08-06 11:44:31.658][INFO] 💎 Node 0 Commit block - Height: 118, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 119, tx_ids.len= 0
+[2026-08-06 11:44:31.663][INFO] Node 0 starting view 123
+[2026-08-06 11:44:31.668][INFO] 💎 Node 0 Commit block - Height: 119, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 120, tx_ids.len= 0
+[2026-08-06 11:44:31.672][INFO] Node 0 starting view 124
+[2026-08-06 11:44:31.680][INFO] 💎 Node 0 Commit block - Height: 120, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 121, tx_ids.len= 0
+[2026-08-06 11:44:31.684][INFO] 💎 Node 0 Commit block - Height: 121, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 122, tx_ids.len= 0
+[2026-08-06 11:44:31.689][INFO] Node 0 starting view 125
+[2026-08-06 11:44:31.697][INFO] Node 0 starting view 126
+[2026-08-06 11:44:31.702][INFO] 💎 Node 0 Commit block - Height: 122, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 123, tx_ids.len= 0
+[2026-08-06 11:44:31.709][INFO] Node 0 starting view 127
+[2026-08-06 11:44:31.712][INFO] 💎 Node 0 Commit block - Height: 123, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 124, tx_ids.len= 0
+[2026-08-06 11:44:31.717][INFO] Node 0 starting view 128
+[2026-08-06 11:44:31.722][INFO] 💎 Node 0 Commit block - Height: 124, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 125, tx_ids.len= 0
+[2026-08-06 11:44:31.726][INFO] 💎 Node 0 Commit block - Height: 125, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 126, tx_ids.len= 0
+[2026-08-06 11:44:31.729][INFO] Node 0 starting view 129
+[2026-08-06 11:44:31.733][INFO] Node 0 starting view 130
+[2026-08-06 11:44:31.742][INFO] 💎 Node 0 Commit block - Height: 126, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 127, tx_ids.len= 0
+[2026-08-06 11:44:31.744][INFO] Node 0 starting view 131
+[2026-08-06 11:44:31.750][INFO] 💎 Node 0 Commit block - Height: 127, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 128, tx_ids.len= 0
+[2026-08-06 11:44:31.754][INFO] Node 0 starting view 132
+[2026-08-06 11:44:31.766][INFO] 💎 Node 0 Commit block - Height: 128, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 129, tx_ids.len= 0
+[2026-08-06 11:44:31.770][INFO] 💎 Node 0 Commit block - Height: 129, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 130, tx_ids.len= 0
+[2026-08-06 11:44:31.798][INFO] Node 0 starting view 133
+[2026-08-06 11:44:31.822][INFO] Node 0 starting view 134
+[2026-08-06 11:44:31.839][INFO] 💎 Node 0 Commit block - Height: 130, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 131, tx_ids.len= 0
+[2026-08-06 11:44:31.857][INFO] Node 0 starting view 135
+[2026-08-06 11:44:31.874][INFO] 💎 Node 0 Commit block - Height: 131, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 132, tx_ids.len= 0
+[2026-08-06 11:44:31.900][INFO] Node 0 starting view 136
+[2026-08-06 11:44:31.904][INFO] 💎 Node 0 Commit block - Height: 132, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 133, tx_ids.len= 0
+[2026-08-06 11:44:31.910][INFO] 💎 Node 0 Commit block - Height: 133, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 134, tx_ids.len= 0
+[2026-08-06 11:44:31.921][INFO] Node 0 starting view 137
+[2026-08-06 11:44:31.937][INFO] Node 0 starting view 138
+[2026-08-06 11:44:31.945][INFO] 💎 Node 0 Commit block - Height: 134, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 135, tx_ids.len= 0
+[2026-08-06 11:44:31.955][INFO] Node 0 starting view 139
+[2026-08-06 11:44:31.961][INFO] 💎 Node 0 Commit block - Height: 135, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 136, tx_ids.len= 0
+[2026-08-06 11:44:31.970][INFO] Node 0 starting view 140
+[2026-08-06 11:44:31.973][INFO] 💎 Node 0 Commit block - Height: 136, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 137, tx_ids.len= 0
+[2026-08-06 11:44:31.977][INFO] 💎 Node 0 Commit block - Height: 137, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 138, tx_ids.len= 0
+[2026-08-06 11:44:31.982][INFO] Node 0 starting view 141
+[2026-08-06 11:44:31.987][INFO] Node 0 starting view 142
+[2026-08-06 11:44:31.997][INFO] 💎 Node 0 Commit block - Height: 138, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 139, tx_ids.len= 0
+[2026-08-06 11:44:32.002][INFO] Node 0 starting view 143
+[2026-08-06 11:44:32.010][INFO] 💎 Node 0 Commit block - Height: 139, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 140, tx_ids.len= 0
+[2026-08-06 11:44:32.019][INFO] Node 0 starting view 144
+[2026-08-06 11:44:32.027][INFO] 💎 Node 0 Commit block - Height: 140, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 141, tx_ids.len= 0
+[2026-08-06 11:44:32.040][INFO] 💎 Node 0 Commit block - Height: 141, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 142, tx_ids.len= 0
+[2026-08-06 11:44:32.044][INFO] Node 0 starting view 145
+[2026-08-06 11:44:32.049][INFO] Node 0 starting view 146
+[2026-08-06 11:44:32.056][INFO] 💎 Node 0 Commit block - Height: 142, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 143, tx_ids.len= 0
+[2026-08-06 11:44:32.060][INFO] Node 0 starting view 147
+[2026-08-06 11:44:32.074][INFO] 💎 Node 0 Commit block - Height: 143, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 144, tx_ids.len= 0
+[2026-08-06 11:44:32.082][INFO] Node 0 starting view 148
+[2026-08-06 11:44:32.086][INFO] 💎 Node 0 Commit block - Height: 144, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 145, tx_ids.len= 0
+[2026-08-06 11:44:32.094][INFO] 💎 Node 0 Commit block - Height: 145, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 146, tx_ids.len= 0
+[2026-08-06 11:44:32.101][INFO] Node 0 starting view 149
+[2026-08-06 11:44:32.105][INFO] Node 0 starting view 150
+[2026-08-06 11:44:32.110][INFO] 💎 Node 0 Commit block - Height: 146, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 147, tx_ids.len= 0
+[2026-08-06 11:44:32.114][INFO] Node 0 starting view 151
+[2026-08-06 11:44:32.125][INFO] 💎 Node 0 Commit block - Height: 147, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 148, tx_ids.len= 0
+[2026-08-06 11:44:32.129][INFO] Node 0 starting view 152
+[2026-08-06 11:44:32.132][INFO] 💎 Node 0 Commit block - Height: 148, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 149, tx_ids.len= 0
+[2026-08-06 11:44:32.136][INFO] 💎 Node 0 Commit block - Height: 149, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 150, tx_ids.len= 0
+[2026-08-06 11:44:32.143][INFO] Node 0 starting view 153
+[2026-08-06 11:44:32.147][INFO] Node 0 starting view 154
+[2026-08-06 11:44:32.152][INFO] 💎 Node 0 Commit block - Height: 150, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 151, tx_ids.len= 0
+[2026-08-06 11:44:32.188][INFO] Node 0 starting view 155
+[2026-08-06 11:44:32.246][INFO] 💎 Node 0 Commit block - Height: 151, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 152, tx_ids.len= 0
+[2026-08-06 11:44:32.279][INFO] Node 0 starting view 156
+[2026-08-06 11:44:32.282][INFO] 💎 Node 0 Commit block - Height: 152, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 153, tx_ids.len= 0
+[2026-08-06 11:44:32.283][INFO] 💎 Node 0 Commit block - Height: 153, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 154, tx_ids.len= 0
+[2026-08-06 11:44:32.285][INFO] Node 0 starting view 157
+[2026-08-06 11:44:32.288][INFO] Node 0 starting view 158
+[2026-08-06 11:44:32.308][INFO] 💎 Node 0 Commit block - Height: 154, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 155, tx_ids.len= 0
+[2026-08-06 11:44:32.328][INFO] Node 0 starting view 159
+[2026-08-06 11:44:32.406][INFO] 💎 Node 0 Commit block - Height: 155, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 156, tx_ids.len= 0
+[2026-08-06 11:44:32.415][INFO] Node 0 starting view 160
+[2026-08-06 11:44:32.419][INFO] 💎 Node 0 Commit block - Height: 156, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 157, tx_ids.len= 0
+[2026-08-06 11:44:32.422][INFO] 💎 Node 0 Commit block - Height: 157, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 158, tx_ids.len= 0
+[2026-08-06 11:44:32.429][INFO] Node 0 starting view 161
+[2026-08-06 11:44:32.433][INFO] Node 0 starting view 162
+[2026-08-06 11:44:32.438][INFO] 💎 Node 0 Commit block - Height: 158, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 159, tx_ids.len= 0
+[2026-08-06 11:44:32.445][INFO] Node 0 starting view 163
+[2026-08-06 11:44:32.456][INFO] 💎 Node 0 Commit block - Height: 159, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 160, tx_ids.len= 0
+[2026-08-06 11:44:32.464][INFO] Node 0 starting view 164
+[2026-08-06 11:44:32.477][INFO] 💎 Node 0 Commit block - Height: 160, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 161, tx_ids.len= 0
+[2026-08-06 11:44:32.483][INFO] 💎 Node 0 Commit block - Height: 161, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 162, tx_ids.len= 0
+[2026-08-06 11:44:32.486][INFO] Node 0 starting view 165
+[2026-08-06 11:44:32.490][INFO] Node 0 starting view 166
+[2026-08-06 11:44:32.497][INFO] 💎 Node 0 Commit block - Height: 162, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 163, tx_ids.len= 0
+[2026-08-06 11:44:32.505][INFO] Node 0 starting view 167
+[2026-08-06 11:44:32.509][INFO] 💎 Node 0 Commit block - Height: 163, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 164, tx_ids.len= 0
+[2026-08-06 11:44:32.513][INFO] Node 0 starting view 168
+[2026-08-06 11:44:32.516][INFO] 💎 Node 0 Commit block - Height: 164, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 165, tx_ids.len= 0
+[2026-08-06 11:44:32.519][INFO] 💎 Node 0 Commit block - Height: 165, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 166, tx_ids.len= 0
+[2026-08-06 11:44:32.522][INFO] Node 0 starting view 169
+[2026-08-06 11:44:32.527][INFO] Node 0 starting view 170
+[2026-08-06 11:44:32.531][INFO] 💎 Node 0 Commit block - Height: 166, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 167, tx_ids.len= 0
+[2026-08-06 11:44:32.535][INFO] Node 0 starting view 171
+[2026-08-06 11:44:32.539][INFO] 💎 Node 0 Commit block - Height: 167, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 168, tx_ids.len= 0
+[2026-08-06 11:44:32.545][INFO] Node 0 starting view 172
+[2026-08-06 11:44:32.549][INFO] 💎 Node 0 Commit block - Height: 168, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 169, tx_ids.len= 0
+[2026-08-06 11:44:32.555][INFO] 💎 Node 0 Commit block - Height: 169, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 170, tx_ids.len= 0
+[2026-08-06 11:44:32.560][INFO] Node 0 starting view 173
+[2026-08-06 11:44:32.565][INFO] Node 0 starting view 174
+[2026-08-06 11:44:32.568][INFO] 💎 Node 0 Commit block - Height: 170, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 171, tx_ids.len= 0
+[2026-08-06 11:44:32.572][INFO] Node 0 starting view 175
+[2026-08-06 11:44:32.577][INFO] 💎 Node 0 Commit block - Height: 171, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 172, tx_ids.len= 0
+[2026-08-06 11:44:32.582][INFO] Node 0 starting view 176
+[2026-08-06 11:44:32.588][INFO] 💎 Node 0 Commit block - Height: 172, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 173, tx_ids.len= 0
+[2026-08-06 11:44:32.594][INFO] 💎 Node 0 Commit block - Height: 173, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 174, tx_ids.len= 0
+[2026-08-06 11:44:32.596][INFO] Node 0 starting view 177
+[2026-08-06 11:44:32.599][INFO] Node 0 starting view 178
+[2026-08-06 11:44:32.604][INFO] 💎 Node 0 Commit block - Height: 174, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 175, tx_ids.len= 0
+[2026-08-06 11:44:32.608][INFO] Node 0 starting view 179
+[2026-08-06 11:44:32.612][INFO] 💎 Node 0 Commit block - Height: 175, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 176, tx_ids.len= 0
+[2026-08-06 11:44:32.615][INFO] Node 0 starting view 180
+[2026-08-06 11:44:32.619][INFO] 💎 Node 0 Commit block - Height: 176, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 177, tx_ids.len= 0
+[2026-08-06 11:44:32.622][INFO] 💎 Node 0 Commit block - Height: 177, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 178, tx_ids.len= 0
+[2026-08-06 11:44:32.628][INFO] Node 0 starting view 181
+[2026-08-06 11:44:32.631][INFO] Node 0 starting view 182
+[2026-08-06 11:44:32.636][INFO] 💎 Node 0 Commit block - Height: 178, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 179, tx_ids.len= 0
+[2026-08-06 11:44:32.639][INFO] Node 0 starting view 183
+[2026-08-06 11:44:32.644][INFO] 💎 Node 0 Commit block - Height: 179, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 180, tx_ids.len= 0
+[2026-08-06 11:44:32.647][INFO] Node 0 starting view 184
+[2026-08-06 11:44:32.650][INFO] 💎 Node 0 Commit block - Height: 180, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 181, tx_ids.len= 0
+[2026-08-06 11:44:32.653][INFO] 💎 Node 0 Commit block - Height: 181, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 182, tx_ids.len= 0
+[2026-08-06 11:44:32.656][INFO] Node 0 starting view 185
+[2026-08-06 11:44:32.660][INFO] Node 0 starting view 186
+[2026-08-06 11:44:32.668][INFO] 💎 Node 0 Commit block - Height: 182, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 183, tx_ids.len= 0
+[2026-08-06 11:44:32.673][INFO] Node 0 starting view 187
+[2026-08-06 11:44:32.677][INFO] 💎 Node 0 Commit block - Height: 183, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 184, tx_ids.len= 0
+[2026-08-06 11:44:32.679][INFO] Node 0 starting view 188
+[2026-08-06 11:44:32.685][INFO] 💎 Node 0 Commit block - Height: 184, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 185, tx_ids.len= 0
+[2026-08-06 11:44:32.691][INFO] 💎 Node 0 Commit block - Height: 185, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 186, tx_ids.len= 0
+[2026-08-06 11:44:32.695][INFO] Node 0 starting view 189
+[2026-08-06 11:44:32.698][INFO] Node 0 starting view 190
+[2026-08-06 11:44:32.706][INFO] 💎 Node 0 Commit block - Height: 186, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 187, tx_ids.len= 0
+[2026-08-06 11:44:32.712][INFO] Node 0 starting view 191
+[2026-08-06 11:44:32.716][INFO] 💎 Node 0 Commit block - Height: 187, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 188, tx_ids.len= 0
+[2026-08-06 11:44:32.720][INFO] Node 0 starting view 192
+[2026-08-06 11:44:32.723][INFO] 💎 Node 0 Commit block - Height: 188, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 189, tx_ids.len= 0
+[2026-08-06 11:44:32.726][INFO] 💎 Node 0 Commit block - Height: 189, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 190, tx_ids.len= 0
+[2026-08-06 11:44:32.731][INFO] Node 0 starting view 193
+[2026-08-06 11:44:32.735][INFO] Node 0 starting view 194
+[2026-08-06 11:44:32.744][INFO] 💎 Node 0 Commit block - Height: 190, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 191, tx_ids.len= 0
+[2026-08-06 11:44:32.746][INFO] Node 0 starting view 195
+[2026-08-06 11:44:32.749][INFO] 💎 Node 0 Commit block - Height: 191, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 192, tx_ids.len= 0
+[2026-08-06 11:44:32.757][INFO] Node 0 starting view 196
+[2026-08-06 11:44:32.766][INFO] 💎 Node 0 Commit block - Height: 192, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 193, tx_ids.len= 0
+[2026-08-06 11:44:32.771][INFO] 💎 Node 0 Commit block - Height: 193, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 194, tx_ids.len= 0
+[2026-08-06 11:44:32.798][INFO] Node 0 starting view 197
+[2026-08-06 11:44:32.843][INFO] Node 0 starting view 198
+[2026-08-06 11:44:32.882][INFO] 💎 Node 0 Commit block - Height: 194, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 195, tx_ids.len= 0
+[2026-08-06 11:44:32.909][INFO] Node 0 starting view 199
+[2026-08-06 11:44:32.920][INFO] 💎 Node 0 Commit block - Height: 195, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 196, tx_ids.len= 0
+[2026-08-06 11:44:32.924][INFO] Node 0 starting view 200
+[2026-08-06 11:44:32.928][INFO] 💎 Node 0 Commit block - Height: 196, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 197, tx_ids.len= 0
+[2026-08-06 11:44:32.930][INFO] 💎 Node 0 Commit block - Height: 197, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 198, tx_ids.len= 0
+[2026-08-06 11:44:32.933][INFO] Node 0 starting view 201
+[2026-08-06 11:44:32.947][INFO] Node 0 starting view 202
+[2026-08-06 11:44:32.952][INFO] 💎 Node 0 Commit block - Height: 198, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 199, tx_ids.len= 0
+[2026-08-06 11:44:32.958][INFO] Node 0 starting view 203
+[2026-08-06 11:44:32.965][INFO] 💎 Node 0 Commit block - Height: 199, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 200, tx_ids.len= 0
+[2026-08-06 11:44:32.974][INFO] Node 0 starting view 204
+[2026-08-06 11:44:32.976][INFO] 💎 Node 0 Commit block - Height: 200, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 201, tx_ids.len= 0
+[2026-08-06 11:44:32.978][INFO] 💎 Node 0 Commit block - Height: 201, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 202, tx_ids.len= 0
+[2026-08-06 11:44:32.979][INFO] Node 0 starting view 205
+[2026-08-06 11:44:32.983][INFO] Node 0 starting view 206
+[2026-08-06 11:44:32.985][INFO] 💎 Node 0 Commit block - Height: 202, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 203, tx_ids.len= 0
+[2026-08-06 11:44:32.989][INFO] Node 0 starting view 207
+[2026-08-06 11:44:32.996][INFO] 💎 Node 0 Commit block - Height: 203, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 204, tx_ids.len= 0
+[2026-08-06 11:44:33.004][INFO] Node 0 starting view 208
+[2026-08-06 11:44:33.010][INFO] 💎 Node 0 Commit block - Height: 204, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 205, tx_ids.len= 0
+[2026-08-06 11:44:33.014][INFO] 💎 Node 0 Commit block - Height: 205, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 206, tx_ids.len= 0
+[2026-08-06 11:44:33.019][INFO] Node 0 starting view 209
+[2026-08-06 11:44:33.024][INFO] Node 0 starting view 210
+[2026-08-06 11:44:33.029][INFO] 💎 Node 0 Commit block - Height: 206, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 207, tx_ids.len= 0
+[2026-08-06 11:44:33.032][INFO] Node 0 starting view 211
+[2026-08-06 11:44:33.035][INFO] 💎 Node 0 Commit block - Height: 207, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 208, tx_ids.len= 0
+[2026-08-06 11:44:33.038][INFO] Node 0 starting view 212
+[2026-08-06 11:44:33.040][INFO] 💎 Node 0 Commit block - Height: 208, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 209, tx_ids.len= 0
+[2026-08-06 11:44:33.047][INFO] 💎 Node 0 Commit block - Height: 209, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 210, tx_ids.len= 0
+[2026-08-06 11:44:33.065][INFO] Node 0 starting view 213
+[2026-08-06 11:44:33.080][INFO] Node 0 starting view 214
+[2026-08-06 11:44:33.084][INFO] 💎 Node 0 Commit block - Height: 210, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 211, tx_ids.len= 0
+[2026-08-06 11:44:33.087][INFO] Node 0 starting view 215
+[2026-08-06 11:44:33.094][INFO] 💎 Node 0 Commit block - Height: 211, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 212, tx_ids.len= 0
+[2026-08-06 11:44:33.099][INFO] Node 0 starting view 216
+[2026-08-06 11:44:33.114][INFO] 💎 Node 0 Commit block - Height: 212, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 213, tx_ids.len= 0
+[2026-08-06 11:44:33.117][INFO] 💎 Node 0 Commit block - Height: 213, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 214, tx_ids.len= 0
+[2026-08-06 11:44:33.122][INFO] Node 0 starting view 217
+[2026-08-06 11:44:33.127][INFO] Node 0 starting view 218
+[2026-08-06 11:44:33.136][INFO] 💎 Node 0 Commit block - Height: 214, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 215, tx_ids.len= 0
+[2026-08-06 11:44:33.139][INFO] Node 0 starting view 219
+[2026-08-06 11:44:33.153][INFO] 💎 Node 0 Commit block - Height: 215, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 216, tx_ids.len= 0
+[2026-08-06 11:44:33.189][INFO] Node 0 starting view 220
+[2026-08-06 11:44:33.239][INFO] 💎 Node 0 Commit block - Height: 216, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 217, tx_ids.len= 0
+[2026-08-06 11:44:33.278][INFO] 💎 Node 0 Commit block - Height: 217, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 218, tx_ids.len= 0
+[2026-08-06 11:44:33.282][INFO] Node 0 starting view 221
+[2026-08-06 11:44:33.283][INFO] Node 0 starting view 222
+[2026-08-06 11:44:33.285][INFO] 💎 Node 0 Commit block - Height: 218, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 219, tx_ids.len= 0
+[2026-08-06 11:44:33.287][INFO] Node 0 starting view 223
+[2026-08-06 11:44:33.289][INFO] 💎 Node 0 Commit block - Height: 219, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 220, tx_ids.len= 0
+[2026-08-06 11:44:33.291][INFO] Node 0 starting view 224
+[2026-08-06 11:44:33.294][INFO] 💎 Node 0 Commit block - Height: 220, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 221, tx_ids.len= 0
+[2026-08-06 11:44:33.298][INFO] 💎 Node 0 Commit block - Height: 221, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 222, tx_ids.len= 0
+[2026-08-06 11:44:33.308][INFO] Node 0 starting view 225
+[2026-08-06 11:44:33.312][INFO] Node 0 starting view 226
+[2026-08-06 11:44:33.321][INFO] 💎 Node 0 Commit block - Height: 222, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 223, tx_ids.len= 0
+[2026-08-06 11:44:33.327][INFO] Node 0 starting view 227
+[2026-08-06 11:44:33.332][INFO] 💎 Node 0 Commit block - Height: 223, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 224, tx_ids.len= 0
+[2026-08-06 11:44:33.336][INFO] Node 0 starting view 228
+[2026-08-06 11:44:33.342][INFO] 💎 Node 0 Commit block - Height: 224, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 225, tx_ids.len= 0
+[2026-08-06 11:44:33.348][INFO] 💎 Node 0 Commit block - Height: 225, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 226, tx_ids.len= 0
+[2026-08-06 11:44:33.353][INFO] Node 0 starting view 229
+[2026-08-06 11:44:33.357][INFO] Node 0 starting view 230
+[2026-08-06 11:44:33.362][INFO] 💎 Node 0 Commit block - Height: 226, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 227, tx_ids.len= 0
+[2026-08-06 11:44:33.366][INFO] Node 0 starting view 231
+[2026-08-06 11:44:33.373][INFO] 💎 Node 0 Commit block - Height: 227, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 228, tx_ids.len= 0
+[2026-08-06 11:44:33.379][INFO] Node 0 starting view 232
+[2026-08-06 11:44:33.383][INFO] 💎 Node 0 Commit block - Height: 228, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 229, tx_ids.len= 0
+[2026-08-06 11:44:33.389][INFO] 💎 Node 0 Commit block - Height: 229, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 230, tx_ids.len= 0
+[2026-08-06 11:44:33.394][INFO] Node 0 starting view 233
+[2026-08-06 11:44:33.399][INFO] Node 0 starting view 234
+[2026-08-06 11:44:33.402][INFO] 💎 Node 0 Commit block - Height: 230, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 231, tx_ids.len= 0
+[2026-08-06 11:44:33.407][INFO] Node 0 starting view 235
+[2026-08-06 11:44:33.414][INFO] 💎 Node 0 Commit block - Height: 231, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 232, tx_ids.len= 0
+[2026-08-06 11:44:33.423][INFO] Node 0 starting view 236
+[2026-08-06 11:44:33.426][INFO] 💎 Node 0 Commit block - Height: 232, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 125.00, TotalTxs: 0, TotalBlocks: 233, tx_ids.len= 0
+[2026-08-06 11:44:33.436][INFO] 💎 Node 0 Commit block - Height: 233, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 62.50, TotalTxs: 0, TotalBlocks: 234, tx_ids.len= 0
+[2026-08-06 11:44:33.442][INFO] Node 0 starting view 237
+[2026-08-06 11:44:33.446][INFO] Node 0 starting view 238
+[2026-08-06 11:44:33.448][INFO] 💎 Node 0 Commit block - Height: 234, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 33.33, TotalTxs: 0, TotalBlocks: 235, tx_ids.len= 0
+[2026-08-06 11:44:33.451][INFO] Node 0 starting view 239
+[2026-08-06 11:44:33.454][INFO] 💎 Node 0 Commit block - Height: 235, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 27.78, TotalTxs: 0, TotalBlocks: 236, tx_ids.len= 0
+[2026-08-06 11:44:33.465][INFO] Node 0 starting view 240
+[2026-08-06 11:44:33.470][INFO] 💎 Node 0 Commit block - Height: 236, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 19.61, TotalTxs: 0, TotalBlocks: 237, tx_ids.len= 0
+[2026-08-06 11:44:33.485][INFO] 💎 Node 0 Commit block - Height: 237, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 16.67, TotalTxs: 0, TotalBlocks: 238, tx_ids.len= 0
+[2026-08-06 11:44:33.498][INFO] Node 0 starting view 241
+[2026-08-06 11:44:33.507][INFO] Node 0 starting view 242
+[2026-08-06 11:44:33.520][INFO] 💎 Node 0 Commit block - Height: 238, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 9.90, TotalTxs: 0, TotalBlocks: 239, tx_ids.len= 0
+[2026-08-06 11:44:33.526][INFO] Node 0 starting view 243
+[2026-08-06 11:44:33.529][INFO] 💎 Node 0 Commit block - Height: 239, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 9.01, TotalTxs: 0, TotalBlocks: 240, tx_ids.len= 0
+[2026-08-06 11:44:33.537][INFO] Node 0 starting view 244
+[2026-08-06 11:44:33.546][INFO] 💎 Node 0 Commit block - Height: 240, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 7.94, TotalTxs: 0, TotalBlocks: 241, tx_ids.len= 0
+[2026-08-06 11:44:33.554][INFO] 💎 Node 0 Commit block - Height: 241, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 7.52, TotalTxs: 0, TotalBlocks: 242, tx_ids.len= 0
+[2026-08-06 11:44:33.559][INFO] Node 0 starting view 245
+[2026-08-06 11:44:33.565][INFO] Node 0 starting view 246
+[2026-08-06 11:44:33.569][INFO] 💎 Node 0 Commit block - Height: 242, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 6.62, TotalTxs: 0, TotalBlocks: 243, tx_ids.len= 0
+[2026-08-06 11:44:33.573][INFO] Node 0 starting view 247
+[2026-08-06 11:44:33.582][INFO] 💎 Node 0 Commit block - Height: 243, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 6.13, TotalTxs: 0, TotalBlocks: 244, tx_ids.len= 0
+[2026-08-06 11:44:33.593][INFO] Node 0 starting view 248
+[2026-08-06 11:44:33.606][INFO] 💎 Node 0 Commit block - Height: 244, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 5.49, TotalTxs: 0, TotalBlocks: 245, tx_ids.len= 0
+[2026-08-06 11:44:33.616][INFO] 💎 Node 0 Commit block - Height: 245, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 5.08, TotalTxs: 0, TotalBlocks: 246, tx_ids.len= 0
+[2026-08-06 11:44:33.619][INFO] Node 0 starting view 249
+[2026-08-06 11:44:33.624][INFO] Node 0 starting view 250
+[2026-08-06 11:44:33.630][INFO] 💎 Node 0 Commit block - Height: 246, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 4.74, TotalTxs: 0, TotalBlocks: 247, tx_ids.len= 0
+[2026-08-06 11:44:33.636][INFO] Node 0 starting view 251
+[2026-08-06 11:44:33.640][INFO] 💎 Node 0 Commit block - Height: 247, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 4.50, TotalTxs: 0, TotalBlocks: 248, tx_ids.len= 0
+[2026-08-06 11:44:33.644][INFO] Node 0 starting view 252
+[2026-08-06 11:44:33.655][INFO] 💎 Node 0 Commit block - Height: 248, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 4.37, TotalTxs: 0, TotalBlocks: 249, tx_ids.len= 0
+[2026-08-06 11:44:33.704][INFO] 💎 Node 0 Commit block - Height: 249, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 3.53, TotalTxs: 0, TotalBlocks: 250, tx_ids.len= 0
+[2026-08-06 11:44:33.740][INFO] Node 0 starting view 253
+[2026-08-06 11:44:33.779][INFO] Node 0 starting view 254
+[2026-08-06 11:44:33.782][INFO] 💎 Node 0 Commit block - Height: 250, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 2.75, TotalTxs: 0, TotalBlocks: 251, tx_ids.len= 0
+[2026-08-06 11:44:33.789][INFO] Node 0 starting view 255
+[2026-08-06 11:44:33.797][INFO] 💎 Node 0 Commit block - Height: 251, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 2.66, TotalTxs: 0, TotalBlocks: 252, tx_ids.len= 0
+[2026-08-06 11:44:33.810][INFO] Node 0 starting view 256
+[2026-08-06 11:44:33.822][INFO] 💎 Node 0 Commit block - Height: 252, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 2.49, TotalTxs: 0, TotalBlocks: 253, tx_ids.len= 0
+[2026-08-06 11:44:33.827][INFO] 💎 Node 0 Commit block - Height: 253, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 2.45, TotalTxs: 0, TotalBlocks: 254, tx_ids.len= 0
+[2026-08-06 11:44:33.847][INFO] Node 0 starting view 257
+[2026-08-06 11:44:33.852][INFO] Node 0 starting view 258
+[2026-08-06 11:44:33.859][INFO] 💎 Node 0 Commit block - Height: 254, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 2.27, TotalTxs: 0, TotalBlocks: 255, tx_ids.len= 0
+[2026-08-06 11:44:33.864][INFO] Node 0 starting view 259
+[2026-08-06 11:44:33.872][INFO] 💎 Node 0 Commit block - Height: 255, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 2.21, TotalTxs: 0, TotalBlocks: 256, tx_ids.len= 0
+[2026-08-06 11:44:33.878][INFO] Node 0 starting view 260
+[2026-08-06 11:44:33.883][INFO] 💎 Node 0 Commit block - Height: 256, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 2.15, TotalTxs: 0, TotalBlocks: 257, tx_ids.len= 0
+[2026-08-06 11:44:33.887][INFO] 💎 Node 0 Commit block - Height: 257, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 2.14, TotalTxs: 0, TotalBlocks: 258, tx_ids.len= 0
+[2026-08-06 11:44:33.892][INFO] Node 0 starting view 261
+[2026-08-06 11:44:33.896][INFO] Node 0 starting view 262
+[2026-08-06 11:44:33.900][INFO] 💎 Node 0 Commit block - Height: 258, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 2.07, TotalTxs: 0, TotalBlocks: 259, tx_ids.len= 0
+[2026-08-06 11:44:33.908][INFO] Node 0 starting view 263
+[2026-08-06 11:44:33.915][INFO] 💎 Node 0 Commit block - Height: 259, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 2.02, TotalTxs: 0, TotalBlocks: 260, tx_ids.len= 0
+[2026-08-06 11:44:33.919][INFO] Node 0 starting view 264
+[2026-08-06 11:44:33.928][INFO] 💎 Node 0 Commit block - Height: 260, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.97, TotalTxs: 0, TotalBlocks: 261, tx_ids.len= 0
+[2026-08-06 11:44:33.936][INFO] 💎 Node 0 Commit block - Height: 261, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.93, TotalTxs: 0, TotalBlocks: 262, tx_ids.len= 0
+[2026-08-06 11:44:33.943][INFO] Node 0 starting view 265
+[2026-08-06 11:44:33.948][INFO] Node 0 starting view 266
+[2026-08-06 11:44:33.950][INFO] 💎 Node 0 Commit block - Height: 262, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.88, TotalTxs: 0, TotalBlocks: 263, tx_ids.len= 0
+[2026-08-06 11:44:33.955][INFO] Node 0 starting view 267
+[2026-08-06 11:44:33.966][INFO] 💎 Node 0 Commit block - Height: 263, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.84, TotalTxs: 0, TotalBlocks: 264, tx_ids.len= 0
+[2026-08-06 11:44:33.974][INFO] Node 0 starting view 268
+[2026-08-06 11:44:33.978][INFO] 💎 Node 0 Commit block - Height: 264, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.79, TotalTxs: 0, TotalBlocks: 265, tx_ids.len= 0
+[2026-08-06 11:44:33.982][INFO] 💎 Node 0 Commit block - Height: 265, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.78, TotalTxs: 0, TotalBlocks: 266, tx_ids.len= 0
+[2026-08-06 11:44:33.989][INFO] Node 0 starting view 269
+[2026-08-06 11:44:33.997][INFO] Node 0 starting view 270
+[2026-08-06 11:44:34.009][INFO] 💎 Node 0 Commit block - Height: 266, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.70, TotalTxs: 0, TotalBlocks: 267, tx_ids.len= 0
+[2026-08-06 11:44:34.024][INFO] Node 0 starting view 271
+[2026-08-06 11:44:34.030][INFO] 💎 Node 0 Commit block - Height: 267, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.64, TotalTxs: 0, TotalBlocks: 268, tx_ids.len= 0
+[2026-08-06 11:44:34.035][INFO] Node 0 starting view 272
+[2026-08-06 11:44:34.039][INFO] 💎 Node 0 Commit block - Height: 268, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.62, TotalTxs: 0, TotalBlocks: 269, tx_ids.len= 0
+[2026-08-06 11:44:34.056][INFO] 💎 Node 0 Commit block - Height: 269, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.57, TotalTxs: 0, TotalBlocks: 270, tx_ids.len= 0
+[2026-08-06 11:44:34.066][INFO] Node 0 starting view 273
+[2026-08-06 11:44:34.077][INFO] Node 0 starting view 274
+[2026-08-06 11:44:34.095][INFO] 💎 Node 0 Commit block - Height: 270, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.48, TotalTxs: 0, TotalBlocks: 271, tx_ids.len= 0
+[2026-08-06 11:44:34.110][INFO] Node 0 starting view 275
+[2026-08-06 11:44:34.114][INFO] 💎 Node 0 Commit block - Height: 271, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 1.44, TotalTxs: 0, TotalBlocks: 272, tx_ids.len= 0
+[2026-08-06 11:44:34.117][INFO] Node 0 starting view 276
+[2026-08-06 11:44:34.132][INFO] 💎 Node 0 Commit block - Height: 272, TxCount: 2107, E2E_TPS: 2975.99, Pure_TPS: 0.00, Submit_TPS: 1.41, TotalTxs: 2107, TotalBlocks: 273, tx_ids.len= 2107
+[2026-08-06 11:44:34.150][INFO] 💎 Node 0 Commit block - Height: 273, TxCount: 2107, E2E_TPS: 5788.46, Pure_TPS: 210650.00, Submit_TPS: 2.75, TotalTxs: 4214, TotalBlocks: 274, tx_ids.len= 2107
+[2026-08-06 11:44:34.155][INFO] Node 0 starting view 277
+[2026-08-06 11:44:34.163][INFO] Node 0 starting view 278
+[2026-08-06 11:44:34.180][INFO] 💎 Node 0 Commit block - Height: 274, TxCount: 2107, E2E_TPS: 8383.29, Pure_TPS: 137391.30, Submit_TPS: 2.65, TotalTxs: 6321, TotalBlocks: 275, tx_ids.len= 2107
+[2026-08-06 11:44:34.185][INFO] Node 0 starting view 279
+[2026-08-06 11:44:34.205][INFO] 💎 Node 0 Commit block - Height: 275, TxCount: 2107, E2E_TPS: 10846.85, Pure_TPS: 122130.43, Submit_TPS: 2.57, TotalTxs: 8428, TotalBlocks: 276, tx_ids.len= 2107
+[2026-08-06 11:44:34.208][INFO] Node 0 starting view 280
+[2026-08-06 11:44:34.219][INFO] 💎 Node 0 Commit block - Height: 276, TxCount: 0, E2E_TPS: 10601.26, Pure_TPS: 122130.43, Submit_TPS: 2.52, TotalTxs: 8428, TotalBlocks: 277, tx_ids.len= 0
+[2026-08-06 11:44:34.226][INFO] 💎 Node 0 Commit block - Height: 277, TxCount: 0, E2E_TPS: 10443.62, Pure_TPS: 122130.43, Submit_TPS: 2.48, TotalTxs: 8428, TotalBlocks: 278, tx_ids.len= 0
+[2026-08-06 11:44:34.228][INFO] Node 0 starting view 281
+[2026-08-06 11:44:34.241][INFO] Node 0 starting view 282
+[2026-08-06 11:44:34.259][INFO] 💎 Node 0 Commit block - Height: 278, TxCount: 3511, E2E_TPS: 14332.53, Pure_TPS: 95504.00, Submit_TPS: 2.40, TotalTxs: 11939, TotalBlocks: 279, tx_ids.len= 3511
+[2026-08-06 11:44:34.266][INFO] Node 0 starting view 283
+[2026-08-06 11:44:34.311][INFO] 💎 Node 0 Commit block - Height: 279, TxCount: 3511, E2E_TPS: 17576.79, Pure_TPS: 90345.03, Submit_TPS: 2.28, TotalTxs: 15450, TotalBlocks: 280, tx_ids.len= 3511
+[2026-08-06 11:44:34.319][INFO] Node 0 starting view 284
+[2026-08-06 11:44:34.360][INFO] 💎 Node 0 Commit block - Height: 280, TxCount: 3511, E2E_TPS: 20565.08, Pure_TPS: 88598.13, Submit_TPS: 2.17, TotalTxs: 18961, TotalBlocks: 281, tx_ids.len= 3511
+[2026-08-06 11:44:34.415][INFO] 💎 Node 0 Commit block - Height: 281, TxCount: 3511, E2E_TPS: 22767.98, Pure_TPS: 80541.22, Submit_TPS: 2.03, TotalTxs: 22472, TotalBlocks: 282, tx_ids.len= 3511
+[2026-08-06 11:44:34.421][INFO] Node 0 starting view 285
+[2026-08-06 11:44:34.438][INFO] Node 0 starting view 286
+[2026-08-06 11:44:34.448][INFO] 💎 Node 0 Commit block - Height: 282, TxCount: 0, E2E_TPS: 21838.68, Pure_TPS: 80541.22, Submit_TPS: 1.94, TotalTxs: 22472, TotalBlocks: 283, tx_ids.len= 0
+[2026-08-06 11:44:34.455][INFO] Node 0 starting view 287
+[2026-08-06 11:44:34.464][INFO] 💎 Node 0 Commit block - Height: 283, TxCount: 0, E2E_TPS: 21545.54, Pure_TPS: 80541.22, Submit_TPS: 1.92, TotalTxs: 22472, TotalBlocks: 284, tx_ids.len= 0
+[2026-08-06 11:44:34.468][INFO] Node 0 starting view 288
+[2026-08-06 11:44:34.480][INFO] 💎 Node 0 Commit block - Height: 284, TxCount: 0, E2E_TPS: 21300.47, Pure_TPS: 80541.22, Submit_TPS: 1.90, TotalTxs: 22472, TotalBlocks: 285, tx_ids.len= 0
+[2026-08-06 11:44:34.481][INFO] 💎 Node 0 Commit block - Height: 285, TxCount: 0, E2E_TPS: 21140.17, Pure_TPS: 80541.22, Submit_TPS: 1.88, TotalTxs: 22472, TotalBlocks: 286, tx_ids.len= 0
+[2026-08-06 11:44:34.482][INFO] Node 0 starting view 289
+[2026-08-06 11:44:34.503][INFO] Node 0 starting view 290
+[2026-08-06 11:44:34.513][INFO] 💎 Node 0 Commit block - Height: 286, TxCount: 0, E2E_TPS: 20597.62, Pure_TPS: 80541.22, Submit_TPS: 1.83, TotalTxs: 22472, TotalBlocks: 287, tx_ids.len= 0
+[2026-08-06 11:44:34.591][INFO] Node 0 starting view 291
+[2026-08-06 11:44:34.739][INFO] 💎 Node 0 Commit block - Height: 287, TxCount: 0, E2E_TPS: 17011.36, Pure_TPS: 80541.22, Submit_TPS: 1.51, TotalTxs: 22472, TotalBlocks: 288, tx_ids.len= 0
+[2026-08-06 11:44:34.740][INFO] Node 0 starting view 292
+[2026-08-06 11:44:34.752][INFO] 💎 Node 0 Commit block - Height: 288, TxCount: 0, E2E_TPS: 16883.55, Pure_TPS: 80541.22, Submit_TPS: 1.50, TotalTxs: 22472, TotalBlocks: 289, tx_ids.len= 0
+[2026-08-06 11:44:34.753][INFO] 💎 Node 0 Commit block - Height: 289, TxCount: 0, E2E_TPS: 16832.96, Pure_TPS: 80541.22, Submit_TPS: 1.50, TotalTxs: 22472, TotalBlocks: 290, tx_ids.len= 0
+[2026-08-06 11:44:34.765][INFO] Node 0 starting view 293
+[2026-08-06 11:44:34.773][INFO] Node 0 starting view 294
+[2026-08-06 11:44:34.912][INFO] 💎 Node 0 Commit block - Height: 290, TxCount: 3511, E2E_TPS: 17663.49, Pure_TPS: 34052.42, Submit_TPS: 1.36, TotalTxs: 25983, TotalBlocks: 291, tx_ids.len= 3511
+[2026-08-06 11:44:34.924][INFO] Node 0 starting view 295
+[2026-08-06 11:44:34.945][INFO] 💎 Node 0 Commit block - Height: 291, TxCount: 3511, E2E_TPS: 19353.02, Pure_TPS: 36143.38, Submit_TPS: 1.31, TotalTxs: 29494, TotalBlocks: 292, tx_ids.len= 3511
+[2026-08-06 11:44:34.947][INFO] Node 0 starting view 296
+[2026-08-06 11:44:34.973][INFO] 💎 Node 0 Commit block - Height: 292, TxCount: 3511, E2E_TPS: 21307.30, Pure_TPS: 39243.76, Submit_TPS: 1.29, TotalTxs: 33005, TotalBlocks: 293, tx_ids.len= 3511
+[2026-08-06 11:44:34.990][INFO] 💎 Node 0 Commit block - Height: 293, TxCount: 3511, E2E_TPS: 23347.83, Pure_TPS: 42657.71, Submit_TPS: 1.28, TotalTxs: 36516, TotalBlocks: 294, tx_ids.len= 3511
+[2026-08-06 11:44:35.004][INFO] Node 0 starting view 297
+[2026-08-06 11:44:35.013][INFO] Node 0 starting view 298
+[2026-08-06 11:44:35.038][INFO] 💎 Node 0 Commit block - Height: 294, TxCount: 2809, E2E_TPS: 24380.04, Pure_TPS: 43451.93, Submit_TPS: 1.86, TotalTxs: 39325, TotalBlocks: 295, tx_ids.len= 2809
+[2026-08-06 11:44:35.051][INFO] Node 0 starting view 299
+[2026-08-06 11:44:35.112][INFO] 💎 Node 0 Commit block - Height: 295, TxCount: 2809, E2E_TPS: 24916.62, Pure_TPS: 42861.65, Submit_TPS: 1.77, TotalTxs: 42134, TotalBlocks: 296, tx_ids.len= 2809
+[2026-08-06 11:44:35.154][INFO] Node 0 starting view 300
+[2026-08-06 11:44:35.172][INFO] 💎 Node 0 Commit block - Height: 296, TxCount: 2809, E2E_TPS: 25637.76, Pure_TPS: 43006.70, Submit_TPS: 1.71, TotalTxs: 44943, TotalBlocks: 297, tx_ids.len= 2809
+[2026-08-06 11:44:35.182][INFO] 💎 Node 0 Commit block - Height: 297, TxCount: 2809, E2E_TPS: 27178.14, Pure_TPS: 45520.50, Submit_TPS: 1.71, TotalTxs: 47752, TotalBlocks: 298, tx_ids.len= 2809
+[2026-08-06 11:44:35.187][INFO] Node 0 starting view 301
+[2026-08-06 11:44:35.203][INFO] Node 0 starting view 302
+[2026-08-06 11:44:35.234][INFO] 💎 Node 0 Commit block - Height: 298, TxCount: 4212, E2E_TPS: 28725.26, Pure_TPS: 47196.19, Submit_TPS: 1.66, TotalTxs: 51964, TotalBlocks: 299, tx_ids.len= 4212
+[2026-08-06 11:44:35.254][INFO] Node 0 starting view 303
+[2026-08-06 11:44:35.298][INFO] 💎 Node 0 Commit block - Height: 299, TxCount: 4212, E2E_TPS: 30072.81, Pure_TPS: 48426.72, Submit_TPS: 1.61, TotalTxs: 56176, TotalBlocks: 300, tx_ids.len= 4212
+[2026-08-06 11:44:35.324][INFO] Node 0 starting view 304
+[2026-08-06 11:44:35.365][INFO] 💎 Node 0 Commit block - Height: 300, TxCount: 7021, E2E_TPS: 32710.66, Pure_TPS: 51630.72, Submit_TPS: 1.55, TotalTxs: 63197, TotalBlocks: 301, tx_ids.len= 7021
+[2026-08-06 11:44:35.406][INFO] 💎 Node 0 Commit block - Height: 301, TxCount: 11233, E2E_TPS: 37609.90, Pure_TPS: 58559.40, Submit_TPS: 1.52, TotalTxs: 74430, TotalBlocks: 302, tx_ids.len= 11233
+[2026-08-06 11:44:35.419][INFO] Node 0 starting view 305
+[2026-08-06 11:44:35.454][INFO] Node 0 starting view 306
+[2026-08-06 11:44:35.556][INFO] 💎 Node 0 Commit block - Height: 302, TxCount: 10532, E2E_TPS: 40419.60, Pure_TPS: 60947.63, Submit_TPS: 1.43, TotalTxs: 84962, TotalBlocks: 303, tx_ids.len= 10532
+[2026-08-06 11:44:35.644][INFO] Node 0 starting view 307
+[2026-08-06 11:44:36.373][INFO] 💎 Node 0 Commit block - Height: 303, TxCount: 7723, E2E_TPS: 31784.98, Pure_TPS: 41976.45, Submit_TPS: 1.37, TotalTxs: 92685, TotalBlocks: 304, tx_ids.len= 7723
+[2026-08-06 11:44:36.375][INFO] Node 0 starting view 308
+[2026-08-06 11:44:36.435][INFO] 💎 Node 0 Commit block - Height: 304, TxCount: 4212, E2E_TPS: 32342.12, Pure_TPS: 42349.65, Submit_TPS: 1.34, TotalTxs: 96897, TotalBlocks: 305, tx_ids.len= 4212
+[2026-08-06 11:44:36.502][INFO] 💎 Node 0 Commit block - Height: 305, TxCount: 10532, E2E_TPS: 35061.68, Pure_TPS: 45597.62, Submit_TPS: 1.31, TotalTxs: 107429, TotalBlocks: 306, tx_ids.len= 10532
+[2026-08-06 11:44:36.532][INFO] Node 0 starting view 309
+[2026-08-06 11:44:36.569][INFO] Node 0 starting view 310
+[2026-08-06 11:44:36.612][INFO] 💎 Node 0 Commit block - Height: 306, TxCount: 0, E2E_TPS: 33687.36, Pure_TPS: 45597.62, Submit_TPS: 1.25, TotalTxs: 107429, TotalBlocks: 307, tx_ids.len= 0
+[2026-08-06 11:44:36.716][INFO] Node 0 starting view 311
+[2026-08-06 11:44:36.825][INFO] 💎 Node 0 Commit block - Height: 307, TxCount: 0, E2E_TPS: 31606.06, Pure_TPS: 45597.62, Submit_TPS: 1.18, TotalTxs: 107429, TotalBlocks: 308, tx_ids.len= 0
+[2026-08-06 11:44:36.844][INFO] Node 0 starting view 312
+[2026-08-06 11:44:36.893][INFO] 💎 Node 0 Commit block - Height: 308, TxCount: 4212, E2E_TPS: 32145.41, Pure_TPS: 40376.13, Submit_TPS: 1.44, TotalTxs: 111641, TotalBlocks: 309, tx_ids.len= 4212
+[2026-08-06 11:44:36.927][INFO] 💎 Node 0 Commit block - Height: 309, TxCount: 11935, E2E_TPS: 35287.26, Pure_TPS: 44228.70, Submit_TPS: 1.43, TotalTxs: 123576, TotalBlocks: 310, tx_ids.len= 11935
+[2026-08-06 11:44:36.945][INFO] Node 0 starting view 313
+[2026-08-06 11:44:37.011][INFO] 💎 Node 0 Commit block - Height: 310, TxCount: 2809, E2E_TPS: 35224.36, Pure_TPS: 43883.33, Submit_TPS: 1.39, TotalTxs: 126385, TotalBlocks: 311, tx_ids.len= 2809
+[2026-08-06 11:44:37.054][INFO] Node 0 starting view 315
+[2026-08-06 11:44:37.073][INFO] 💎 Node 0 Commit block - Height: 311, TxCount: 0, E2E_TPS: 34588.12, Pure_TPS: 43883.33, Submit_TPS: 1.37, TotalTxs: 126385, TotalBlocks: 312, tx_ids.len= 0
+[2026-08-06 11:44:37.120][INFO] Node 0 starting view 316
+[2026-08-06 11:44:37.155][INFO] 💎 Node 0 Commit block - Height: 312, TxCount: 0, E2E_TPS: 33828.96, Pure_TPS: 43883.33, Submit_TPS: 1.34, TotalTxs: 126385, TotalBlocks: 313, tx_ids.len= 0
+[2026-08-06 11:44:37.178][INFO] 💎 Node 0 Commit block - Height: 313, TxCount: 0, E2E_TPS: 33693.68, Pure_TPS: 43883.33, Submit_TPS: 1.33, TotalTxs: 126385, TotalBlocks: 314, tx_ids.len= 0
+[2026-08-06 11:44:37.195][INFO] Node 0 starting view 317
+[2026-08-06 11:44:37.243][INFO] 💎 Node 0 Commit block - Height: 314, TxCount: 0, E2E_TPS: 33050.47, Pure_TPS: 43883.33, Submit_TPS: 1.31, TotalTxs: 126385, TotalBlocks: 315, tx_ids.len= 0
+[2026-08-06 11:44:37.268][INFO] Node 0 starting view 319
+[2026-08-06 11:44:37.277][INFO] 💎 Node 0 Commit block - Height: 315, TxCount: 2809, E2E_TPS: 33522.06, Pure_TPS: 41065.80, Submit_TPS: 1.30, TotalTxs: 129194, TotalBlocks: 316, tx_ids.len= 2809
+[2026-08-06 11:44:37.441][INFO] 💎 Node 0 Commit block - Height: 316, TxCount: 0, E2E_TPS: 32129.82, Pure_TPS: 41065.80, Submit_TPS: 1.24, TotalTxs: 129194, TotalBlocks: 317, tx_ids.len= 0
+[2026-08-06 11:44:37.442][INFO] 💎 Node 0 Commit block - Height: 317, TxCount: 0, E2E_TPS: 32113.85, Pure_TPS: 41065.80, Submit_TPS: 1.24, TotalTxs: 129194, TotalBlocks: 318, tx_ids.len= 0
+[2026-08-06 11:44:37.442][INFO] Node 0 starting view 321
+[2026-08-06 11:44:37.512][INFO] 💎 Node 0 Commit block - Height: 318, TxCount: 0, E2E_TPS: 31564.62, Pure_TPS: 41065.80, Submit_TPS: 1.22, TotalTxs: 129194, TotalBlocks: 319, tx_ids.len= 0
+[2026-08-06 11:44:37.566][INFO] Node 0 starting view 323
+[2026-08-06 11:44:37.591][INFO] 💎 Node 0 Commit block - Height: 319, TxCount: 2809, E2E_TPS: 31769.68, Pure_TPS: 38294.75, Submit_TPS: 1.20, TotalTxs: 132003, TotalBlocks: 320, tx_ids.len= 2809
+[2026-08-06 11:44:37.636][INFO] 💎 Node 0 Commit block - Height: 320, TxCount: 0, E2E_TPS: 31302.58, Pure_TPS: 38294.75, Submit_TPS: 1.19, TotalTxs: 132003, TotalBlocks: 321, tx_ids.len= 0
+[2026-08-06 11:44:37.671][INFO] 💎 Node 0 Commit block - Height: 321, TxCount: 0, E2E_TPS: 31044.92, Pure_TPS: 38294.75, Submit_TPS: 1.41, TotalTxs: 132003, TotalBlocks: 322, tx_ids.len= 0
+[2026-08-06 11:44:37.677][INFO] Node 0 starting view 325
+[2026-08-06 11:44:37.755][INFO] Node 0 starting view 326
+[2026-08-06 11:44:37.796][INFO] 💎 Node 0 Commit block - Height: 322, TxCount: 4212, E2E_TPS: 31184.75, Pure_TPS: 37216.94, Submit_TPS: 1.37, TotalTxs: 136215, TotalBlocks: 323, tx_ids.len= 4212
+[2026-08-06 11:44:37.806][INFO] Node 0 starting view 327
+[2026-08-06 11:44:37.823][INFO] 💎 Node 0 Commit block - Height: 323, TxCount: 4212, E2E_TPS: 31915.23, Pure_TPS: 38035.21, Submit_TPS: 1.36, TotalTxs: 140427, TotalBlocks: 324, tx_ids.len= 4212
+[2026-08-06 11:44:37.939][INFO] 💎 Node 0 Commit block - Height: 324, TxCount: 0, E2E_TPS: 31061.05, Pure_TPS: 38035.21, Submit_TPS: 1.33, TotalTxs: 140427, TotalBlocks: 325, tx_ids.len= 0
+[2026-08-06 11:44:38.082][INFO] 💎 Node 0 Commit block - Height: 325, TxCount: 2107, E2E_TPS: 30639.29, Pure_TPS: 36139.20, Submit_TPS: 1.29, TotalTxs: 142534, TotalBlocks: 326, tx_ids.len= 2107
+[2026-08-06 11:44:38.123][INFO] Node 0 starting view 329
+[2026-08-06 11:44:38.182][INFO] Node 0 starting view 330
+[2026-08-06 11:44:38.199][INFO] 💎 Node 0 Commit block - Height: 326, TxCount: 2107, E2E_TPS: 30265.96, Pure_TPS: 35529.35, Submit_TPS: 1.26, TotalTxs: 144641, TotalBlocks: 327, tx_ids.len= 2107
+[2026-08-06 11:44:38.223][INFO] Node 0 starting view 331
+[2026-08-06 11:44:38.242][INFO] 💎 Node 0 Commit block - Height: 327, TxCount: 2809, E2E_TPS: 30610.34, Pure_TPS: 35884.40, Submit_TPS: 1.25, TotalTxs: 147450, TotalBlocks: 328, tx_ids.len= 2809
+[2026-08-06 11:44:38.302][INFO] Node 0 starting view 332
+[2026-08-06 11:44:38.333][INFO] 💎 Node 0 Commit block - Height: 328, TxCount: 0, E2E_TPS: 30036.67, Pure_TPS: 35884.40, Submit_TPS: 1.22, TotalTxs: 147450, TotalBlocks: 329, tx_ids.len= 0
+[2026-08-06 11:44:38.383][INFO] 💎 Node 0 Commit block - Height: 329, TxCount: 2809, E2E_TPS: 30355.35, Pure_TPS: 35421.50, Submit_TPS: 1.21, TotalTxs: 150259, TotalBlocks: 330, tx_ids.len= 2809
+[2026-08-06 11:44:38.384][INFO] Node 0 starting view 333
+[2026-08-06 11:44:38.465][INFO] 💎 Node 0 Commit block - Height: 330, TxCount: 0, E2E_TPS: 29825.13, Pure_TPS: 35421.50, Submit_TPS: 1.39, TotalTxs: 150259, TotalBlocks: 331, tx_ids.len= 0
+[2026-08-06 11:44:38.578][INFO] Node 0 starting view 335
+[2026-08-06 11:44:38.618][INFO] 💎 Node 0 Commit block - Height: 331, TxCount: 3511, E2E_TPS: 29685.33, Pure_TPS: 34384.84, Submit_TPS: 1.35, TotalTxs: 153770, TotalBlocks: 332, tx_ids.len= 3511
+[2026-08-06 11:44:38.809][INFO] Node 0 starting view 336
+[2026-08-06 11:44:38.827][INFO] 💎 Node 0 Commit block - Height: 332, TxCount: 3511, E2E_TPS: 29088.40, Pure_TPS: 33470.95, Submit_TPS: 1.29, TotalTxs: 157281, TotalBlocks: 333, tx_ids.len= 3511
+[2026-08-06 11:44:38.887][INFO] 💎 Node 0 Commit block - Height: 333, TxCount: 0, E2E_TPS: 28821.88, Pure_TPS: 33470.95, Submit_TPS: 1.28, TotalTxs: 157281, TotalBlocks: 334, tx_ids.len= 0
+[2026-08-06 11:44:38.891][INFO] Node 0 starting view 337
+[2026-08-06 11:44:38.916][INFO] Node 0 starting view 338
+[2026-08-06 11:44:38.926][INFO] 💎 Node 0 Commit block - Height: 334, TxCount: 2809, E2E_TPS: 29101.98, Pure_TPS: 33400.58, Submit_TPS: 1.27, TotalTxs: 160090, TotalBlocks: 335, tx_ids.len= 2809
+[2026-08-06 11:44:38.928][INFO] Node 0 starting view 339
+[2026-08-06 11:44:39.076][INFO] 💎 Node 0 Commit block - Height: 335, TxCount: 2809, E2E_TPS: 28836.79, Pure_TPS: 32968.63, Submit_TPS: 1.24, TotalTxs: 162899, TotalBlocks: 336, tx_ids.len= 2809
+[2026-08-06 11:44:39.101][INFO] Node 0 starting view 340
+[2026-08-06 11:44:39.193][INFO] 💎 Node 0 Commit block - Height: 336, TxCount: 2809, E2E_TPS: 28703.97, Pure_TPS: 32716.09, Submit_TPS: 1.39, TotalTxs: 165708, TotalBlocks: 337, tx_ids.len= 2809
+[2026-08-06 11:44:39.206][INFO] 💎 Node 0 Commit block - Height: 337, TxCount: 0, E2E_TPS: 28634.53, Pure_TPS: 32716.09, Submit_TPS: 1.38, TotalTxs: 165708, TotalBlocks: 338, tx_ids.len= 0
+[2026-08-06 11:44:39.209][INFO] Node 0 starting view 341
+[2026-08-06 11:44:39.213][INFO] Node 0 starting view 342
+[2026-08-06 11:44:39.229][INFO] 💎 Node 0 Commit block - Height: 338, TxCount: 0, E2E_TPS: 28530.99, Pure_TPS: 32716.09, Submit_TPS: 1.38, TotalTxs: 165708, TotalBlocks: 339, tx_ids.len= 0
+[2026-08-06 11:44:39.233][INFO] Node 0 starting view 343
+[2026-08-06 11:44:39.338][INFO] 💎 Node 0 Commit block - Height: 339, TxCount: 2107, E2E_TPS: 28356.71, Pure_TPS: 32209.98, Submit_TPS: 1.35, TotalTxs: 167815, TotalBlocks: 340, tx_ids.len= 2107
+[2026-08-06 11:44:39.359][INFO] Node 0 starting view 344
+[2026-08-06 11:44:39.435][INFO] 💎 Node 0 Commit block - Height: 340, TxCount: 2107, E2E_TPS: 28306.18, Pure_TPS: 32090.84, Submit_TPS: 1.33, TotalTxs: 169922, TotalBlocks: 341, tx_ids.len= 2107
+[2026-08-06 11:44:39.440][INFO] 💎 Node 0 Commit block - Height: 341, TxCount: 0, E2E_TPS: 28216.87, Pure_TPS: 32090.84, Submit_TPS: 1.33, TotalTxs: 169922, TotalBlocks: 342, tx_ids.len= 0
+[2026-08-06 11:44:39.449][INFO] Node 0 starting view 345
+[2026-08-06 11:44:39.623][INFO] Node 0 starting view 346
+[2026-08-06 11:44:39.653][INFO] 💎 Node 0 Commit block - Height: 342, TxCount: 4212, E2E_TPS: 27982.32, Pure_TPS: 31574.43, Submit_TPS: 1.29, TotalTxs: 174134, TotalBlocks: 343, tx_ids.len= 4212
+[2026-08-06 11:44:39.655][INFO] Node 0 starting view 347
+[2026-08-06 11:44:39.686][INFO] 💎 Node 0 Commit block - Height: 343, TxCount: 4212, E2E_TPS: 28485.23, Pure_TPS: 32116.87, Submit_TPS: 1.28, TotalTxs: 178346, TotalBlocks: 344, tx_ids.len= 4212
+[2026-08-06 11:44:39.815][INFO] Node 0 starting view 348
+[2026-08-06 11:44:39.890][INFO] 💎 Node 0 Commit block - Height: 344, TxCount: 0, E2E_TPS: 27633.41, Pure_TPS: 32116.87, Submit_TPS: 1.24, TotalTxs: 178346, TotalBlocks: 345, tx_ids.len= 0
+[2026-08-06 11:44:39.925][INFO] 💎 Node 0 Commit block - Height: 345, TxCount: 0, E2E_TPS: 27408.33, Pure_TPS: 32116.87, Submit_TPS: 1.38, TotalTxs: 178346, TotalBlocks: 346, tx_ids.len= 0
+[2026-08-06 11:44:39.926][INFO] Node 0 starting view 349
+[2026-08-06 11:44:39.941][INFO] Node 0 starting view 350
+[2026-08-06 11:44:39.956][INFO] 💎 Node 0 Commit block - Height: 346, TxCount: 3511, E2E_TPS: 27862.26, Pure_TPS: 31252.11, Submit_TPS: 1.38, TotalTxs: 181857, TotalBlocks: 347, tx_ids.len= 3511
+[2026-08-06 11:44:40.035][INFO] Node 0 starting view 351
+[2026-08-06 11:44:40.125][INFO] 💎 Node 0 Commit block - Height: 347, TxCount: 0, E2E_TPS: 27134.74, Pure_TPS: 31252.11, Submit_TPS: 1.34, TotalTxs: 181857, TotalBlocks: 348, tx_ids.len= 0
+[2026-08-06 11:44:40.262][INFO] Node 0 starting view 352
+[2026-08-06 11:44:40.309][INFO] 💎 Node 0 Commit block - Height: 348, TxCount: 2809, E2E_TPS: 26805.92, Pure_TPS: 29876.23, Submit_TPS: 1.31, TotalTxs: 184666, TotalBlocks: 349, tx_ids.len= 2809
+[2026-08-06 11:44:40.325][INFO] 💎 Node 0 Commit block - Height: 349, TxCount: 2809, E2E_TPS: 27142.75, Pure_TPS: 30242.62, Submit_TPS: 1.30, TotalTxs: 187475, TotalBlocks: 350, tx_ids.len= 2809
+[2026-08-06 11:44:40.335][INFO] Node 0 starting view 353
+[2026-08-06 11:44:40.428][INFO] Node 0 starting view 354
+[2026-08-06 11:44:40.552][INFO] 💎 Node 0 Commit block - Height: 350, TxCount: 3511, E2E_TPS: 26805.05, Pure_TPS: 29762.35, Submit_TPS: 1.26, TotalTxs: 190986, TotalBlocks: 351, tx_ids.len= 3511
+[2026-08-06 11:44:40.744][INFO] 💎 Node 0 Commit block - Height: 351, TxCount: 0, E2E_TPS: 26133.83, Pure_TPS: 29762.35, Submit_TPS: 1.23, TotalTxs: 190986, TotalBlocks: 352, tx_ids.len= 0
+[2026-08-06 11:44:40.772][INFO] Node 0 starting view 356
+[2026-08-06 11:44:40.791][INFO] 💎 Node 0 Commit block - Height: 352, TxCount: 3511, E2E_TPS: 26390.37, Pure_TPS: 29194.84, Submit_TPS: 1.22, TotalTxs: 194497, TotalBlocks: 353, tx_ids.len= 3511
+[2026-08-06 11:44:40.847][INFO] 💎 Node 0 Commit block - Height: 353, TxCount: 7022, E2E_TPS: 27173.54, Pure_TPS: 30041.44, Submit_TPS: 1.21, TotalTxs: 201519, TotalBlocks: 354, tx_ids.len= 7022
+[2026-08-06 11:44:40.859][INFO] Node 0 starting view 357
+[2026-08-06 11:44:40.866][INFO] Node 0 starting view 358
+[2026-08-06 11:44:40.869][INFO] 💎 Node 0 Commit block - Height: 354, TxCount: 0, E2E_TPS: 27049.53, Pure_TPS: 30041.44, Submit_TPS: 1.21, TotalTxs: 201519, TotalBlocks: 355, tx_ids.len= 0
+[2026-08-06 11:44:40.875][INFO] Node 0 starting view 359
+[2026-08-06 11:44:40.928][INFO] 💎 Node 0 Commit block - Height: 355, TxCount: 0, E2E_TPS: 26923.05, Pure_TPS: 30041.44, Submit_TPS: 1.34, TotalTxs: 201519, TotalBlocks: 356, tx_ids.len= 0
+[2026-08-06 11:44:40.948][INFO] Node 0 starting view 360
+[2026-08-06 11:44:40.974][INFO] 💎 Node 0 Commit block - Height: 356, TxCount: 0, E2E_TPS: 26687.72, Pure_TPS: 30041.44, Submit_TPS: 1.32, TotalTxs: 201519, TotalBlocks: 357, tx_ids.len= 0
+[2026-08-06 11:44:41.027][INFO] 💎 Node 0 Commit block - Height: 357, TxCount: 0, E2E_TPS: 26515.66, Pure_TPS: 30041.44, Submit_TPS: 1.32, TotalTxs: 201519, TotalBlocks: 358, tx_ids.len= 0
+[2026-08-06 11:44:41.033][INFO] Node 0 starting view 361
+[2026-08-06 11:44:41.076][INFO] Node 0 starting view 362
+[2026-08-06 11:44:41.081][INFO] 💎 Node 0 Commit block - Height: 358, TxCount: 0, E2E_TPS: 26297.66, Pure_TPS: 30041.44, Submit_TPS: 1.30, TotalTxs: 201519, TotalBlocks: 359, tx_ids.len= 0
+[2026-08-06 11:44:41.086][INFO] Node 0 starting view 363
+[2026-08-06 11:44:41.091][INFO] 💎 Node 0 Commit block - Height: 359, TxCount: 0, E2E_TPS: 26266.81, Pure_TPS: 30041.44, Submit_TPS: 1.30, TotalTxs: 201519, TotalBlocks: 360, tx_ids.len= 0
+[2026-08-06 11:44:41.394][INFO] 💎 Node 0 Commit block - Height: 360, TxCount: 2809, E2E_TPS: 25650.01, Pure_TPS: 28151.97, Submit_TPS: 1.26, TotalTxs: 204328, TotalBlocks: 361, tx_ids.len= 2809
+[2026-08-06 11:44:41.409][INFO] 💎 Node 0 Commit block - Height: 361, TxCount: 0, E2E_TPS: 25576.17, Pure_TPS: 28151.97, Submit_TPS: 1.25, TotalTxs: 204328, TotalBlocks: 362, tx_ids.len= 0
+[2026-08-06 11:44:41.431][INFO] Node 0 starting view 365
+[2026-08-06 11:44:41.511][INFO] Node 0 starting view 366
+[2026-08-06 11:44:41.521][INFO] 💎 Node 0 Commit block - Height: 362, TxCount: 0, E2E_TPS: 25216.34, Pure_TPS: 28151.97, Submit_TPS: 1.23, TotalTxs: 204328, TotalBlocks: 363, tx_ids.len= 0
+[2026-08-06 11:44:41.546][INFO] Node 0 starting view 367
+[2026-08-06 11:44:41.654][INFO] 💎 Node 0 Commit block - Height: 363, TxCount: 0, E2E_TPS: 24830.23, Pure_TPS: 28151.97, Submit_TPS: 1.34, TotalTxs: 204328, TotalBlocks: 364, tx_ids.len= 0
+[2026-08-06 11:44:41.834][INFO] Node 0 starting view 368
+[2026-08-06 11:44:41.858][INFO] 💎 Node 0 Commit block - Height: 364, TxCount: 0, E2E_TPS: 24218.09, Pure_TPS: 28151.97, Submit_TPS: 1.30, TotalTxs: 204328, TotalBlocks: 365, tx_ids.len= 0
+[2026-08-06 11:44:41.873][INFO] 💎 Node 0 Commit block - Height: 365, TxCount: 3511, E2E_TPS: 24602.15, Pure_TPS: 26852.45, Submit_TPS: 1.30, TotalTxs: 207839, TotalBlocks: 366, tx_ids.len= 3511
+[2026-08-06 11:44:41.887][INFO] Node 0 starting view 369
+[2026-08-06 11:44:42.029][INFO] Node 0 starting view 370
+[2026-08-06 11:44:42.048][INFO] 💎 Node 0 Commit block - Height: 366, TxCount: 2809, E2E_TPS: 24428.62, Pure_TPS: 26613.64, Submit_TPS: 1.28, TotalTxs: 210648, TotalBlocks: 367, tx_ids.len= 2809
+[2026-08-06 11:44:42.084][INFO] Node 0 starting view 371
+[2026-08-06 11:44:42.096][INFO] 💎 Node 0 Commit block - Height: 367, TxCount: 2809, E2E_TPS: 24623.02, Pure_TPS: 26812.71, Submit_TPS: 1.27, TotalTxs: 213457, TotalBlocks: 368, tx_ids.len= 2809
+[2026-08-06 11:44:42.155][INFO] Node 0 starting view 372
+[2026-08-06 11:44:42.203][INFO] 💎 Node 0 Commit block - Height: 368, TxCount: 0, E2E_TPS: 24303.43, Pure_TPS: 26812.71, Submit_TPS: 1.25, TotalTxs: 213457, TotalBlocks: 369, tx_ids.len= 0
+[2026-08-06 11:44:42.259][INFO] 💎 Node 0 Commit block - Height: 369, TxCount: 2809, E2E_TPS: 24467.25, Pure_TPS: 26597.59, Submit_TPS: 1.24, TotalTxs: 216266, TotalBlocks: 370, tx_ids.len= 2809
+[2026-08-06 11:44:42.266][INFO] Node 0 starting view 373
+[2026-08-06 11:44:42.357][INFO] Node 0 starting view 374
+[2026-08-06 11:44:42.388][INFO] 💎 Node 0 Commit block - Height: 370, TxCount: 0, E2E_TPS: 24112.61, Pure_TPS: 26597.59, Submit_TPS: 1.23, TotalTxs: 216266, TotalBlocks: 371, tx_ids.len= 0
+[2026-08-06 11:44:42.476][INFO] Node 0 starting view 375
+[2026-08-06 11:44:42.607][INFO] 💎 Node 0 Commit block - Height: 371, TxCount: 2809, E2E_TPS: 23879.99, Pure_TPS: 25876.92, Submit_TPS: 1.31, TotalTxs: 219075, TotalBlocks: 372, tx_ids.len= 2809
+[2026-08-06 11:44:42.635][INFO] Node 0 starting view 376
+[2026-08-06 11:44:42.666][INFO] 💎 Node 0 Commit block - Height: 372, TxCount: 0, E2E_TPS: 23691.47, Pure_TPS: 25876.92, Submit_TPS: 1.30, TotalTxs: 219075, TotalBlocks: 373, tx_ids.len= 0
+[2026-08-06 11:44:42.674][INFO] 💎 Node 0 Commit block - Height: 373, TxCount: 0, E2E_TPS: 23670.99, Pure_TPS: 25876.92, Submit_TPS: 1.30, TotalTxs: 219075, TotalBlocks: 374, tx_ids.len= 0
+[2026-08-06 11:44:42.679][INFO] Node 0 starting view 377
+[2026-08-06 11:44:42.687][INFO] Node 0 starting view 378
+[2026-08-06 11:44:42.692][INFO] 💎 Node 0 Commit block - Height: 374, TxCount: 2809, E2E_TPS: 23935.71, Pure_TPS: 25914.86, Submit_TPS: 1.29, TotalTxs: 221884, TotalBlocks: 375, tx_ids.len= 2809
+[2026-08-06 11:44:42.698][INFO] Node 0 starting view 379
+[2026-08-06 11:44:42.765][INFO] 💎 Node 0 Commit block - Height: 375, TxCount: 0, E2E_TPS: 23799.64, Pure_TPS: 25914.86, Submit_TPS: 1.29, TotalTxs: 221884, TotalBlocks: 376, tx_ids.len= 0
+[2026-08-06 11:44:42.767][INFO] Node 0 starting view 380
+[2026-08-06 11:44:42.769][INFO] 💎 Node 0 Commit block - Height: 376, TxCount: 0, E2E_TPS: 23728.37, Pure_TPS: 25914.86, Submit_TPS: 1.28, TotalTxs: 221884, TotalBlocks: 377, tx_ids.len= 0
+[2026-08-06 11:44:42.771][INFO] 💎 Node 0 Commit block - Height: 377, TxCount: 0, E2E_TPS: 23723.30, Pure_TPS: 25914.86, Submit_TPS: 1.28, TotalTxs: 221884, TotalBlocks: 378, tx_ids.len= 0
+[2026-08-06 11:44:42.772][INFO] Node 0 starting view 381
+[2026-08-06 11:44:42.786][INFO] Node 0 starting view 382
+[2026-08-06 11:44:42.811][INFO] 💎 Node 0 Commit block - Height: 378, TxCount: 0, E2E_TPS: 23624.79, Pure_TPS: 25914.86, Submit_TPS: 1.28, TotalTxs: 221884, TotalBlocks: 379, tx_ids.len= 0
+[2026-08-06 11:44:42.919][INFO] Node 0 starting view 383
+[2026-08-06 11:44:42.992][INFO] 💎 Node 0 Commit block - Height: 379, TxCount: 0, E2E_TPS: 23185.37, Pure_TPS: 25914.86, Submit_TPS: 1.25, TotalTxs: 221884, TotalBlocks: 380, tx_ids.len= 0
+[2026-08-06 11:44:43.105][INFO] Node 0 starting view 384
+[2026-08-06 11:44:43.255][INFO] 💎 Node 0 Commit block - Height: 380, TxCount: 0, E2E_TPS: 22574.42, Pure_TPS: 25914.86, Submit_TPS: 1.22, TotalTxs: 221884, TotalBlocks: 381, tx_ids.len= 0
+[2026-08-06 11:44:43.371][INFO] 💎 Node 0 Commit block - Height: 381, TxCount: 0, E2E_TPS: 22293.18, Pure_TPS: 25914.86, Submit_TPS: 1.31, TotalTxs: 221884, TotalBlocks: 382, tx_ids.len= 0
+[2026-08-06 11:44:43.813][INFO] Node 0 starting view 386
+[2026-08-06 11:44:43.860][INFO] 💎 Node 0 Commit block - Height: 382, TxCount: 3511, E2E_TPS: 21599.90, Pure_TPS: 23172.00, Submit_TPS: 1.25, TotalTxs: 225395, TotalBlocks: 383, tx_ids.len= 3511
+[2026-08-06 11:44:43.934][INFO] 💎 Node 0 Commit block - Height: 383, TxCount: 3511, E2E_TPS: 21777.76, Pure_TPS: 23350.50, Submit_TPS: 1.24, TotalTxs: 228906, TotalBlocks: 384, tx_ids.len= 3511
+[2026-08-06 11:44:43.951][INFO] Node 0 starting view 388
+[2026-08-06 11:44:44.011][INFO] 💎 Node 0 Commit block - Height: 384, TxCount: 3511, E2E_TPS: 21977.97, Pure_TPS: 23554.88, Submit_TPS: 1.23, TotalTxs: 232417, TotalBlocks: 385, tx_ids.len= 3511
+[2026-08-06 11:44:44.050][INFO] 💎 Node 0 Commit block - Height: 385, TxCount: 2107, E2E_TPS: 22079.08, Pure_TPS: 23655.74, Submit_TPS: 1.22, TotalTxs: 234524, TotalBlocks: 386, tx_ids.len= 2107
+[2026-08-06 11:44:44.065][INFO] Node 0 starting view 389
+[2026-08-06 11:44:44.074][INFO] Node 0 starting view 390
+[2026-08-06 11:44:44.075][INFO] 💎 Node 0 Commit block - Height: 386, TxCount: 0, E2E_TPS: 22006.57, Pure_TPS: 23655.74, Submit_TPS: 1.22, TotalTxs: 234524, TotalBlocks: 387, tx_ids.len= 0
+[2026-08-06 11:44:44.127][INFO] Node 0 starting view 391
+[2026-08-06 11:44:44.181][INFO] 💎 Node 0 Commit block - Height: 387, TxCount: 0, E2E_TPS: 21824.31, Pure_TPS: 23655.74, Submit_TPS: 1.21, TotalTxs: 234524, TotalBlocks: 388, tx_ids.len= 0
+[2026-08-06 11:44:44.244][INFO] Node 0 starting view 392
+[2026-08-06 11:44:44.312][INFO] 💎 Node 0 Commit block - Height: 388, TxCount: 0, E2E_TPS: 21529.79, Pure_TPS: 23655.74, Submit_TPS: 1.29, TotalTxs: 234524, TotalBlocks: 389, tx_ids.len= 0
+[2026-08-06 11:44:44.385][INFO] 💎 Node 0 Commit block - Height: 389, TxCount: 0, E2E_TPS: 21384.52, Pure_TPS: 23655.74, Submit_TPS: 1.28, TotalTxs: 234524, TotalBlocks: 390, tx_ids.len= 0
+[2026-08-06 11:44:44.391][INFO] Node 0 starting view 393
+[2026-08-06 11:44:44.392][INFO] Node 0 starting view 394
+[2026-08-06 11:44:44.393][INFO] 💎 Node 0 Commit block - Height: 390, TxCount: 0, E2E_TPS: 21368.93, Pure_TPS: 23655.74, Submit_TPS: 1.28, TotalTxs: 234524, TotalBlocks: 391, tx_ids.len= 0
+[2026-08-06 11:44:44.428][INFO] Node 0 starting view 395
+[2026-08-06 11:44:44.441][INFO] 💎 Node 0 Commit block - Height: 391, TxCount: 0, E2E_TPS: 21275.88, Pure_TPS: 23655.74, Submit_TPS: 1.27, TotalTxs: 234524, TotalBlocks: 392, tx_ids.len= 0
+[2026-08-06 11:44:44.483][INFO] Node 0 starting view 396
+[2026-08-06 11:44:44.507][INFO] 💎 Node 0 Commit block - Height: 392, TxCount: 0, E2E_TPS: 21149.25, Pure_TPS: 23655.74, Submit_TPS: 1.26, TotalTxs: 234524, TotalBlocks: 393, tx_ids.len= 0
+[2026-08-06 11:44:44.591][INFO] 💎 Node 0 Commit block - Height: 393, TxCount: 0, E2E_TPS: 21001.52, Pure_TPS: 23655.74, Submit_TPS: 1.25, TotalTxs: 234524, TotalBlocks: 394, tx_ids.len= 0
+[2026-08-06 11:44:44.608][INFO] Node 0 starting view 397
+[2026-08-06 11:44:44.925][INFO] Node 0 starting view 398
+[2026-08-06 11:44:45.001][INFO] 💎 Node 0 Commit block - Height: 394, TxCount: 2809, E2E_TPS: 20525.21, Pure_TPS: 21863.84, Submit_TPS: 1.21, TotalTxs: 237333, TotalBlocks: 395, tx_ids.len= 2809
+[2026-08-06 11:44:45.253][INFO] 💎 Node 0 Commit block - Height: 395, TxCount: 2809, E2E_TPS: 20307.99, Pure_TPS: 21601.24, Submit_TPS: 1.27, TotalTxs: 240142, TotalBlocks: 396, tx_ids.len= 2809
+[2026-08-06 11:44:45.310][INFO] Node 0 starting view 400
+[2026-08-06 11:44:45.446][INFO] 💎 Node 0 Commit block - Height: 396, TxCount: 2809, E2E_TPS: 20213.91, Pure_TPS: 21479.09, Submit_TPS: 1.25, TotalTxs: 242951, TotalBlocks: 397, tx_ids.len= 2809
+[2026-08-06 11:44:45.489][INFO] 💎 Node 0 Commit block - Height: 397, TxCount: 2809, E2E_TPS: 20376.42, Pure_TPS: 21647.05, Submit_TPS: 1.24, TotalTxs: 245760, TotalBlocks: 398, tx_ids.len= 2809
+[2026-08-06 11:44:45.520][INFO] Node 0 starting view 401
+[2026-08-06 11:44:45.908][INFO] Node 0 starting view 402
+[2026-08-06 11:44:45.918][INFO] 💎 Node 0 Commit block - Height: 398, TxCount: 5618, E2E_TPS: 20116.68, Pure_TPS: 21324.82, Submit_TPS: 1.28, TotalTxs: 251378, TotalBlocks: 399, tx_ids.len= 5618
+[2026-08-06 11:44:46.282][INFO] 💎 Node 0 Commit block - Height: 399, TxCount: 4212, E2E_TPS: 19880.99, Pure_TPS: 21039.59, Submit_TPS: 1.24, TotalTxs: 255590, TotalBlocks: 400, tx_ids.len= 4212
+[2026-08-06 11:44:46.289][INFO] Node 0 starting view 404
+[2026-08-06 11:44:46.520][INFO] 💎 Node 0 Commit block - Height: 400, TxCount: 4212, E2E_TPS: 19851.91, Pure_TPS: 20987.24, Submit_TPS: 1.22, TotalTxs: 259802, TotalBlocks: 401, tx_ids.len= 4212
+[2026-08-06 11:44:46.543][INFO] 💎 Node 0 Commit block - Height: 401, TxCount: 0, E2E_TPS: 19809.53, Pure_TPS: 20987.24, Submit_TPS: 1.22, TotalTxs: 259802, TotalBlocks: 402, tx_ids.len= 0
+[2026-08-06 11:44:46.573][INFO] Node 0 starting view 405
+[2026-08-06 11:44:46.744][INFO] Node 0 starting view 406
+[2026-08-06 11:44:46.807][INFO] 💎 Node 0 Commit block - Height: 402, TxCount: 7021, E2E_TPS: 19950.87, Pure_TPS: 21066.00, Submit_TPS: 1.27, TotalTxs: 266823, TotalBlocks: 403, tx_ids.len= 7021
+[2026-08-06 11:44:46.986][INFO] Node 0 starting view 407
+[2026-08-06 11:44:47.010][INFO] 💎 Node 0 Commit block - Height: 403, TxCount: 2809, E2E_TPS: 19844.85, Pure_TPS: 20935.71, Submit_TPS: 1.25, TotalTxs: 269632, TotalBlocks: 404, tx_ids.len= 2809
+[2026-08-06 11:44:47.037][INFO] Node 0 starting view 408
+[2026-08-06 11:44:47.069][INFO] 💎 Node 0 Commit block - Height: 404, TxCount: 3511, E2E_TPS: 20028.08, Pure_TPS: 21124.67, Submit_TPS: 1.25, TotalTxs: 273143, TotalBlocks: 405, tx_ids.len= 3511
+[2026-08-06 11:44:47.150][INFO] 💎 Node 0 Commit block - Height: 405, TxCount: 0, E2E_TPS: 19896.78, Pure_TPS: 21124.67, Submit_TPS: 1.24, TotalTxs: 273143, TotalBlocks: 406, tx_ids.len= 0
+[2026-08-06 11:44:47.152][INFO] Node 0 starting view 409
+[2026-08-06 11:44:47.164][INFO] Node 0 starting view 410
+[2026-08-06 11:44:47.353][INFO] 💎 Node 0 Commit block - Height: 406, TxCount: 2107, E2E_TPS: 19769.45, Pure_TPS: 20828.53, Submit_TPS: 1.22, TotalTxs: 275250, TotalBlocks: 407, tx_ids.len= 2107
+[2026-08-06 11:44:47.575][INFO] Node 0 starting view 411
+[2026-08-06 11:44:47.581][INFO] 💎 Node 0 Commit block - Height: 407, TxCount: 0, E2E_TPS: 19438.56, Pure_TPS: 20828.53, Submit_TPS: 1.27, TotalTxs: 275250, TotalBlocks: 408, tx_ids.len= 0
+[2026-08-06 11:44:47.589][INFO] Node 0 starting view 412
+[2026-08-06 11:44:47.618][INFO] 💎 Node 0 Commit block - Height: 408, TxCount: 5618, E2E_TPS: 19790.59, Pure_TPS: 20829.65, Submit_TPS: 1.27, TotalTxs: 280868, TotalBlocks: 409, tx_ids.len= 5618
+[2026-08-06 11:44:47.870][INFO] 💎 Node 0 Commit block - Height: 409, TxCount: 8427, E2E_TPS: 20059.28, Pure_TPS: 21094.79, Submit_TPS: 1.25, TotalTxs: 289295, TotalBlocks: 410, tx_ids.len= 8427
+[2026-08-06 11:44:47.871][INFO] Node 0 starting view 413
+[2026-08-06 11:44:48.193][INFO] Node 0 starting view 414
+[2026-08-06 11:44:48.234][INFO] 💎 Node 0 Commit block - Height: 410, TxCount: 2809, E2E_TPS: 19726.09, Pure_TPS: 20716.52, Submit_TPS: 1.22, TotalTxs: 292104, TotalBlocks: 411, tx_ids.len= 2809
+[2026-08-06 11:44:48.271][INFO] Node 0 starting view 415
+[2026-08-06 11:44:48.316][INFO] 💎 Node 0 Commit block - Height: 411, TxCount: 2809, E2E_TPS: 19796.80, Pure_TPS: 20784.55, Submit_TPS: 1.21, TotalTxs: 294913, TotalBlocks: 412, tx_ids.len= 2809
+[2026-08-06 11:44:48.522][INFO] 💎 Node 0 Commit block - Height: 412, TxCount: 2809, E2E_TPS: 19717.99, Pure_TPS: 20688.00, Submit_TPS: 1.26, TotalTxs: 297722, TotalBlocks: 413, tx_ids.len= 2809
+[2026-08-06 11:44:48.954][INFO] 💎 Node 0 Commit block - Height: 413, TxCount: 4212, E2E_TPS: 19441.98, Pure_TPS: 20370.60, Submit_TPS: 1.22, TotalTxs: 301934, TotalBlocks: 414, tx_ids.len= 4212
+[2026-08-06 11:44:48.974][INFO] Node 0 starting view 417
+[2026-08-06 11:44:49.224][INFO] Node 0 starting view 418
+[2026-08-06 11:44:49.302][INFO] 💎 Node 0 Commit block - Height: 414, TxCount: 2809, E2E_TPS: 19197.62, Pure_TPS: 20093.76, Submit_TPS: 1.26, TotalTxs: 304743, TotalBlocks: 415, tx_ids.len= 2809
+[2026-08-06 11:44:49.503][INFO] 💎 Node 0 Commit block - Height: 415, TxCount: 3511, E2E_TPS: 19191.51, Pure_TPS: 20076.40, Submit_TPS: 1.25, TotalTxs: 308254, TotalBlocks: 416, tx_ids.len= 3511
+[2026-08-06 11:44:49.509][INFO] Node 0 starting view 420
+[2026-08-06 11:44:49.636][INFO] 💎 Node 0 Commit block - Height: 416, TxCount: 9831, E2E_TPS: 19636.09, Pure_TPS: 20533.47, Submit_TPS: 1.23, TotalTxs: 318085, TotalBlocks: 417, tx_ids.len= 9831
+[2026-08-06 11:44:49.644][INFO] 💎 Node 0 Commit block - Height: 417, TxCount: 2107, E2E_TPS: 19733.27, Pure_TPS: 20633.52, Submit_TPS: 1.23, TotalTxs: 320192, TotalBlocks: 418, tx_ids.len= 2107
+[2026-08-06 11:44:49.645][INFO] Node 0 starting view 421
+[2026-08-06 11:44:49.904][INFO] 💎 Node 0 Commit block - Height: 418, TxCount: 2809, E2E_TPS: 19593.63, Pure_TPS: 20472.84, Submit_TPS: 1.21, TotalTxs: 323001, TotalBlocks: 419, tx_ids.len= 2809
+[2026-08-06 11:44:50.018][INFO] 💎 Node 0 Commit block - Height: 419, TxCount: 0, E2E_TPS: 19459.06, Pure_TPS: 20472.84, Submit_TPS: 1.27, TotalTxs: 323001, TotalBlocks: 420, tx_ids.len= 0
+[2026-08-06 11:44:50.043][INFO] Node 0 starting view 424
+[2026-08-06 11:44:50.141][INFO] 💎 Node 0 Commit block - Height: 420, TxCount: 0, E2E_TPS: 19320.55, Pure_TPS: 20472.84, Submit_TPS: 1.26, TotalTxs: 323001, TotalBlocks: 421, tx_ids.len= 0
+[2026-08-06 11:44:50.144][INFO] 💎 Node 0 Commit block - Height: 421, TxCount: 3511, E2E_TPS: 19522.39, Pure_TPS: 20385.28, Submit_TPS: 1.26, TotalTxs: 326512, TotalBlocks: 422, tx_ids.len= 3511
+[2026-08-06 11:44:50.152][INFO] Node 0 starting view 425
+[2026-08-06 11:44:50.330][INFO] Node 0 starting view 426
+[2026-08-06 11:44:50.419][INFO] 💎 Node 0 Commit block - Height: 422, TxCount: 0, E2E_TPS: 19222.42, Pure_TPS: 20385.28, Submit_TPS: 1.24, TotalTxs: 326512, TotalBlocks: 423, tx_ids.len= 0
+[2026-08-06 11:44:50.519][INFO] Node 0 starting view 427
+[2026-08-06 11:44:50.607][INFO] 💎 Node 0 Commit block - Height: 423, TxCount: 0, E2E_TPS: 18999.83, Pure_TPS: 20385.28, Submit_TPS: 1.22, TotalTxs: 326512, TotalBlocks: 424, tx_ids.len= 0
+[2026-08-06 11:44:50.667][INFO] Node 0 starting view 428
+[2026-08-06 11:44:50.721][INFO] 💎 Node 0 Commit block - Height: 424, TxCount: 0, E2E_TPS: 18870.25, Pure_TPS: 20385.28, Submit_TPS: 1.21, TotalTxs: 326512, TotalBlocks: 425, tx_ids.len= 0
+[2026-08-06 11:44:51.021][INFO] 💎 Node 0 Commit block - Height: 425, TxCount: 3511, E2E_TPS: 18752.37, Pure_TPS: 19538.33, Submit_TPS: 1.25, TotalTxs: 330023, TotalBlocks: 426, tx_ids.len= 3511
+[2026-08-06 11:44:51.051][INFO] Node 0 starting view 429
+[2026-08-06 11:44:51.380][INFO] Node 0 starting view 430
+[2026-08-06 11:44:51.448][INFO] 💎 Node 0 Commit block - Height: 426, TxCount: 3511, E2E_TPS: 18528.64, Pure_TPS: 19287.17, Submit_TPS: 1.22, TotalTxs: 333534, TotalBlocks: 427, tx_ids.len= 3511
+[2026-08-06 11:44:51.627][INFO] Node 0 starting view 431
+[2026-08-06 11:44:51.653][INFO] 💎 Node 0 Commit block - Height: 427, TxCount: 3511, E2E_TPS: 18487.47, Pure_TPS: 19234.38, Submit_TPS: 1.26, TotalTxs: 337045, TotalBlocks: 428, tx_ids.len= 3511
+[2026-08-06 11:44:51.776][INFO] Node 0 starting view 432
+[2026-08-06 11:44:51.910][INFO] 💎 Node 0 Commit block - Height: 428, TxCount: 7022, E2E_TPS: 18610.29, Pure_TPS: 19351.29, Submit_TPS: 1.24, TotalTxs: 344067, TotalBlocks: 429, tx_ids.len= 7022
+[2026-08-06 11:44:52.138][INFO] 💎 Node 0 Commit block - Height: 429, TxCount: 3511, E2E_TPS: 18574.15, Pure_TPS: 19304.47, Submit_TPS: 1.23, TotalTxs: 347578, TotalBlocks: 430, tx_ids.len= 3511
+[2026-08-06 11:44:52.153][INFO] Node 0 starting view 433
+[2026-08-06 11:44:52.510][INFO] 💎 Node 0 Commit block - Height: 430, TxCount: 3511, E2E_TPS: 18395.11, Pure_TPS: 19103.71, Submit_TPS: 1.26, TotalTxs: 351089, TotalBlocks: 431, tx_ids.len= 3511
+[2026-08-06 11:44:52.657][INFO] Node 0 starting view 435
+[2026-08-06 11:44:52.694][INFO] 💎 Node 0 Commit block - Height: 431, TxCount: 7022, E2E_TPS: 18585.79, Pure_TPS: 19294.72, Submit_TPS: 1.25, TotalTxs: 358111, TotalBlocks: 432, tx_ids.len= 7022
+[2026-08-06 11:44:52.838][INFO] 💎 Node 0 Commit block - Height: 432, TxCount: 2809, E2E_TPS: 18587.84, Pure_TPS: 19291.20, Submit_TPS: 1.24, TotalTxs: 360920, TotalBlocks: 433, tx_ids.len= 2809
+[2026-08-06 11:44:52.993][INFO] 💎 Node 0 Commit block - Height: 433, TxCount: 7022, E2E_TPS: 18810.94, Pure_TPS: 19517.35, Submit_TPS: 1.23, TotalTxs: 367942, TotalBlocks: 434, tx_ids.len= 7022
+[2026-08-06 11:44:53.041][INFO] Node 0 starting view 437
+[2026-08-06 11:44:53.078][INFO] Node 0 starting view 438
+[2026-08-06 11:44:53.169][INFO] 💎 Node 0 Commit block - Height: 434, TxCount: 0, E2E_TPS: 18629.03, Pure_TPS: 19517.35, Submit_TPS: 1.22, TotalTxs: 367942, TotalBlocks: 435, tx_ids.len= 0
+[2026-08-06 11:44:53.253][INFO] Node 0 starting view 439
+[2026-08-06 11:44:53.274][INFO] 💎 Node 0 Commit block - Height: 435, TxCount: 2809, E2E_TPS: 18682.34, Pure_TPS: 19373.47, Submit_TPS: 1.26, TotalTxs: 370751, TotalBlocks: 436, tx_ids.len= 2809
+[2026-08-06 11:44:53.473][INFO] Node 0 starting view 440
+[2026-08-06 11:44:53.496][INFO] 💎 Node 0 Commit block - Height: 436, TxCount: 0, E2E_TPS: 18466.45, Pure_TPS: 19373.47, Submit_TPS: 1.25, TotalTxs: 370751, TotalBlocks: 437, tx_ids.len= 0
+[2026-08-06 11:44:53.559][INFO] 💎 Node 0 Commit block - Height: 437, TxCount: 2809, E2E_TPS: 18548.16, Pure_TPS: 19223.91, Submit_TPS: 1.24, TotalTxs: 373560, TotalBlocks: 438, tx_ids.len= 2809
+[2026-08-06 11:44:53.561][INFO] Node 0 starting view 441
+[2026-08-06 11:44:53.734][INFO] Node 0 starting view 442
+[2026-08-06 11:44:53.862][INFO] 💎 Node 0 Commit block - Height: 438, TxCount: 2809, E2E_TPS: 18418.76, Pure_TPS: 19079.79, Submit_TPS: 1.22, TotalTxs: 376369, TotalBlocks: 439, tx_ids.len= 2809
+[2026-08-06 11:44:53.979][INFO] Node 0 starting view 443
+[2026-08-06 11:44:54.143][INFO] 💎 Node 0 Commit block - Height: 439, TxCount: 3511, E2E_TPS: 18334.86, Pure_TPS: 18983.51, Submit_TPS: 1.25, TotalTxs: 379880, TotalBlocks: 440, tx_ids.len= 3511
+[2026-08-06 11:44:54.277][INFO] Node 0 starting view 444
+[2026-08-06 11:44:54.533][INFO] 💎 Node 0 Commit block - Height: 440, TxCount: 2809, E2E_TPS: 18146.38, Pure_TPS: 18776.70, Submit_TPS: 1.23, TotalTxs: 382689, TotalBlocks: 441, tx_ids.len= 2809
+[2026-08-06 11:44:54.916][INFO] 💎 Node 0 Commit block - Height: 441, TxCount: 4363, E2E_TPS: 18011.63, Pure_TPS: 18625.23, Submit_TPS: 1.26, TotalTxs: 387052, TotalBlocks: 442, tx_ids.len= 4363
+[2026-08-06 11:44:54.922][INFO] Node 0 starting view 445
+[2026-08-06 11:44:55.446][INFO] Node 0 starting view 446
+[2026-08-06 11:44:56.175][INFO] 💎 Node 0 Commit block - Height: 442, TxCount: 7022, E2E_TPS: 17321.17, Pure_TPS: 17877.47, Submit_TPS: 1.23, TotalTxs: 394074, TotalBlocks: 443, tx_ids.len= 7022
+[2026-08-06 11:44:56.728][INFO] Node 0 starting view 447
+[2026-08-06 11:44:57.316][INFO] 💎 Node 0 Commit block - Height: 443, TxCount: 4212, E2E_TPS: 16668.17, Pure_TPS: 17177.08, Submit_TPS: 1.21, TotalTxs: 398286, TotalBlocks: 444, tx_ids.len= 4212
+[2026-08-06 11:44:57.623][INFO] Node 0 starting view 448
+[2026-08-06 11:44:58.348][INFO] 💎 Node 0 Commit block - Height: 444, TxCount: 9830, E2E_TPS: 16385.59, Pure_TPS: 16864.95, Submit_TPS: 1.24, TotalTxs: 408116, TotalBlocks: 445, tx_ids.len= 9830
+[2026-08-06 11:44:58.591][INFO] 💎 Node 0 Commit block - Height: 445, TxCount: 28086, E2E_TPS: 17345.40, Pure_TPS: 17847.83, Submit_TPS: 1.23, TotalTxs: 436202, TotalBlocks: 446, tx_ids.len= 28086
+[2026-08-06 11:44:58.626][INFO] Node 0 starting view 449
+[2026-08-06 11:44:59.589][INFO] Node 0 starting view 450
+[2026-08-06 11:45:00.218][INFO] 💎 Node 0 Commit block - Height: 446, TxCount: 30193, E2E_TPS: 17422.95, Pure_TPS: 17896.24, Submit_TPS: 1.23, TotalTxs: 466395, TotalBlocks: 447, tx_ids.len= 30193
+[2026-08-06 11:45:00.875][INFO] 💎 Node 0 Commit block - Height: 447, TxCount: 21768, E2E_TPS: 17798.63, Pure_TPS: 18270.22, Submit_TPS: 1.24, TotalTxs: 488163, TotalBlocks: 448, tx_ids.len= 21768
+[2026-08-06 11:45:01.309][INFO] Node 0 starting view 452
+[2026-08-06 11:45:01.835][INFO] 💎 Node 0 Commit block - Height: 448, TxCount: 24578, E2E_TPS: 18051.08, Pure_TPS: 18512.47, Submit_TPS: 1.23, TotalTxs: 512741, TotalBlocks: 449, tx_ids.len= 24578
+[2026-08-06 11:45:02.201][INFO] 💎 Node 0 Commit block - Height: 449, TxCount: 25983, E2E_TPS: 18744.09, Pure_TPS: 19217.46, Submit_TPS: 1.22, TotalTxs: 538724, TotalBlocks: 450, tx_ids.len= 25983
+[2026-08-06 11:45:02.206][INFO] Node 0 starting view 453
+[2026-08-06 11:45:02.674][INFO] Node 0 starting view 454
+[2026-08-06 11:45:02.919][INFO] 💎 Node 0 Commit block - Height: 450, TxCount: 16151, E2E_TPS: 18815.06, Pure_TPS: 19277.84, Submit_TPS: 1.22, TotalTxs: 554875, TotalBlocks: 451, tx_ids.len= 16151
+[2026-08-06 11:45:03.286][INFO] Node 0 starting view 455
+[2026-08-06 11:45:03.339][INFO] 💎 Node 0 Commit block - Height: 451, TxCount: 18960, E2E_TPS: 19185.39, Pure_TPS: 19650.50, Submit_TPS: 1.24, TotalTxs: 573835, TotalBlocks: 452, tx_ids.len= 18960
+[2026-08-06 11:45:03.490][INFO] Node 0 starting view 456
+[2026-08-06 11:45:03.677][INFO] 💎 Node 0 Commit block - Height: 452, TxCount: 15448, E2E_TPS: 19482.36, Pure_TPS: 19949.29, Submit_TPS: 1.22, TotalTxs: 589283, TotalBlocks: 453, tx_ids.len= 15448
+[2026-08-06 11:45:03.977][INFO] 💎 Node 0 Commit block - Height: 453, TxCount: 9129, E2E_TPS: 19596.29, Pure_TPS: 20061.38, Submit_TPS: 1.21, TotalTxs: 598412, TotalBlocks: 454, tx_ids.len= 9129
+[2026-08-06 11:45:03.983][INFO] Node 0 starting view 457
+[2026-08-06 11:45:04.357][INFO] Node 0 starting view 458
+[2026-08-06 11:45:04.460][INFO] 💎 Node 0 Commit block - Height: 454, TxCount: 5618, E2E_TPS: 19464.75, Pure_TPS: 19919.17, Submit_TPS: 1.22, TotalTxs: 604030, TotalBlocks: 455, tx_ids.len= 5618
+[2026-08-06 11:45:04.774][INFO] Node 0 starting view 459
+[2026-08-06 11:45:04.978][INFO] 💎 Node 0 Commit block - Height: 455, TxCount: 2107, E2E_TPS: 19207.69, Pure_TPS: 19648.48, Submit_TPS: 1.24, TotalTxs: 606137, TotalBlocks: 456, tx_ids.len= 2107
+[2026-08-06 11:45:05.283][INFO] Node 0 starting view 460
+[2026-08-06 11:45:05.314][INFO] 💎 Node 0 Commit block - Height: 456, TxCount: 4212, E2E_TPS: 19139.20, Pure_TPS: 19573.73, Submit_TPS: 1.22, TotalTxs: 610349, TotalBlocks: 457, tx_ids.len= 4212
+[2026-08-06 11:45:05.461][INFO] 💎 Node 0 Commit block - Height: 457, TxCount: 7723, E2E_TPS: 19296.66, Pure_TPS: 19732.81, Submit_TPS: 1.22, TotalTxs: 618072, TotalBlocks: 458, tx_ids.len= 7723
+[2026-08-06 11:45:05.465][INFO] Node 0 starting view 461
+[2026-08-06 11:45:06.372][INFO] Node 0 starting view 462
+[2026-08-06 11:45:06.542][INFO] 💎 Node 0 Commit block - Height: 458, TxCount: 4916, E2E_TPS: 18823.10, Pure_TPS: 19234.52, Submit_TPS: 1.21, TotalTxs: 622988, TotalBlocks: 459, tx_ids.len= 4916
+[2026-08-06 11:45:06.923][INFO] Node 0 starting view 463
+[2026-08-06 11:45:07.562][INFO] 💎 Node 0 Commit block - Height: 459, TxCount: 4214, E2E_TPS: 18379.55, Pure_TPS: 18768.92, Submit_TPS: 1.23, TotalTxs: 627202, TotalBlocks: 460, tx_ids.len= 4214
+[2026-08-06 11:45:08.669][INFO] 💎 Node 0 Commit block - Height: 460, TxCount: 2107, E2E_TPS: 17854.26, Pure_TPS: 18220.21, Submit_TPS: 1.22, TotalTxs: 629309, TotalBlocks: 461, tx_ids.len= 2107
+[2026-08-06 11:45:09.219][INFO] 💎 Node 0 Commit block - Height: 461, TxCount: 9831, E2E_TPS: 17860.56, Pure_TPS: 18221.03, Submit_TPS: 1.23, TotalTxs: 639140, TotalBlocks: 462, tx_ids.len= 9831
+[2026-08-06 11:45:09.245][INFO] Node 0 starting view 465
+[2026-08-06 11:45:11.442][INFO] 💎 Node 0 Commit block - Height: 462, TxCount: 22471, E2E_TPS: 17403.49, Pure_TPS: 17733.73, Submit_TPS: 1.21, TotalTxs: 661611, TotalBlocks: 463, tx_ids.len= 22471
+[2026-08-06 11:45:12.727][INFO] Node 0 view 466 timed out!
+[2026-08-06 11:45:13.058][INFO] Node 0 starting view 467
+[2026-08-06 11:45:14.668][INFO] 💎 Node 0 Commit block - Height: 463, TxCount: 25981, E2E_TPS: 16675.36, Pure_TPS: 16966.66, Submit_TPS: 1.21, TotalTxs: 687592, TotalBlocks: 464, tx_ids.len= 25981
+[2026-08-06 11:45:14.724][INFO] Node 0 view 467 timed out!
+[2026-08-06 11:45:16.465][INFO] 💎 Node 0 Commit block - Height: 464, TxCount: 18257, E2E_TPS: 16402.51, Pure_TPS: 16676.86, Submit_TPS: 1.21, TotalTxs: 705849, TotalBlocks: 465, tx_ids.len= 18257
+[2026-08-06 11:45:16.627][INFO] 💎 Node 0 Commit block - Height: 465, TxCount: 16151, E2E_TPS: 16717.99, Pure_TPS: 16996.61, Submit_TPS: 1.20, TotalTxs: 722000, TotalBlocks: 466, tx_ids.len= 16151
+[2026-08-06 11:45:16.643][INFO] Node 0 starting view 469
+[2026-08-06 11:45:17.773][INFO] Node 0 starting view 470
+[2026-08-06 11:45:18.335][INFO] 💎 Node 0 Commit block - Height: 466, TxCount: 37915, E2E_TPS: 16926.12, Pure_TPS: 17197.29, Submit_TPS: 1.20, TotalTxs: 759915, TotalBlocks: 467, tx_ids.len= 37915
+[2026-08-06 11:45:19.503][INFO] Node 0 starting view 471
+[2026-08-06 11:45:19.761][INFO] 💎 Node 0 Commit block - Height: 467, TxCount: 43533, E2E_TPS: 17358.34, Pure_TPS: 17627.96, Submit_TPS: 1.21, TotalTxs: 803448, TotalBlocks: 468, tx_ids.len= 43533
+[2026-08-06 11:45:19.768][INFO] Node 0 starting view 472
+[2026-08-06 11:45:19.850][INFO] 💎 Node 0 Commit block - Height: 468, TxCount: 11938, E2E_TPS: 17574.11, Pure_TPS: 17846.42, Submit_TPS: 1.21, TotalTxs: 815386, TotalBlocks: 469, tx_ids.len= 11938
+[2026-08-06 11:45:20.521][INFO] 💎 Node 0 Commit block - Height: 469, TxCount: 31598, E2E_TPS: 17993.37, Pure_TPS: 18268.12, Submit_TPS: 1.21, TotalTxs: 846984, TotalBlocks: 470, tx_ids.len= 31598
+[2026-08-06 11:45:20.586][INFO] Node 0 starting view 473
+[2026-08-06 11:45:21.250][INFO] Node 0 starting view 474
+[2026-08-06 11:45:21.429][INFO] 💎 Node 0 Commit block - Height: 470, TxCount: 24578, E2E_TPS: 18174.96, Pure_TPS: 18447.30, Submit_TPS: 1.21, TotalTxs: 871562, TotalBlocks: 471, tx_ids.len= 24578
+[2026-08-06 11:45:22.268][INFO] Node 0 starting view 475
+[2026-08-06 11:45:22.319][INFO] 💎 Node 0 Commit block - Height: 471, TxCount: 7021, E2E_TPS: 17969.14, Pure_TPS: 18233.14, Submit_TPS: 1.21, TotalTxs: 878583, TotalBlocks: 472, tx_ids.len= 7021
+[2026-08-06 11:45:22.357][INFO] Node 0 starting view 476
+[2026-08-06 11:45:22.443][INFO] 💎 Node 0 Commit block - Height: 472, TxCount: 12640, E2E_TPS: 18191.19, Pure_TPS: 18457.92, Submit_TPS: 1.20, TotalTxs: 891223, TotalBlocks: 473, tx_ids.len= 12640
+[2026-08-06 11:45:22.466][INFO] 💎 Node 0 Commit block - Height: 473, TxCount: 4916, E2E_TPS: 18276.62, Pure_TPS: 18544.37, Submit_TPS: 1.20, TotalTxs: 896139, TotalBlocks: 474, tx_ids.len= 4916
+[2026-08-06 11:45:22.474][INFO] Node 0 starting view 477
+[2026-08-06 11:45:25.385][INFO] Node 0 starting view 478
+[2026-08-06 11:45:27.381][INFO] Node 0 view 478 timed out!
+[2026-08-06 11:45:27.565][INFO] Node 0 starting view 479
+[2026-08-06 11:45:29.391][INFO] Node 0 view 479 timed out!
+[2026-08-06 11:45:30.292][INFO] Node 0 starting view 480
+[2026-08-06 11:45:31.666][INFO] 💎 Node 0 Commit block - Height: 474, TxCount: 2809, E2E_TPS: 15436.82, Pure_TPS: 15626.79, Submit_TPS: 1.20, TotalTxs: 898948, TotalBlocks: 475, tx_ids.len= 2809
+[2026-08-06 11:45:31.773][INFO] 💎 Node 0 Commit block - Height: 475, TxCount: 5618, E2E_TPS: 15514.65, Pure_TPS: 15705.34, Submit_TPS: 1.20, TotalTxs: 904566, TotalBlocks: 476, tx_ids.len= 5618
+[2026-08-06 11:45:32.027][INFO] 💎 Node 0 Commit block - Height: 476, TxCount: 35812, E2E_TPS: 16062.21, Pure_TPS: 16258.81, Submit_TPS: 1.20, TotalTxs: 940378, TotalBlocks: 477, tx_ids.len= 35812
+[2026-08-06 11:45:32.050][INFO] Node 0 view 480 timed out!
+[2026-08-06 11:45:32.069][INFO] Node 0 starting view 481
+[2026-08-06 11:45:32.754][INFO] Node 0 starting view 482
+[2026-08-06 11:45:33.086][INFO] 💎 Node 0 Commit block - Height: 477, TxCount: 27388, E2E_TPS: 16225.71, Pure_TPS: 16420.61, Submit_TPS: 1.21, TotalTxs: 967766, TotalBlocks: 478, tx_ids.len= 27388
+[2026-08-06 11:45:34.230][INFO] 💎 Node 0 Commit block - Height: 478, TxCount: 73030, E2E_TPS: 17138.37, Pure_TPS: 17340.51, Submit_TPS: 1.20, TotalTxs: 1040796, TotalBlocks: 479, tx_ids.len= 73030
+[2026-08-06 11:45:34.283][INFO] Node 0 starting view 484
+[2026-08-06 11:45:34.288][INFO] 💎 Node 0 Commit block - Height: 479, TxCount: 0, E2E_TPS: 17098.95, Pure_TPS: 17340.51, Submit_TPS: 1.20, TotalTxs: 1040796, TotalBlocks: 480, tx_ids.len= 0
+[2026-08-06 11:45:34.916][INFO] 💎 Node 0 Commit block - Height: 480, TxCount: 9830, E2E_TPS: 17088.63, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 481, tx_ids.len= 9830
+[2026-08-06 11:45:34.921][INFO] Node 0 starting view 485
+[2026-08-06 11:45:35.385][INFO] Node 0 starting view 486
+[2026-08-06 11:45:35.414][INFO] 💎 Node 0 Commit block - Height: 481, TxCount: 0, E2E_TPS: 16946.67, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 482, tx_ids.len= 0
+[2026-08-06 11:45:35.667][INFO] Node 0 starting view 487
+[2026-08-06 11:45:35.884][INFO] 💎 Node 0 Commit block - Height: 482, TxCount: 0, E2E_TPS: 16820.51, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 483, tx_ids.len= 0
+[2026-08-06 11:45:36.654][INFO] Node 0 starting view 488
+[2026-08-06 11:45:36.688][INFO] 💎 Node 0 Commit block - Height: 483, TxCount: 0, E2E_TPS: 16610.95, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 484, tx_ids.len= 0
+[2026-08-06 11:45:36.715][INFO] 💎 Node 0 Commit block - Height: 484, TxCount: 0, E2E_TPS: 16600.98, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 485, tx_ids.len= 0
+[2026-08-06 11:45:36.723][INFO] Node 0 starting view 489
+[2026-08-06 11:45:37.401][INFO] Node 0 starting view 490
+[2026-08-06 11:45:37.405][INFO] 💎 Node 0 Commit block - Height: 485, TxCount: 0, E2E_TPS: 16419.37, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 486, tx_ids.len= 0
+[2026-08-06 11:45:37.411][INFO] Node 0 starting view 491
+[2026-08-06 11:45:37.414][INFO] 💎 Node 0 Commit block - Height: 486, TxCount: 0, E2E_TPS: 16417.06, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 487, tx_ids.len= 0
+[2026-08-06 11:45:38.284][INFO] 💎 Node 0 Commit block - Height: 487, TxCount: 0, E2E_TPS: 16201.36, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 488, tx_ids.len= 0
+[2026-08-06 11:45:38.316][INFO] 💎 Node 0 Commit block - Height: 488, TxCount: 0, E2E_TPS: 16189.13, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 489, tx_ids.len= 0
+[2026-08-06 11:45:38.356][INFO] Node 0 starting view 493
+[2026-08-06 11:45:38.381][INFO] Node 0 starting view 494
+[2026-08-06 11:45:38.388][INFO] 💎 Node 0 Commit block - Height: 489, TxCount: 0, E2E_TPS: 16171.19, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 490, tx_ids.len= 0
+[2026-08-06 11:45:39.163][INFO] 💎 Node 0 Commit block - Height: 490, TxCount: 0, E2E_TPS: 15982.26, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 491, tx_ids.len= 0
+[2026-08-06 11:45:39.169][INFO] Node 0 starting view 496
+[2026-08-06 11:45:39.171][INFO] 💎 Node 0 Commit block - Height: 491, TxCount: 0, E2E_TPS: 15978.86, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 492, tx_ids.len= 0
+[2026-08-06 11:45:39.196][INFO] 💎 Node 0 Commit block - Height: 492, TxCount: 0, E2E_TPS: 15973.76, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 493, tx_ids.len= 0
+[2026-08-06 11:45:39.217][INFO] Node 0 starting view 497
+[2026-08-06 11:45:40.053][INFO] 💎 Node 0 Commit block - Height: 493, TxCount: 0, E2E_TPS: 15769.01, Pure_TPS: 17287.69, Submit_TPS: 1.20, TotalTxs: 1050626, TotalBlocks: 494, tx_ids.len= 0
+[2026-08-06 11:45:41.383][INFO] 💎 Node 0 Commit block - Height: 494, TxCount: 0, E2E_TPS: 15459.48, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 495, tx_ids.len= 0
+[2026-08-06 11:45:41.384][INFO] Node 0 starting view 500
+[2026-08-06 11:45:41.385][INFO] 💎 Node 0 Commit block - Height: 495, TxCount: 0, E2E_TPS: 15458.11, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 496, tx_ids.len= 0
+[2026-08-06 11:45:41.703][INFO] 💎 Node 0 Commit block - Height: 496, TxCount: 0, E2E_TPS: 15386.12, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 497, tx_ids.len= 0
+[2026-08-06 11:45:42.628][INFO] 💎 Node 0 Commit block - Height: 497, TxCount: 0, E2E_TPS: 15182.68, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 498, tx_ids.len= 0
+[2026-08-06 11:45:43.604][INFO] Node 0 starting view 503
+[2026-08-06 11:45:43.667][INFO] 💎 Node 0 Commit block - Height: 498, TxCount: 0, E2E_TPS: 14956.17, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 499, tx_ids.len= 0
+[2026-08-06 11:45:43.932][INFO] Node 0 starting view 504
+[2026-08-06 11:45:43.953][INFO] 💎 Node 0 Commit block - Height: 499, TxCount: 0, E2E_TPS: 14895.10, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 500, tx_ids.len= 0
+[2026-08-06 11:45:44.667][INFO] 💎 Node 0 Commit block - Height: 500, TxCount: 0, E2E_TPS: 14747.70, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 501, tx_ids.len= 0
+[2026-08-06 11:45:44.669][INFO] Node 0 starting view 505
+[2026-08-06 11:45:46.011][INFO] 💎 Node 0 Commit block - Height: 501, TxCount: 0, E2E_TPS: 14475.82, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 502, tx_ids.len= 0
+[2026-08-06 11:45:46.969][INFO] Node 0 starting view 507
+[2026-08-06 11:45:47.018][INFO] 💎 Node 0 Commit block - Height: 502, TxCount: 0, E2E_TPS: 14276.56, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 503, tx_ids.len= 0
+[2026-08-06 11:45:47.312][INFO] Node 0 starting view 508
+[2026-08-06 11:45:47.314][INFO] 💎 Node 0 Commit block - Height: 503, TxCount: 0, E2E_TPS: 14217.82, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 504, tx_ids.len= 0
+[2026-08-06 11:45:48.255][INFO] 💎 Node 0 Commit block - Height: 504, TxCount: 0, E2E_TPS: 14039.98, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 505, tx_ids.len= 0
+[2026-08-06 11:45:48.550][INFO] Node 0 starting view 509
+[2026-08-06 11:45:50.237][INFO] Node 0 starting view 510
+[2026-08-06 11:45:50.272][INFO] 💎 Node 0 Commit block - Height: 505, TxCount: 0, E2E_TPS: 13671.48, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 506, tx_ids.len= 0
+[2026-08-06 11:45:50.294][INFO] Node 0 starting view 511
+[2026-08-06 11:45:50.295][INFO] 💎 Node 0 Commit block - Height: 506, TxCount: 0, E2E_TPS: 13666.50, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 507, tx_ids.len= 0
+[2026-08-06 11:45:50.940][INFO] 💎 Node 0 Commit block - Height: 507, TxCount: 0, E2E_TPS: 13553.32, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 508, tx_ids.len= 0
+[2026-08-06 11:45:50.987][INFO] 💎 Node 0 Commit block - Height: 508, TxCount: 0, E2E_TPS: 13545.63, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 509, tx_ids.len= 0
+[2026-08-06 11:45:51.000][INFO] Node 0 starting view 513
+[2026-08-06 11:45:51.924][INFO] Node 0 starting view 514
+[2026-08-06 11:45:51.935][INFO] 💎 Node 0 Commit block - Height: 509, TxCount: 0, E2E_TPS: 13381.21, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 510, tx_ids.len= 0
+[2026-08-06 11:45:51.936][INFO] Node 0 starting view 515
+[2026-08-06 11:45:52.788][INFO] 💎 Node 0 Commit block - Height: 510, TxCount: 0, E2E_TPS: 13237.57, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 511, tx_ids.len= 0
+[2026-08-06 11:45:53.688][INFO] Node 0 starting view 516
+[2026-08-06 11:45:53.694][INFO] 💎 Node 0 Commit block - Height: 511, TxCount: 0, E2E_TPS: 13087.84, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 512, tx_ids.len= 0
+[2026-08-06 11:45:53.716][INFO] 💎 Node 0 Commit block - Height: 512, TxCount: 0, E2E_TPS: 13084.74, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 513, tx_ids.len= 0
+[2026-08-06 11:45:53.762][INFO] Node 0 starting view 517
+[2026-08-06 11:45:55.005][INFO] Node 0 starting view 518
+[2026-08-06 11:45:55.014][INFO] 💎 Node 0 Commit block - Height: 513, TxCount: 0, E2E_TPS: 12875.95, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 514, tx_ids.len= 0
+[2026-08-06 11:45:55.697][INFO] Node 0 starting view 519
+[2026-08-06 11:45:55.739][INFO] 💎 Node 0 Commit block - Height: 514, TxCount: 0, E2E_TPS: 12763.64, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 515, tx_ids.len= 0
+[2026-08-06 11:45:56.370][INFO] Node 0 starting view 520
+[2026-08-06 11:45:56.374][INFO] 💎 Node 0 Commit block - Height: 515, TxCount: 0, E2E_TPS: 12664.86, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 516, tx_ids.len= 0
+[2026-08-06 11:45:56.423][INFO] 💎 Node 0 Commit block - Height: 516, TxCount: 0, E2E_TPS: 12659.21, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 517, tx_ids.len= 0
+[2026-08-06 11:45:56.426][INFO] Node 0 starting view 521
+[2026-08-06 11:45:57.495][INFO] Node 0 starting view 522
+[2026-08-06 11:45:58.066][INFO] 💎 Node 0 Commit block - Height: 517, TxCount: 0, E2E_TPS: 12411.70, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 518, tx_ids.len= 0
+[2026-08-06 11:45:58.698][INFO] Node 0 starting view 523
+[2026-08-06 11:45:58.707][INFO] 💎 Node 0 Commit block - Height: 518, TxCount: 0, E2E_TPS: 12318.42, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 519, tx_ids.len= 0
+[2026-08-06 11:45:58.709][INFO] Node 0 starting view 524
+[2026-08-06 11:45:59.243][INFO] 💎 Node 0 Commit block - Height: 519, TxCount: 0, E2E_TPS: 12242.20, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 520, tx_ids.len= 0
+[2026-08-06 11:45:59.286][INFO] 💎 Node 0 Commit block - Height: 520, TxCount: 0, E2E_TPS: 12237.21, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 521, tx_ids.len= 0
+[2026-08-06 11:45:59.303][INFO] Node 0 starting view 525
+[2026-08-06 11:46:00.394][INFO] Node 0 starting view 526
+[2026-08-06 11:46:00.398][INFO] 💎 Node 0 Commit block - Height: 521, TxCount: 0, E2E_TPS: 12079.35, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 522, tx_ids.len= 0
+[2026-08-06 11:46:00.504][INFO] Node 0 starting view 527
+[2026-08-06 11:46:00.935][INFO] 💎 Node 0 Commit block - Height: 522, TxCount: 0, E2E_TPS: 12005.23, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 523, tx_ids.len= 0
+[2026-08-06 11:46:01.226][INFO] Node 0 starting view 528
+[2026-08-06 11:46:01.568][INFO] 💎 Node 0 Commit block - Height: 523, TxCount: 0, E2E_TPS: 11920.51, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 524, tx_ids.len= 0
+[2026-08-06 11:46:01.821][INFO] 💎 Node 0 Commit block - Height: 524, TxCount: 0, E2E_TPS: 11885.72, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 525, tx_ids.len= 0
+[2026-08-06 11:46:01.823][INFO] Node 0 starting view 529
+[2026-08-06 11:46:02.686][INFO] 💎 Node 0 Commit block - Height: 525, TxCount: 0, E2E_TPS: 11769.35, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 526, tx_ids.len= 0
+[2026-08-06 11:46:02.688][INFO] Node 0 starting view 531
+[2026-08-06 11:46:02.689][INFO] 💎 Node 0 Commit block - Height: 526, TxCount: 0, E2E_TPS: 11768.95, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 527, tx_ids.len= 0
+[2026-08-06 11:46:02.690][INFO] Node 0 starting view 532
+[2026-08-06 11:46:02.691][INFO] 💎 Node 0 Commit block - Height: 527, TxCount: 0, E2E_TPS: 11768.69, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 528, tx_ids.len= 0
+[2026-08-06 11:46:02.819][INFO] 💎 Node 0 Commit block - Height: 528, TxCount: 0, E2E_TPS: 11751.97, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 529, tx_ids.len= 0
+[2026-08-06 11:46:02.824][INFO] Node 0 starting view 533
+[2026-08-06 11:46:03.509][INFO] Node 0 starting view 534
+[2026-08-06 11:46:03.514][INFO] 💎 Node 0 Commit block - Height: 529, TxCount: 0, E2E_TPS: 11661.31, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 530, tx_ids.len= 0
+[2026-08-06 11:46:05.105][INFO] 💎 Node 0 Commit block - Height: 530, TxCount: 0, E2E_TPS: 11460.58, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 531, tx_ids.len= 0
+[2026-08-06 11:46:05.120][INFO] Node 0 starting view 536
+[2026-08-06 11:46:05.132][INFO] 💎 Node 0 Commit block - Height: 531, TxCount: 0, E2E_TPS: 11456.08, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 532, tx_ids.len= 0
+[2026-08-06 11:46:05.179][INFO] 💎 Node 0 Commit block - Height: 532, TxCount: 0, E2E_TPS: 11450.09, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 533, tx_ids.len= 0
+[2026-08-06 11:46:05.188][INFO] Node 0 starting view 537
+[2026-08-06 11:46:06.370][INFO] Node 0 starting view 538
+[2026-08-06 11:46:06.969][INFO] 💎 Node 0 Commit block - Height: 533, TxCount: 0, E2E_TPS: 11231.48, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 534, tx_ids.len= 0
+[2026-08-06 11:46:06.982][INFO] Node 0 starting view 539
+[2026-08-06 11:46:06.992][INFO] 💎 Node 0 Commit block - Height: 534, TxCount: 0, E2E_TPS: 11228.24, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 535, tx_ids.len= 0
+[2026-08-06 11:46:07.048][INFO] Node 0 starting view 540
+[2026-08-06 11:46:07.055][INFO] 💎 Node 0 Commit block - Height: 535, TxCount: 0, E2E_TPS: 11220.20, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 536, tx_ids.len= 0
+[2026-08-06 11:46:07.056][INFO] 💎 Node 0 Commit block - Height: 536, TxCount: 0, E2E_TPS: 11220.08, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 537, tx_ids.len= 0
+[2026-08-06 11:46:07.058][INFO] Node 0 starting view 541
+[2026-08-06 11:46:08.538][INFO] 💎 Node 0 Commit block - Height: 537, TxCount: 0, E2E_TPS: 11045.50, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 538, tx_ids.len= 0
+[2026-08-06 11:46:08.544][INFO] Node 0 starting view 543
+[2026-08-06 11:46:08.545][INFO] 💎 Node 0 Commit block - Height: 538, TxCount: 0, E2E_TPS: 11044.46, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 539, tx_ids.len= 0
+[2026-08-06 11:46:10.659][INFO] Node 0 starting view 544
+[2026-08-06 11:46:10.688][INFO] 💎 Node 0 Commit block - Height: 539, TxCount: 0, E2E_TPS: 10801.13, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 540, tx_ids.len= 0
+[2026-08-06 11:46:10.697][INFO] 💎 Node 0 Commit block - Height: 540, TxCount: 0, E2E_TPS: 10801.02, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 541, tx_ids.len= 0
+[2026-08-06 11:46:10.743][INFO] Node 0 starting view 545
+[2026-08-06 11:46:12.177][INFO] Node 0 starting view 546
+[2026-08-06 11:46:12.178][INFO] 💎 Node 0 Commit block - Height: 541, TxCount: 0, E2E_TPS: 10638.17, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 542, tx_ids.len= 0
+[2026-08-06 11:46:12.179][INFO] Node 0 starting view 547
+[2026-08-06 11:46:12.186][INFO] 💎 Node 0 Commit block - Height: 542, TxCount: 0, E2E_TPS: 10637.31, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 543, tx_ids.len= 0
+[2026-08-06 11:46:12.187][INFO] Node 0 starting view 548
+[2026-08-06 11:46:12.188][INFO] 💎 Node 0 Commit block - Height: 543, TxCount: 0, E2E_TPS: 10637.10, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 544, tx_ids.len= 0
+[2026-08-06 11:46:12.195][INFO] 💎 Node 0 Commit block - Height: 544, TxCount: 0, E2E_TPS: 10636.45, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 545, tx_ids.len= 0
+[2026-08-06 11:46:12.210][INFO] Node 0 starting view 549
+[2026-08-06 11:46:12.516][INFO] Node 0 starting view 550
+[2026-08-06 11:46:12.517][INFO] 💎 Node 0 Commit block - Height: 545, TxCount: 0, E2E_TPS: 10601.89, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 546, tx_ids.len= 0
+[2026-08-06 11:46:13.808][INFO] 💎 Node 0 Commit block - Height: 546, TxCount: 0, E2E_TPS: 10466.28, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 547, tx_ids.len= 0
+[2026-08-06 11:46:13.815][INFO] Node 0 starting view 552
+[2026-08-06 11:46:13.821][INFO] 💎 Node 0 Commit block - Height: 547, TxCount: 0, E2E_TPS: 10464.09, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 548, tx_ids.len= 0
+[2026-08-06 11:46:13.822][INFO] 💎 Node 0 Commit block - Height: 548, TxCount: 0, E2E_TPS: 10463.99, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 549, tx_ids.len= 0
+[2026-08-06 11:46:13.823][INFO] Node 0 starting view 553
+[2026-08-06 11:46:14.556][INFO] Node 0 starting view 554
+[2026-08-06 11:46:14.557][INFO] 💎 Node 0 Commit block - Height: 549, TxCount: 0, E2E_TPS: 10387.94, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 550, tx_ids.len= 0
+[2026-08-06 11:46:15.236][INFO] Node 0 starting view 555
+[2026-08-06 11:46:15.614][INFO] 💎 Node 0 Commit block - Height: 550, TxCount: 0, E2E_TPS: 10281.91, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 551, tx_ids.len= 0
+[2026-08-06 11:46:15.682][INFO] Node 0 starting view 556
+[2026-08-06 11:46:15.687][INFO] 💎 Node 0 Commit block - Height: 551, TxCount: 0, E2E_TPS: 10273.16, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 552, tx_ids.len= 0
+[2026-08-06 11:46:16.322][INFO] 💎 Node 0 Commit block - Height: 552, TxCount: 0, E2E_TPS: 10209.97, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 553, tx_ids.len= 0
+[2026-08-06 11:46:16.358][INFO] Node 0 starting view 557
+[2026-08-06 11:46:16.464][INFO] Node 0 starting view 558
+[2026-08-06 11:46:16.466][INFO] 💎 Node 0 Commit block - Height: 553, TxCount: 0, E2E_TPS: 10195.50, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 554, tx_ids.len= 0
+[2026-08-06 11:46:17.331][INFO] Node 0 starting view 559
+[2026-08-06 11:46:17.333][INFO] 💎 Node 0 Commit block - Height: 554, TxCount: 0, E2E_TPS: 10110.44, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 555, tx_ids.len= 0
+[2026-08-06 11:46:18.018][INFO] Node 0 starting view 560
+[2026-08-06 11:46:18.021][INFO] 💎 Node 0 Commit block - Height: 555, TxCount: 0, E2E_TPS: 10044.03, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 556, tx_ids.len= 0
+[2026-08-06 11:46:18.026][INFO] 💎 Node 0 Commit block - Height: 556, TxCount: 0, E2E_TPS: 10043.46, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 557, tx_ids.len= 0
+[2026-08-06 11:46:18.040][INFO] Node 0 starting view 561
+[2026-08-06 11:46:19.825][INFO] 💎 Node 0 Commit block - Height: 557, TxCount: 0, E2E_TPS: 9873.93, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 558, tx_ids.len= 0
+[2026-08-06 11:46:19.833][INFO] Node 0 starting view 563
+[2026-08-06 11:46:19.880][INFO] 💎 Node 0 Commit block - Height: 558, TxCount: 0, E2E_TPS: 9868.74, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 559, tx_ids.len= 0
+[2026-08-06 11:46:20.560][INFO] Node 0 starting view 564
+[2026-08-06 11:46:20.563][INFO] 💎 Node 0 Commit block - Height: 559, TxCount: 0, E2E_TPS: 9805.74, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 560, tx_ids.len= 0
+[2026-08-06 11:46:20.827][INFO] 💎 Node 0 Commit block - Height: 560, TxCount: 0, E2E_TPS: 9782.36, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 561, tx_ids.len= 0
+[2026-08-06 11:46:20.869][INFO] Node 0 starting view 565
+[2026-08-06 11:46:22.241][INFO] Node 0 starting view 566
+[2026-08-06 11:46:22.250][INFO] 💎 Node 0 Commit block - Height: 561, TxCount: 0, E2E_TPS: 9654.18, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 562, tx_ids.len= 0
+[2026-08-06 11:46:22.727][INFO] Node 0 starting view 567
+[2026-08-06 11:46:22.752][INFO] 💎 Node 0 Commit block - Height: 562, TxCount: 0, E2E_TPS: 9609.50, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 563, tx_ids.len= 0
+[2026-08-06 11:46:23.845][INFO] Node 0 starting view 568
+[2026-08-06 11:46:23.846][INFO] 💎 Node 0 Commit block - Height: 563, TxCount: 0, E2E_TPS: 9514.13, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 564, tx_ids.len= 0
+[2026-08-06 11:46:23.847][INFO] 💎 Node 0 Commit block - Height: 564, TxCount: 0, E2E_TPS: 9514.04, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 565, tx_ids.len= 0
+[2026-08-06 11:46:23.860][INFO] Node 0 starting view 569
+[2026-08-06 11:46:25.392][INFO] Node 0 starting view 570
+[2026-08-06 11:46:26.043][INFO] 💎 Node 0 Commit block - Height: 565, TxCount: 0, E2E_TPS: 9329.11, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 566, tx_ids.len= 0
+[2026-08-06 11:46:26.064][INFO] Node 0 starting view 571
+[2026-08-06 11:46:26.072][INFO] 💎 Node 0 Commit block - Height: 566, TxCount: 0, E2E_TPS: 9326.13, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 567, tx_ids.len= 0
+[2026-08-06 11:46:26.684][INFO] Node 0 starting view 572
+[2026-08-06 11:46:26.692][INFO] 💎 Node 0 Commit block - Height: 567, TxCount: 0, E2E_TPS: 9275.25, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 568, tx_ids.len= 0
+[2026-08-06 11:46:27.911][INFO] 💎 Node 0 Commit block - Height: 568, TxCount: 0, E2E_TPS: 9177.62, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 569, tx_ids.len= 0
+[2026-08-06 11:46:27.921][INFO] Node 0 starting view 573
+[2026-08-06 11:46:27.971][INFO] Node 0 starting view 574
+[2026-08-06 11:46:27.977][INFO] 💎 Node 0 Commit block - Height: 569, TxCount: 0, E2E_TPS: 9171.13, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 570, tx_ids.len= 0
+[2026-08-06 11:46:28.961][INFO] Node 0 starting view 575
+[2026-08-06 11:46:28.999][INFO] 💎 Node 0 Commit block - Height: 570, TxCount: 0, E2E_TPS: 9090.43, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 571, tx_ids.len= 0
+[2026-08-06 11:46:30.065][INFO] Node 0 starting view 576
+[2026-08-06 11:46:30.069][INFO] 💎 Node 0 Commit block - Height: 571, TxCount: 0, E2E_TPS: 9006.58, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 572, tx_ids.len= 0
+[2026-08-06 11:46:30.091][INFO] 💎 Node 0 Commit block - Height: 572, TxCount: 0, E2E_TPS: 9004.88, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 573, tx_ids.len= 0
+[2026-08-06 11:46:30.092][INFO] Node 0 starting view 577
+[2026-08-06 11:46:30.989][INFO] Node 0 starting view 578
+[2026-08-06 11:46:31.440][INFO] 💎 Node 0 Commit block - Height: 573, TxCount: 0, E2E_TPS: 8902.25, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 574, tx_ids.len= 0
+[2026-08-06 11:46:31.492][INFO] Node 0 starting view 579
+[2026-08-06 11:46:31.584][INFO] 💎 Node 0 Commit block - Height: 574, TxCount: 0, E2E_TPS: 8891.18, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 575, tx_ids.len= 0
+[2026-08-06 11:46:31.585][INFO] Node 0 starting view 580
+[2026-08-06 11:46:31.586][INFO] 💎 Node 0 Commit block - Height: 575, TxCount: 0, E2E_TPS: 8890.95, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 576, tx_ids.len= 0
+[2026-08-06 11:46:32.338][INFO] 💎 Node 0 Commit block - Height: 576, TxCount: 0, E2E_TPS: 8835.03, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 577, tx_ids.len= 0
+[2026-08-06 11:46:32.358][INFO] Node 0 starting view 581
+[2026-08-06 11:46:33.002][INFO] Node 0 starting view 582
+[2026-08-06 11:46:33.008][INFO] 💎 Node 0 Commit block - Height: 577, TxCount: 0, E2E_TPS: 8785.23, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 578, tx_ids.len= 0
+[2026-08-06 11:46:33.486][INFO] Node 0 starting view 583
+[2026-08-06 11:46:33.733][INFO] 💎 Node 0 Commit block - Height: 578, TxCount: 0, E2E_TPS: 8732.37, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 579, tx_ids.len= 0
+[2026-08-06 11:46:33.734][INFO] Node 0 starting view 584
+[2026-08-06 11:46:33.735][INFO] 💎 Node 0 Commit block - Height: 579, TxCount: 0, E2E_TPS: 8732.15, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 580, tx_ids.len= 0
+[2026-08-06 11:46:33.735][INFO] 💎 Node 0 Commit block - Height: 580, TxCount: 0, E2E_TPS: 8732.15, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 581, tx_ids.len= 0
+[2026-08-06 11:46:33.757][INFO] Node 0 starting view 585
+[2026-08-06 11:46:34.542][INFO] Node 0 starting view 586
+[2026-08-06 11:46:34.549][INFO] 💎 Node 0 Commit block - Height: 581, TxCount: 0, E2E_TPS: 8673.47, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 582, tx_ids.len= 0
+[2026-08-06 11:46:35.276][INFO] Node 0 starting view 587
+[2026-08-06 11:46:35.284][INFO] 💎 Node 0 Commit block - Height: 582, TxCount: 0, E2E_TPS: 8621.16, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 583, tx_ids.len= 0
+[2026-08-06 11:46:35.355][INFO] 💎 Node 0 Commit block - Height: 583, TxCount: 0, E2E_TPS: 8616.35, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 584, tx_ids.len= 0
+[2026-08-06 11:46:35.357][INFO] 💎 Node 0 Commit block - Height: 584, TxCount: 0, E2E_TPS: 8616.07, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 585, tx_ids.len= 0
+[2026-08-06 11:46:35.358][INFO] Node 0 starting view 589
+[2026-08-06 11:46:36.342][INFO] Node 0 starting view 590
+[2026-08-06 11:46:36.347][INFO] 💎 Node 0 Commit block - Height: 585, TxCount: 0, E2E_TPS: 8546.82, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 586, tx_ids.len= 0
+[2026-08-06 11:46:37.172][INFO] Node 0 starting view 591
+[2026-08-06 11:46:37.183][INFO] 💎 Node 0 Commit block - Height: 586, TxCount: 0, E2E_TPS: 8489.02, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 587, tx_ids.len= 0
+[2026-08-06 11:46:37.251][INFO] Node 0 starting view 592
+[2026-08-06 11:46:37.254][INFO] 💎 Node 0 Commit block - Height: 587, TxCount: 0, E2E_TPS: 8484.08, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 588, tx_ids.len= 0
+[2026-08-06 11:46:38.003][INFO] 💎 Node 0 Commit block - Height: 588, TxCount: 0, E2E_TPS: 8433.28, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 589, tx_ids.len= 0
+[2026-08-06 11:46:38.018][INFO] Node 0 starting view 593
+[2026-08-06 11:46:40.015][INFO] Node 0 view 593 timed out!
+[2026-08-06 11:46:40.342][INFO] Node 0 starting view 594
+[2026-08-06 11:46:40.343][INFO] 💎 Node 0 Commit block - Height: 589, TxCount: 0, E2E_TPS: 8277.60, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 590, tx_ids.len= 0
+[2026-08-06 11:46:40.356][INFO] Node 0 starting view 595
+[2026-08-06 11:46:40.360][INFO] 💎 Node 0 Commit block - Height: 590, TxCount: 0, E2E_TPS: 8276.62, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 591, tx_ids.len= 0
+[2026-08-06 11:46:40.375][INFO] Node 0 starting view 596
+[2026-08-06 11:46:40.613][INFO] 💎 Node 0 Commit block - Height: 591, TxCount: 0, E2E_TPS: 8260.35, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 592, tx_ids.len= 0
+[2026-08-06 11:46:40.634][INFO] 💎 Node 0 Commit block - Height: 592, TxCount: 0, E2E_TPS: 8258.92, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 593, tx_ids.len= 0
+[2026-08-06 11:46:40.661][INFO] Node 0 starting view 597
+[2026-08-06 11:46:41.970][INFO] 💎 Node 0 Commit block - Height: 593, TxCount: 0, E2E_TPS: 8172.83, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 594, tx_ids.len= 0
+[2026-08-06 11:46:42.699][INFO] Node 0 starting view 599
+[2026-08-06 11:46:42.704][INFO] 💎 Node 0 Commit block - Height: 594, TxCount: 0, E2E_TPS: 8126.37, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 595, tx_ids.len= 0
+[2026-08-06 11:46:42.707][INFO] Node 0 starting view 600
+[2026-08-06 11:46:42.708][INFO] 💎 Node 0 Commit block - Height: 595, TxCount: 0, E2E_TPS: 8126.12, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 596, tx_ids.len= 0
+[2026-08-06 11:46:43.441][INFO] 💎 Node 0 Commit block - Height: 596, TxCount: 0, E2E_TPS: 8080.50, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 597, tx_ids.len= 0
+[2026-08-06 11:46:43.450][INFO] Node 0 starting view 601
+[2026-08-06 11:46:44.377][INFO] Node 0 starting view 602
+[2026-08-06 11:46:44.432][INFO] 💎 Node 0 Commit block - Height: 597, TxCount: 0, E2E_TPS: 8019.74, Pure_TPS: 17287.69, Submit_TPS: 1.21, TotalTxs: 1050626, TotalBlocks: 598, tx_ids.len= 0
+[2026-08-06 11:46:46.809][INFO] Node 0 starting view 603
+[2026-08-06 11:46:46.816][INFO] 💎 Node 0 Commit block - Height: 598, TxCount: 0, E2E_TPS: 7876.23, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 599, tx_ids.len= 0
+[2026-08-06 11:46:46.874][INFO] Node 0 starting view 604
+[2026-08-06 11:46:46.894][INFO] 💎 Node 0 Commit block - Height: 599, TxCount: 0, E2E_TPS: 7871.39, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 600, tx_ids.len= 0
+[2026-08-06 11:46:46.915][INFO] 💎 Node 0 Commit block - Height: 600, TxCount: 0, E2E_TPS: 7870.51, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 601, tx_ids.len= 0
+[2026-08-06 11:46:46.941][INFO] Node 0 starting view 605
+[2026-08-06 11:46:48.291][INFO] Node 0 starting view 606
+[2026-08-06 11:46:48.770][INFO] 💎 Node 0 Commit block - Height: 601, TxCount: 0, E2E_TPS: 7762.98, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 602, tx_ids.len= 0
+[2026-08-06 11:46:50.411][INFO] Node 0 starting view 607
+[2026-08-06 11:46:50.529][INFO] 💎 Node 0 Commit block - Height: 602, TxCount: 0, E2E_TPS: 7663.32, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 603, tx_ids.len= 0
+[2026-08-06 11:46:50.540][INFO] Node 0 starting view 608
+[2026-08-06 11:46:50.595][INFO] 💎 Node 0 Commit block - Height: 603, TxCount: 0, E2E_TPS: 7659.35, Pure_TPS: 17287.69, Submit_TPS: 1.22, TotalTxs: 1050626, TotalBlocks: 604, tx_ids.len= 0
+[2026-08-06 11:46:50.627][INFO] 💎 Node 0 Commit block - Height: 604, TxCount: 5618, E2E_TPS: 7698.57, Pure_TPS: 7738.50, Submit_TPS: 1.22, TotalTxs: 1056244, TotalBlocks: 605, tx_ids.len= 5618
+[2026-08-06 11:46:50.629][INFO] Node 0 starting view 609
+[2026-08-06 11:46:52.759][INFO] 💎 Node 0 Commit block - Height: 605, TxCount: 19660, E2E_TPS: 7722.54, Pure_TPS: 7761.98, Submit_TPS: 1.22, TotalTxs: 1075904, TotalBlocks: 606, tx_ids.len= 19660
+[2026-08-06 11:46:54.097][INFO] 💎 Node 0 Commit block - Height: 606, TxCount: 8426, E2E_TPS: 7708.27, Pure_TPS: 7747.25, Submit_TPS: 1.22, TotalTxs: 1084330, TotalBlocks: 607, tx_ids.len= 8426
+[2026-08-06 11:46:54.925][INFO] Node 0 starting view 612
+[2026-08-06 11:46:56.773][INFO] 💎 Node 0 Commit block - Height: 607, TxCount: 10532, E2E_TPS: 7639.12, Pure_TPS: 7677.04, Submit_TPS: 1.21, TotalTxs: 1094862, TotalBlocks: 608, tx_ids.len= 10532
+[2026-08-06 11:46:56.809][INFO] Node 0 view 612 timed out!
+[2026-08-06 11:46:56.813][INFO] Node 0 starting view 613
+[2026-08-06 11:46:58.431][INFO] Node 0 starting view 614
+[2026-08-06 11:47:00.437][INFO] Node 0 view 614 timed out!
+[2026-08-06 11:47:02.738][INFO] Node 0 starting view 616
+[2026-08-06 11:47:03.191][INFO] 💎 Node 0 Commit block - Height: 608, TxCount: 45637, E2E_TPS: 7615.97, Pure_TPS: 7652.14, Submit_TPS: 1.22, TotalTxs: 1140499, TotalBlocks: 609, tx_ids.len= 45637
+[2026-08-06 11:47:03.292][INFO] 💎 Node 0 Commit block - Height: 609, TxCount: 27386, E2E_TPS: 7795.31, Pure_TPS: 7832.31, Submit_TPS: 1.21, TotalTxs: 1167885, TotalBlocks: 610, tx_ids.len= 27386
+[2026-08-06 11:47:03.802][INFO] 💎 Node 0 Commit block - Height: 610, TxCount: 21769, E2E_TPS: 7912.25, Pure_TPS: 7949.68, Submit_TPS: 1.22, TotalTxs: 1189654, TotalBlocks: 611, tx_ids.len= 21769
+[2026-08-06 11:47:03.868][INFO] 💎 Node 0 Commit block - Height: 611, TxCount: 39320, E2E_TPS: 8169.41, Pure_TPS: 8208.04, Submit_TPS: 1.22, TotalTxs: 1228974, TotalBlocks: 612, tx_ids.len= 39320
+[2026-08-06 11:47:03.875][INFO] Node 0 starting view 617
+[2026-08-06 11:47:04.827][INFO] Node 0 starting view 618
+[2026-08-06 11:47:04.864][INFO] 💎 Node 0 Commit block - Height: 612, TxCount: 0, E2E_TPS: 8115.47, Pure_TPS: 8208.04, Submit_TPS: 1.22, TotalTxs: 1228974, TotalBlocks: 613, tx_ids.len= 0
+[2026-08-06 11:47:05.927][INFO] Node 0 starting view 619
+[2026-08-06 11:47:06.212][INFO] 💎 Node 0 Commit block - Height: 613, TxCount: 35811, E2E_TPS: 8280.10, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 614, tx_ids.len= 35811
+[2026-08-06 11:47:06.223][INFO] Node 0 starting view 620
+[2026-08-06 11:47:06.226][INFO] 💎 Node 0 Commit block - Height: 614, TxCount: 0, E2E_TPS: 8277.01, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 615, tx_ids.len= 0
+[2026-08-06 11:47:06.330][INFO] 💎 Node 0 Commit block - Height: 615, TxCount: 0, E2E_TPS: 8271.54, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 616, tx_ids.len= 0
+[2026-08-06 11:47:06.346][INFO] Node 0 starting view 621
+[2026-08-06 11:47:06.352][INFO] Node 0 starting view 622
+[2026-08-06 11:47:06.357][INFO] 💎 Node 0 Commit block - Height: 616, TxCount: 0, E2E_TPS: 8269.92, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 617, tx_ids.len= 0
+[2026-08-06 11:47:08.114][INFO] Node 0 starting view 623
+[2026-08-06 11:47:08.141][INFO] 💎 Node 0 Commit block - Height: 617, TxCount: 0, E2E_TPS: 8174.93, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 618, tx_ids.len= 0
+[2026-08-06 11:47:08.156][INFO] Node 0 starting view 624
+[2026-08-06 11:47:08.192][INFO] 💎 Node 0 Commit block - Height: 618, TxCount: 0, E2E_TPS: 8171.98, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 619, tx_ids.len= 0
+[2026-08-06 11:47:09.532][INFO] 💎 Node 0 Commit block - Height: 619, TxCount: 0, E2E_TPS: 8102.09, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 620, tx_ids.len= 0
+[2026-08-06 11:47:09.580][INFO] Node 0 starting view 625
+[2026-08-06 11:47:09.767][INFO] Node 0 starting view 626
+[2026-08-06 11:47:09.783][INFO] 💎 Node 0 Commit block - Height: 620, TxCount: 0, E2E_TPS: 8089.03, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 621, tx_ids.len= 0
+[2026-08-06 11:47:09.802][INFO] Node 0 starting view 627
+[2026-08-06 11:47:09.816][INFO] 💎 Node 0 Commit block - Height: 621, TxCount: 0, E2E_TPS: 8087.27, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 622, tx_ids.len= 0
+[2026-08-06 11:47:11.408][INFO] Node 0 starting view 628
+[2026-08-06 11:47:11.412][INFO] 💎 Node 0 Commit block - Height: 622, TxCount: 0, E2E_TPS: 8005.27, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 623, tx_ids.len= 0
+[2026-08-06 11:47:11.413][INFO] 💎 Node 0 Commit block - Height: 623, TxCount: 0, E2E_TPS: 8005.22, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 624, tx_ids.len= 0
+[2026-08-06 11:47:11.416][INFO] Node 0 starting view 629
+[2026-08-06 11:47:12.807][INFO] Node 0 starting view 630
+[2026-08-06 11:47:12.809][INFO] 💎 Node 0 Commit block - Height: 624, TxCount: 0, E2E_TPS: 7935.16, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 625, tx_ids.len= 0
+[2026-08-06 11:47:12.815][INFO] Node 0 starting view 631
+[2026-08-06 11:47:12.816][INFO] 💎 Node 0 Commit block - Height: 625, TxCount: 0, E2E_TPS: 7934.76, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 626, tx_ids.len= 0
+[2026-08-06 11:47:13.384][INFO] 💎 Node 0 Commit block - Height: 626, TxCount: 0, E2E_TPS: 7906.98, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 627, tx_ids.len= 0
+[2026-08-06 11:47:15.574][INFO] 💎 Node 0 Commit block - Height: 627, TxCount: 0, E2E_TPS: 7800.57, Pure_TPS: 8318.65, Submit_TPS: 1.22, TotalTxs: 1264785, TotalBlocks: 628, tx_ids.len= 0
+[2026-08-06 11:47:15.576][INFO] Node 0 view 632 timed out!
+[2026-08-06 11:47:15.590][INFO] Node 0 starting view 633
+[2026-08-06 11:47:17.561][INFO] Node 0 view 633 timed out!
+[2026-08-06 11:47:17.631][INFO] Node 0 starting view 634
+[2026-08-06 11:47:20.016][INFO] Node 0 view 634 timed out!
+[2026-08-06 11:47:20.083][INFO] Node 0 starting view 635
+[2026-08-06 11:47:20.224][INFO] Node 0 starting view 636
+[2026-08-06 11:47:20.848][INFO] 💎 Node 0 Commit block - Height: 628, TxCount: 0, E2E_TPS: 7554.29, Pure_TPS: 8318.65, Submit_TPS: 1.21, TotalTxs: 1264785, TotalBlocks: 629, tx_ids.len= 0
+[2026-08-06 11:47:20.853][INFO] 💎 Node 0 Commit block - Height: 629, TxCount: 0, E2E_TPS: 7553.93, Pure_TPS: 8318.65, Submit_TPS: 1.21, TotalTxs: 1264785, TotalBlocks: 630, tx_ids.len= 0
+[2026-08-06 11:47:20.856][INFO] 💎 Node 0 Commit block - Height: 630, TxCount: 0, E2E_TPS: 7553.75, Pure_TPS: 8318.65, Submit_TPS: 1.21, TotalTxs: 1264785, TotalBlocks: 631, tx_ids.len= 0
+[2026-08-06 11:47:20.860][INFO] Node 0 starting view 637
+[2026-08-06 11:47:23.455][INFO] Node 0 starting view 638
+[2026-08-06 11:47:24.861][INFO] Node 0 view 638 timed out!
+[2026-08-06 11:47:24.916][INFO] Node 0 starting view 639
+[2026-08-06 11:47:25.973][INFO] Node 0 starting view 641
+[2026-08-06 11:47:27.989][INFO] Node 0 view 641 timed out!
+[2026-08-06 11:47:28.032][INFO] Node 0 starting view 642
+[2026-08-06 11:47:30.635][INFO] Node 0 starting view 643
+[2026-08-06 11:47:30.673][INFO] Node 0 starting view 644
+[2026-08-06 11:47:33.097][INFO] Node 0 view 644 timed out!
+[2026-08-06 11:47:33.113][INFO] Node 0 starting view 645
+[2026-08-06 11:47:37.783][INFO] Node 0 view 645 timed out!
+[2026-08-06 11:47:37.830][INFO] Node 0 starting view 646
+[2026-08-06 11:47:39.804][INFO] Node 0 view 646 timed out!
+[2026-08-06 11:47:41.814][INFO] Node 0 view 647 timed out!
+[2026-08-06 11:47:48.226][INFO] Node 0 starting view 648
+[2026-08-06 11:47:48.263][INFO] Node 0 view 648 timed out!
+[2026-08-06 11:47:48.286][INFO] Node 0 starting view 649
+[2026-08-06 11:47:50.951][INFO] Node 0 view 649 timed out!
+[2026-08-06 11:47:51.415][INFO] Node 0 starting view 650
+[2026-08-06 11:47:53.680][INFO] Node 0 starting view 651
+[2026-08-06 11:47:56.630][INFO] Node 0 view 651 timed out!
+[2026-08-06 11:47:56.640][INFO] Node 0 starting view 652
+[2026-08-06 11:47:58.553][INFO] Node 0 starting view 653
+[2026-08-06 11:48:01.839][INFO] Node 0 starting view 654
+[2026-08-06 11:48:03.868][INFO] Node 0 view 654 timed out!
+[2026-08-06 11:48:03.894][INFO] Node 0 starting view 655
+[2026-08-06 11:48:06.256][INFO] Node 0 view 655 timed out!
+[2026-08-06 11:48:06.304][INFO] Node 0 starting view 656
+[2026-08-06 11:48:06.799][INFO] Node 0 starting view 657
+[2026-08-06 11:48:08.805][INFO] Node 0 view 657 timed out!
+[2026-08-06 11:48:08.901][INFO] Node 0 starting view 658

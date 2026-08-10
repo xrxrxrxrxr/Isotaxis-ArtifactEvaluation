@@ -1,0 +1,328 @@
+# Standalone attack-only configuration for the four-replica local evaluation.
+# Node1 runs pure_attacker at the ordering layer while remaining a normal
+# HotStuff replica. Node0, node2, and node3 remain fully honest replicas.
+# The client submits normal workload only to node0, node2, and node3.
+# version: '3.8'
+
+services:
+  node0:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+      args:
+        ENABLE_TOKIO_CONSOLE: ${ENABLE_TOKIO_CONSOLE:-0}
+    container_name: hotstuff_node0
+    hostname: node0
+    environment:
+      - NODE_ID=0
+      - NODE_PORT=${NODE_PORT}
+      - RUST_LOG=${LOG_LEVEL}
+      - NODE_LEAST_ID=${NODE_LEAST_ID}
+      - NODE_NUM=${NODE_NUM}
+      - NODE_HOSTS=${NODE_HOSTS}
+      - POMPE_ENABLE=${POMPE_ENABLE}
+      - POMPE_BATCH_SIZE=${POMPE_BATCH_SIZE}
+      - POMPE_STABLE_PERIOD_MS=${POMPE_STABLE_PERIOD_MS}
+      - POMPE_LEADER_NODE_ID=${POMPE_LEADER_NODE_ID}
+      - APP_BLOCK_MAX_TX=${APP_BLOCK_MAX_TX:-800}
+      - HS_MAX_VIEW_TIME_MS=${HS_MAX_VIEW_TIME_MS:-500}
+      - HS_BROADCAST_PHASE_VOTES=${HS_BROADCAST_PHASE_VOTES:-1}
+      - ENABLE_RUNTIME_PROFILING=${ENABLE_RUNTIME_PROFILING}
+      - SMROL_DISABLE_MULTISIG=${SMROL_DISABLE_MULTISIG}
+      - SMROL_DISABLE_METRICS=${SMROL_DISABLE_METRICS}
+      - SMROL_MAX_PENDING_SEQ_REQUESTS=${SMROL_MAX_PENDING_SEQ_REQUESTS:-2000}
+      - SMROL_MAX_SEQ_DISTANCE=${SMROL_MAX_SEQ_DISTANCE:-200}
+      - METRICS_PORT=9900
+      - TOKIO_CONSOLE_BIND=0.0.0.0:6669
+      - METRICS_LISTEN_ADDR=0.0.0.0:9900
+    ports:
+      - "20000:20000"
+      - "10000:10000"
+      - "9000:9000"
+      - "21000:21000" 
+      - "6660:6669"
+      - "9900:9900"
+    volumes:
+      - ./logs:/logs
+      - ./logs/node:/log
+    networks:
+      - hotstuff_network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "nc", "-z", "localhost", "10000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  node1:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+      args:
+        ENABLE_TOKIO_CONSOLE: ${ENABLE_TOKIO_CONSOLE:-0}
+    container_name: hotstuff_node1
+    hostname: node1
+    command: ["pure_attacker"]
+    environment:
+      - ADVERSARY_MODE=${ADVERSARY_MODE:-smrol}
+      - ATTACK_SLEEP_MICROS=${ATTACK_SLEEP_MICROS:-100}
+      - POMPE_ATTACK_WORKERS=${POMPE_ATTACK_WORKERS:-4}
+      - ATTACK_REPORT_INTERVAL_SECS=${ATTACK_REPORT_INTERVAL_SECS:-10}
+      - ATTACK_START_DELAY_MS=${ATTACK_START_DELAY_MS:-22000}
+      - HOTSTUFF_START_DELAY_SECS=${HOTSTUFF_START_DELAY_SECS:-20}
+      - ADVERSARY_PAYLOAD_BYTES=${ADVERSARY_PAYLOAD_BYTES:-500}
+      - NODE_ID=1
+      - NODE_PORT=${NODE_PORT}
+      - RUST_LOG=${LOG_LEVEL}
+      - NODE_LEAST_ID=${NODE_LEAST_ID}
+      - NODE_NUM=${NODE_NUM}
+      - NODE_HOSTS=${NODE_HOSTS}
+      - POMPE_ENABLE=${POMPE_ENABLE}
+      - POMPE_BATCH_SIZE=${POMPE_BATCH_SIZE}
+      - POMPE_STABLE_PERIOD_MS=${POMPE_STABLE_PERIOD_MS}
+      - POMPE_LEADER_NODE_ID=${POMPE_LEADER_NODE_ID}
+      - APP_BLOCK_MAX_TX=${APP_BLOCK_MAX_TX:-800}
+      - HS_MAX_VIEW_TIME_MS=${HS_MAX_VIEW_TIME_MS:-500}
+      - HS_BROADCAST_PHASE_VOTES=${HS_BROADCAST_PHASE_VOTES:-1}
+      - ENABLE_RUNTIME_PROFILING=${ENABLE_RUNTIME_PROFILING}
+      - SMROL_DISABLE_MULTISIG=${SMROL_DISABLE_MULTISIG}
+      - TOKIO_CONSOLE_BIND=0.0.0.0:6669
+    ports:
+      - "20001:20000"
+      - "10001:10000"
+      - "9001:9000"
+      - "21001:21000"  
+      - "6661:6669"
+    volumes:
+      - ./logs:/logs
+      - ./logs/node:/log
+    networks:
+      - hotstuff_network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "nc", "-z", "localhost", "10000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  node2:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+      args:
+        ENABLE_TOKIO_CONSOLE: ${ENABLE_TOKIO_CONSOLE:-0}
+    container_name: hotstuff_node2
+    hostname: node2
+    environment:
+      - NODE_ID=2
+      - NODE_PORT=${NODE_PORT}
+      - RUST_LOG=${LOG_LEVEL}
+      - NODE_LEAST_ID=${NODE_LEAST_ID}
+      - NODE_NUM=${NODE_NUM}
+      - NODE_HOSTS=${NODE_HOSTS}
+      - POMPE_ENABLE=${POMPE_ENABLE}
+      - POMPE_BATCH_SIZE=${POMPE_BATCH_SIZE}
+      - POMPE_STABLE_PERIOD_MS=${POMPE_STABLE_PERIOD_MS}
+      - POMPE_LEADER_NODE_ID=${POMPE_LEADER_NODE_ID}
+      - APP_BLOCK_MAX_TX=${APP_BLOCK_MAX_TX:-800}
+      - HS_MAX_VIEW_TIME_MS=${HS_MAX_VIEW_TIME_MS:-500}
+      - HS_BROADCAST_PHASE_VOTES=${HS_BROADCAST_PHASE_VOTES:-1}
+      - ENABLE_RUNTIME_PROFILING=${ENABLE_RUNTIME_PROFILING}
+      - SMROL_DISABLE_MULTISIG=${SMROL_DISABLE_MULTISIG}
+      - SMROL_MAX_PENDING_SEQ_REQUESTS=${SMROL_MAX_PENDING_SEQ_REQUESTS:-2000}
+      - SMROL_MAX_SEQ_DISTANCE=${SMROL_MAX_SEQ_DISTANCE:-200}
+      - TOKIO_CONSOLE_BIND=0.0.0.0:6669
+    ports:
+      - "20002:20000"
+      - "10002:10000"
+      - "9002:9000"
+      - "21002:21000"
+      - "6662:6669"
+    volumes:
+      - ./logs:/logs
+      - ./logs/node:/log
+    networks:
+      - hotstuff_network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "nc", "-z", "localhost", "10002"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    # command: sh -c "sleep 5 && docker_node"
+  node3:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+      args:
+        ENABLE_TOKIO_CONSOLE: ${ENABLE_TOKIO_CONSOLE:-0}
+    container_name: hotstuff_node3
+    hostname: node3
+    command: ["${NODE3_COMMAND:-docker_node}"]
+    environment:
+      - NODE_ID=3
+      - NODE_PORT=${NODE_PORT}
+      - RUST_LOG=${LOG_LEVEL}
+      - NODE_LEAST_ID=${NODE_LEAST_ID}
+      - NODE_NUM=${NODE_NUM}
+      - NODE_HOSTS=${NODE_HOSTS}
+      - POMPE_ENABLE=${POMPE_ENABLE}
+      - POMPE_BATCH_SIZE=${POMPE_BATCH_SIZE}
+      - POMPE_STABLE_PERIOD_MS=${POMPE_STABLE_PERIOD_MS}
+      - POMPE_LEADER_NODE_ID=${POMPE_LEADER_NODE_ID}
+      - APP_BLOCK_MAX_TX=${APP_BLOCK_MAX_TX:-800}
+      - HS_MAX_VIEW_TIME_MS=${HS_MAX_VIEW_TIME_MS:-500}
+      - HS_BROADCAST_PHASE_VOTES=${HS_BROADCAST_PHASE_VOTES:-1}
+      - ENABLE_RUNTIME_PROFILING=${ENABLE_RUNTIME_PROFILING}
+      - SMROL_DISABLE_MULTISIG=${SMROL_DISABLE_MULTISIG}
+      - SMROL_DISABLE_METRICS=${SMROL_DISABLE_METRICS}
+      - SMROL_MAX_PENDING_SEQ_REQUESTS=${SMROL_MAX_PENDING_SEQ_REQUESTS:-2000}
+      - SMROL_MAX_SEQ_DISTANCE=${SMROL_MAX_SEQ_DISTANCE:-200}
+      - ADVERSARY_MODE=${ADVERSARY_MODE:-smrol}
+      - TOKIO_CONSOLE_BIND=0.0.0.0:6669
+      # - METRICS_LISTEN_ADDR=0.0.0.0:9903
+    ports:
+      - "20003:20000"
+      - "10003:10000"
+      - "9003:9000"
+      - "21003:21000"
+      - "6663:6669"
+      - "9893:9893"
+    volumes:
+      - ./logs:/logs
+      - ./logs/node:/log
+    networks:
+      - hotstuff_network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "nc", "-z", "localhost", "10003"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  # client: interactive mode
+  client:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+      args:
+        ENABLE_TOKIO_CONSOLE: ${ENABLE_TOKIO_CONSOLE:-0}
+    container_name: hotstuff_client
+    hostname: client
+    command: ["client"] 
+    environment:
+      - CLIENT_ID=client_1
+      - CLIENT_MODE=interactive
+      - CLIENT_ORDERING_MODE=${CLIENT_ORDERING_MODE}
+      - RUST_LOG=${LOG_LEVEL}
+      - CLIENT_LOG_LEVEL=${CLIENT_LOG_LEVEL:-info}
+      - NODE_LEAST_ID=${NODE_LEAST_ID}
+      - NODE_NUM=${NODE_NUM}
+      - CLIENT_EXCLUDED_NODE_IDS=${CLIENT_EXCLUDED_NODE_IDS:-1}
+      - NODE_HOSTS=${NODE_HOSTS}
+      - POMPE_ENABLE=${POMPE_ENABLE} # Pompe
+      - ENABLE_RUNTIME_PROFILING=${ENABLE_RUNTIME_PROFILING}
+      - CLIENT_LOG_INDIVIDUAL_LATENCY=${CLIENT_LOG_INDIVIDUAL_LATENCY:-true}
+      - CLIENT_LATENCY_WARMUP_SECS=${CLIENT_LATENCY_WARMUP_SECS:-0}
+      - CLIENT_LATENCY_REPORT_INTERVAL=${CLIENT_LATENCY_REPORT_INTERVAL:-500}
+    volumes:
+      - ./logs:/logs
+      - ./logs/node:/log
+    networks:
+      - hotstuff_network
+    depends_on:
+      - node0
+      - node1
+      - node2
+      - node3
+    restart: no 
+    profiles:
+      - interactive
+
+  perf_tester:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+      args:
+        ENABLE_TOKIO_CONSOLE: ${ENABLE_TOKIO_CONSOLE:-0}
+    container_name: hotstuff_perf_tester
+    hostname: perf_tester
+    command: ["client"]  
+    volumes:
+      - ./logs:/logs
+    environment:
+      - CLIENT_ID=perf_tester_001
+      - CLIENT_MODE=load_test  
+      - CLIENT_ORDERING_MODE=${CLIENT_ORDERING_MODE}
+      - TARGET_TPS=1000        
+      - TEST_DURATION=300      
+      - RUST_LOG=${LOG_LEVEL}
+      - CLIENT_LOG_LEVEL=${CLIENT_LOG_LEVEL:-info}
+      - ORDERING_BATCH_SIZE=${ORDERING_BATCH_SIZE}
+      - CLIENT_BATCH_SIZE_CONSTANT=${CLIENT_BATCH_SIZE_CONSTANT:-1}
+      - CLIENT_TOTAL_TX=${CLIENT_TOTAL_TX:-10000}
+      - NODE_LEAST_ID=${NODE_LEAST_ID}
+      - NODE_NUM=${NODE_NUM}
+      - CLIENT_EXCLUDED_NODE_IDS=${CLIENT_EXCLUDED_NODE_IDS:-1}
+      - POMPE_ENABLE=${POMPE_ENABLE} 
+      - NODE_HOSTS=${NODE_HOSTS}
+      - ENABLE_RUNTIME_PROFILING=${ENABLE_RUNTIME_PROFILING}
+      - CLIENT_LOG_INDIVIDUAL_LATENCY=${CLIENT_LOG_INDIVIDUAL_LATENCY:-true}
+      - CLIENT_LATENCY_WARMUP_SECS=${CLIENT_LATENCY_WARMUP_SECS:-0}
+      - CLIENT_LATENCY_REPORT_INTERVAL=${CLIENT_LATENCY_REPORT_INTERVAL:-500}
+    profiles:
+      - perf_test
+
+# client: load test mode
+  load_tester:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+      args:
+        ENABLE_TOKIO_CONSOLE: ${ENABLE_TOKIO_CONSOLE:-0}
+    container_name: hotstuff_load_tester
+    hostname: load_tester
+    command: ["client"]  
+    environment:
+      - CLIENT_ID=load_tester_001
+      - CLIENT_MODE=load_test
+      - CLIENT_ORDERING_MODE=${CLIENT_ORDERING_MODE}
+      - TARGET_TPS=${TARGET_TPS}
+      - TEST_DURATION=100
+      - RUST_LOG=${LOG_LEVEL}
+      - CLIENT_LOG_LEVEL=${CLIENT_LOG_LEVEL:-info}
+      - ORDERING_BATCH_SIZE=${ORDERING_BATCH_SIZE}
+      - CLIENT_BATCH_SIZE_CONSTANT=${CLIENT_BATCH_SIZE_CONSTANT:-1}
+      - CLIENT_TOTAL_TX=${CLIENT_TOTAL_TX:-10000}
+      - NODE_LEAST_ID=${NODE_LEAST_ID}  
+      - NODE_NUM=${NODE_NUM}
+      - CLIENT_EXCLUDED_NODE_IDS=${CLIENT_EXCLUDED_NODE_IDS:-1}
+      - NODE_HOSTS=${NODE_HOSTS}
+      - POMPE_ENABLE=${POMPE_ENABLE}
+      - CLIENT_LOG_INDIVIDUAL_LATENCY=${CLIENT_LOG_INDIVIDUAL_LATENCY:-true}
+      - CLIENT_LATENCY_WARMUP_SECS=${CLIENT_LATENCY_WARMUP_SECS:-0}
+      - CLIENT_LATENCY_REPORT_INTERVAL=${CLIENT_LATENCY_REPORT_INTERVAL:-500}
+    volumes:
+      - ./logs:/logs
+      - ./logs/node:/log
+    networks:
+      - hotstuff_network
+    depends_on:
+      - node0
+      - node1
+      - node2
+      - node3
+    restart: "no"
+    profiles:
+      - load_test
+
+networks:
+  hotstuff_network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16

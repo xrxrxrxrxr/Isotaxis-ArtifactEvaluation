@@ -1,0 +1,856 @@
+[2026-08-07 05:07:35.026][INFO] Node 3 view 0 timed out!
+[2026-08-07 05:07:35.043][INFO] Node 3 starting view 1
+[2026-08-07 05:07:35.060][INFO] Node 3 starting view 2
+[2026-08-07 05:07:35.060][INFO] Node 3 starting view 3
+[2026-08-07 05:07:35.062][INFO] Node 3 starting view 4
+[2026-08-07 05:07:35.064][INFO] 💎 Node 3 Commit block - Height: 0, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 1, tx_ids.len= 0
+[2026-08-07 05:07:35.097][INFO] Node 3 starting view 5
+[2026-08-07 05:07:35.102][INFO] 💎 Node 3 Commit block - Height: 1, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 2, tx_ids.len= 0
+[2026-08-07 05:07:35.104][INFO] 💎 Node 3 Commit block - Height: 2, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 3, tx_ids.len= 0
+[2026-08-07 05:07:35.106][INFO] Node 3 starting view 6
+[2026-08-07 05:07:35.114][INFO] Node 3 starting view 7
+[2026-08-07 05:07:35.119][INFO] 💎 Node 3 Commit block - Height: 3, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 4, tx_ids.len= 0
+[2026-08-07 05:07:35.124][INFO] Node 3 starting view 8
+[2026-08-07 05:07:35.137][INFO] 💎 Node 3 Commit block - Height: 4, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 5, tx_ids.len= 0
+[2026-08-07 05:07:35.142][INFO] Node 3 starting view 9
+[2026-08-07 05:07:35.147][INFO] 💎 Node 3 Commit block - Height: 5, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 6, tx_ids.len= 0
+[2026-08-07 05:07:35.158][INFO] 💎 Node 3 Commit block - Height: 6, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 7, tx_ids.len= 0
+[2026-08-07 05:07:35.177][INFO] Node 3 starting view 10
+[2026-08-07 05:07:35.246][INFO] Node 3 starting view 11
+[2026-08-07 05:07:35.258][INFO] 💎 Node 3 Commit block - Height: 7, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 8, tx_ids.len= 0
+[2026-08-07 05:07:35.263][INFO] Node 3 starting view 12
+[2026-08-07 05:07:35.268][INFO] 💎 Node 3 Commit block - Height: 8, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 9, tx_ids.len= 0
+[2026-08-07 05:07:35.270][INFO] Node 3 starting view 13
+[2026-08-07 05:07:35.272][INFO] 💎 Node 3 Commit block - Height: 9, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 10, tx_ids.len= 0
+[2026-08-07 05:07:35.273][INFO] 💎 Node 3 Commit block - Height: 10, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 11, tx_ids.len= 0
+[2026-08-07 05:07:35.276][INFO] Node 3 starting view 14
+[2026-08-07 05:07:35.279][INFO] Node 3 starting view 15
+[2026-08-07 05:07:35.282][INFO] 💎 Node 3 Commit block - Height: 11, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 12, tx_ids.len= 0
+[2026-08-07 05:07:35.283][INFO] Node 3 starting view 16
+[2026-08-07 05:07:35.288][INFO] 💎 Node 3 Commit block - Height: 12, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 13, tx_ids.len= 0
+[2026-08-07 05:07:35.292][INFO] Node 3 starting view 17
+[2026-08-07 05:07:35.294][INFO] 💎 Node 3 Commit block - Height: 13, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 14, tx_ids.len= 0
+[2026-08-07 05:07:35.298][INFO] 💎 Node 3 Commit block - Height: 14, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 15, tx_ids.len= 0
+[2026-08-07 05:07:35.301][INFO] Node 3 starting view 18
+[2026-08-07 05:07:35.308][INFO] Node 3 starting view 19
+[2026-08-07 05:07:35.310][INFO] 💎 Node 3 Commit block - Height: 15, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 16, tx_ids.len= 0
+[2026-08-07 05:07:35.321][INFO] Node 3 starting view 20
+[2026-08-07 05:07:35.329][INFO] 💎 Node 3 Commit block - Height: 16, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 17, tx_ids.len= 0
+[2026-08-07 05:07:35.393][INFO] Node 3 starting view 21
+[2026-08-07 05:07:35.396][INFO] 💎 Node 3 Commit block - Height: 17, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 18, tx_ids.len= 0
+[2026-08-07 05:07:35.401][INFO] 💎 Node 3 Commit block - Height: 18, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 19, tx_ids.len= 0
+[2026-08-07 05:07:35.406][INFO] Node 3 starting view 22
+[2026-08-07 05:07:35.411][INFO] Node 3 starting view 23
+[2026-08-07 05:07:35.417][INFO] 💎 Node 3 Commit block - Height: 19, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 20, tx_ids.len= 0
+[2026-08-07 05:07:35.422][INFO] Node 3 starting view 24
+[2026-08-07 05:07:35.434][INFO] 💎 Node 3 Commit block - Height: 20, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 21, tx_ids.len= 0
+[2026-08-07 05:07:35.444][INFO] Node 3 starting view 25
+[2026-08-07 05:07:35.448][INFO] 💎 Node 3 Commit block - Height: 21, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 22, tx_ids.len= 0
+[2026-08-07 05:07:35.461][INFO] 💎 Node 3 Commit block - Height: 22, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 23, tx_ids.len= 0
+[2026-08-07 05:07:35.469][INFO] Node 3 starting view 26
+[2026-08-07 05:07:35.476][INFO] Node 3 starting view 27
+[2026-08-07 05:07:35.498][INFO] 💎 Node 3 Commit block - Height: 23, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 24, tx_ids.len= 0
+[2026-08-07 05:07:35.541][INFO] Node 3 starting view 28
+[2026-08-07 05:07:35.609][INFO] 💎 Node 3 Commit block - Height: 24, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 25, tx_ids.len= 0
+[2026-08-07 05:07:35.640][INFO] Node 3 starting view 29
+[2026-08-07 05:07:35.646][INFO] 💎 Node 3 Commit block - Height: 25, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 26, tx_ids.len= 0
+[2026-08-07 05:07:35.652][INFO] 💎 Node 3 Commit block - Height: 26, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 27, tx_ids.len= 0
+[2026-08-07 05:07:35.659][INFO] Node 3 starting view 30
+[2026-08-07 05:07:35.665][INFO] Node 3 starting view 31
+[2026-08-07 05:07:35.678][INFO] 💎 Node 3 Commit block - Height: 27, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 28, tx_ids.len= 0
+[2026-08-07 05:07:35.683][INFO] Node 3 starting view 32
+[2026-08-07 05:07:35.691][INFO] 💎 Node 3 Commit block - Height: 28, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 29, tx_ids.len= 0
+[2026-08-07 05:07:35.695][INFO] Node 3 starting view 33
+[2026-08-07 05:07:35.701][INFO] 💎 Node 3 Commit block - Height: 29, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 30, tx_ids.len= 0
+[2026-08-07 05:07:35.706][INFO] 💎 Node 3 Commit block - Height: 30, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 31, tx_ids.len= 0
+[2026-08-07 05:07:35.708][INFO] Node 3 starting view 34
+[2026-08-07 05:07:35.717][INFO] Node 3 starting view 35
+[2026-08-07 05:07:35.725][INFO] 💎 Node 3 Commit block - Height: 31, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 32, tx_ids.len= 0
+[2026-08-07 05:07:35.733][INFO] Node 3 starting view 36
+[2026-08-07 05:07:35.739][INFO] 💎 Node 3 Commit block - Height: 32, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 33, tx_ids.len= 0
+[2026-08-07 05:07:35.774][INFO] Node 3 starting view 37
+[2026-08-07 05:07:35.825][INFO] 💎 Node 3 Commit block - Height: 33, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 34, tx_ids.len= 0
+[2026-08-07 05:07:35.876][INFO] 💎 Node 3 Commit block - Height: 34, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 35, tx_ids.len= 0
+[2026-08-07 05:07:35.959][INFO] Node 3 starting view 38
+[2026-08-07 05:07:36.037][INFO] Node 3 starting view 39
+[2026-08-07 05:07:36.039][INFO] 💎 Node 3 Commit block - Height: 35, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 36, tx_ids.len= 0
+[2026-08-07 05:07:36.041][INFO] Node 3 starting view 40
+[2026-08-07 05:07:36.044][INFO] 💎 Node 3 Commit block - Height: 36, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 37, tx_ids.len= 0
+[2026-08-07 05:07:36.045][INFO] Node 3 starting view 41
+[2026-08-07 05:07:36.046][INFO] 💎 Node 3 Commit block - Height: 37, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 38, tx_ids.len= 0
+[2026-08-07 05:07:36.047][INFO] 💎 Node 3 Commit block - Height: 38, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 39, tx_ids.len= 0
+[2026-08-07 05:07:36.048][INFO] Node 3 starting view 42
+[2026-08-07 05:07:36.050][INFO] Node 3 starting view 43
+[2026-08-07 05:07:36.052][INFO] 💎 Node 3 Commit block - Height: 39, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 40, tx_ids.len= 0
+[2026-08-07 05:07:36.053][INFO] Node 3 starting view 44
+[2026-08-07 05:07:36.057][INFO] 💎 Node 3 Commit block - Height: 40, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 41, tx_ids.len= 0
+[2026-08-07 05:07:36.059][INFO] Node 3 starting view 45
+[2026-08-07 05:07:36.061][INFO] 💎 Node 3 Commit block - Height: 41, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 42, tx_ids.len= 0
+[2026-08-07 05:07:36.063][INFO] 💎 Node 3 Commit block - Height: 42, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 43, tx_ids.len= 0
+[2026-08-07 05:07:36.069][INFO] Node 3 starting view 46
+[2026-08-07 05:07:36.074][INFO] Node 3 starting view 47
+[2026-08-07 05:07:36.077][INFO] 💎 Node 3 Commit block - Height: 43, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 44, tx_ids.len= 0
+[2026-08-07 05:07:36.079][INFO] Node 3 starting view 48
+[2026-08-07 05:07:36.085][INFO] 💎 Node 3 Commit block - Height: 44, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 45, tx_ids.len= 0
+[2026-08-07 05:07:36.095][INFO] Node 3 starting view 49
+[2026-08-07 05:07:36.097][INFO] 💎 Node 3 Commit block - Height: 45, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 46, tx_ids.len= 0
+[2026-08-07 05:07:36.106][INFO] 💎 Node 3 Commit block - Height: 46, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 47, tx_ids.len= 0
+[2026-08-07 05:07:36.110][INFO] Node 3 starting view 50
+[2026-08-07 05:07:36.173][INFO] Node 3 starting view 51
+[2026-08-07 05:07:36.182][INFO] 💎 Node 3 Commit block - Height: 47, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 48, tx_ids.len= 0
+[2026-08-07 05:07:36.185][INFO] Node 3 starting view 52
+[2026-08-07 05:07:36.194][INFO] 💎 Node 3 Commit block - Height: 48, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 49, tx_ids.len= 0
+[2026-08-07 05:07:36.197][INFO] Node 3 starting view 53
+[2026-08-07 05:07:36.198][INFO] 💎 Node 3 Commit block - Height: 49, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 50, tx_ids.len= 0
+[2026-08-07 05:07:36.225][INFO] 💎 Node 3 Commit block - Height: 50, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 51, tx_ids.len= 0
+[2026-08-07 05:07:36.227][INFO] Node 3 starting view 54
+[2026-08-07 05:07:36.263][INFO] Node 3 starting view 55
+[2026-08-07 05:07:36.268][INFO] 💎 Node 3 Commit block - Height: 51, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 52, tx_ids.len= 0
+[2026-08-07 05:07:36.270][INFO] Node 3 starting view 56
+[2026-08-07 05:07:36.273][INFO] 💎 Node 3 Commit block - Height: 52, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 53, tx_ids.len= 0
+[2026-08-07 05:07:36.274][INFO] Node 3 starting view 57
+[2026-08-07 05:07:36.277][INFO] 💎 Node 3 Commit block - Height: 53, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 54, tx_ids.len= 0
+[2026-08-07 05:07:36.279][INFO] 💎 Node 3 Commit block - Height: 54, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 55, tx_ids.len= 0
+[2026-08-07 05:07:36.280][INFO] Node 3 starting view 58
+[2026-08-07 05:07:36.285][INFO] Node 3 starting view 59
+[2026-08-07 05:07:36.289][INFO] 💎 Node 3 Commit block - Height: 55, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 56, tx_ids.len= 0
+[2026-08-07 05:07:36.293][INFO] Node 3 starting view 60
+[2026-08-07 05:07:36.295][INFO] 💎 Node 3 Commit block - Height: 56, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 57, tx_ids.len= 0
+[2026-08-07 05:07:36.337][INFO] Node 3 starting view 61
+[2026-08-07 05:07:36.355][INFO] 💎 Node 3 Commit block - Height: 57, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 58, tx_ids.len= 0
+[2026-08-07 05:07:36.359][INFO] 💎 Node 3 Commit block - Height: 58, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 59, tx_ids.len= 0
+[2026-08-07 05:07:36.363][INFO] Node 3 starting view 62
+[2026-08-07 05:07:36.398][INFO] Node 3 starting view 63
+[2026-08-07 05:07:36.399][INFO] 💎 Node 3 Commit block - Height: 59, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 60, tx_ids.len= 0
+[2026-08-07 05:07:36.407][INFO] Node 3 starting view 64
+[2026-08-07 05:07:36.427][INFO] 💎 Node 3 Commit block - Height: 60, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 61, tx_ids.len= 0
+[2026-08-07 05:07:36.430][INFO] Node 3 starting view 65
+[2026-08-07 05:07:36.436][INFO] 💎 Node 3 Commit block - Height: 61, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 62, tx_ids.len= 0
+[2026-08-07 05:07:36.440][INFO] 💎 Node 3 Commit block - Height: 62, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 63, tx_ids.len= 0
+[2026-08-07 05:07:36.444][INFO] Node 3 starting view 66
+[2026-08-07 05:07:36.447][INFO] Node 3 starting view 67
+[2026-08-07 05:07:36.452][INFO] 💎 Node 3 Commit block - Height: 63, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 64, tx_ids.len= 0
+[2026-08-07 05:07:36.456][INFO] Node 3 starting view 68
+[2026-08-07 05:07:36.459][INFO] 💎 Node 3 Commit block - Height: 64, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 65, tx_ids.len= 0
+[2026-08-07 05:07:36.464][INFO] Node 3 starting view 69
+[2026-08-07 05:07:36.470][INFO] 💎 Node 3 Commit block - Height: 65, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 66, tx_ids.len= 0
+[2026-08-07 05:07:36.474][INFO] 💎 Node 3 Commit block - Height: 66, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 67, tx_ids.len= 0
+[2026-08-07 05:07:36.476][INFO] Node 3 starting view 70
+[2026-08-07 05:07:36.484][INFO] Node 3 starting view 71
+[2026-08-07 05:07:36.487][INFO] 💎 Node 3 Commit block - Height: 67, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 68, tx_ids.len= 0
+[2026-08-07 05:07:36.491][INFO] Node 3 starting view 72
+[2026-08-07 05:07:36.495][INFO] 💎 Node 3 Commit block - Height: 68, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 69, tx_ids.len= 0
+[2026-08-07 05:07:36.497][INFO] Node 3 starting view 73
+[2026-08-07 05:07:36.501][INFO] 💎 Node 3 Commit block - Height: 69, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 70, tx_ids.len= 0
+[2026-08-07 05:07:36.506][INFO] 💎 Node 3 Commit block - Height: 70, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 71, tx_ids.len= 0
+[2026-08-07 05:07:36.508][INFO] Node 3 starting view 74
+[2026-08-07 05:07:36.511][INFO] Node 3 starting view 75
+[2026-08-07 05:07:36.513][INFO] 💎 Node 3 Commit block - Height: 71, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 72, tx_ids.len= 0
+[2026-08-07 05:07:36.516][INFO] Node 3 starting view 76
+[2026-08-07 05:07:36.520][INFO] 💎 Node 3 Commit block - Height: 72, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 73, tx_ids.len= 0
+[2026-08-07 05:07:36.525][INFO] Node 3 starting view 77
+[2026-08-07 05:07:36.527][INFO] 💎 Node 3 Commit block - Height: 73, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 74, tx_ids.len= 0
+[2026-08-07 05:07:36.533][INFO] 💎 Node 3 Commit block - Height: 74, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 75, tx_ids.len= 0
+[2026-08-07 05:07:36.535][INFO] Node 3 starting view 78
+[2026-08-07 05:07:36.541][INFO] Node 3 starting view 79
+[2026-08-07 05:07:36.544][INFO] 💎 Node 3 Commit block - Height: 75, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 76, tx_ids.len= 0
+[2026-08-07 05:07:36.548][INFO] Node 3 starting view 80
+[2026-08-07 05:07:36.550][INFO] 💎 Node 3 Commit block - Height: 76, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 77, tx_ids.len= 0
+[2026-08-07 05:07:36.553][INFO] Node 3 starting view 81
+[2026-08-07 05:07:36.557][INFO] 💎 Node 3 Commit block - Height: 77, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 78, tx_ids.len= 0
+[2026-08-07 05:07:36.563][INFO] 💎 Node 3 Commit block - Height: 78, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 79, tx_ids.len= 0
+[2026-08-07 05:07:36.569][INFO] Node 3 starting view 82
+[2026-08-07 05:07:36.593][INFO] Node 3 starting view 83
+[2026-08-07 05:07:36.596][INFO] 💎 Node 3 Commit block - Height: 79, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 80, tx_ids.len= 0
+[2026-08-07 05:07:36.599][INFO] Node 3 starting view 84
+[2026-08-07 05:07:36.603][INFO] 💎 Node 3 Commit block - Height: 80, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 81, tx_ids.len= 0
+[2026-08-07 05:07:36.608][INFO] Node 3 starting view 85
+[2026-08-07 05:07:36.611][INFO] 💎 Node 3 Commit block - Height: 81, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 82, tx_ids.len= 0
+[2026-08-07 05:07:36.619][INFO] 💎 Node 3 Commit block - Height: 82, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 83, tx_ids.len= 0
+[2026-08-07 05:07:36.621][INFO] Node 3 starting view 86
+[2026-08-07 05:07:36.626][INFO] Node 3 starting view 87
+[2026-08-07 05:07:36.627][INFO] 💎 Node 3 Commit block - Height: 83, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 84, tx_ids.len= 0
+[2026-08-07 05:07:36.629][INFO] Node 3 starting view 88
+[2026-08-07 05:07:36.631][INFO] 💎 Node 3 Commit block - Height: 84, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 85, tx_ids.len= 0
+[2026-08-07 05:07:36.640][INFO] Node 3 starting view 89
+[2026-08-07 05:07:36.651][INFO] 💎 Node 3 Commit block - Height: 85, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 86, tx_ids.len= 0
+[2026-08-07 05:07:36.655][INFO] 💎 Node 3 Commit block - Height: 86, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 87, tx_ids.len= 0
+[2026-08-07 05:07:36.662][INFO] Node 3 starting view 90
+[2026-08-07 05:07:36.671][INFO] Node 3 starting view 91
+[2026-08-07 05:07:36.735][INFO] 💎 Node 3 Commit block - Height: 87, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 88, tx_ids.len= 0
+[2026-08-07 05:07:36.745][INFO] Node 3 starting view 92
+[2026-08-07 05:07:36.748][INFO] 💎 Node 3 Commit block - Height: 88, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 89, tx_ids.len= 0
+[2026-08-07 05:07:36.763][INFO] Node 3 starting view 93
+[2026-08-07 05:07:36.769][INFO] 💎 Node 3 Commit block - Height: 89, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 90, tx_ids.len= 0
+[2026-08-07 05:07:36.776][INFO] 💎 Node 3 Commit block - Height: 90, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 91, tx_ids.len= 0
+[2026-08-07 05:07:36.778][INFO] Node 3 starting view 94
+[2026-08-07 05:07:36.780][INFO] Node 3 starting view 95
+[2026-08-07 05:07:36.786][INFO] 💎 Node 3 Commit block - Height: 91, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 92, tx_ids.len= 0
+[2026-08-07 05:07:36.788][INFO] Node 3 starting view 96
+[2026-08-07 05:07:36.790][INFO] 💎 Node 3 Commit block - Height: 92, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 93, tx_ids.len= 0
+[2026-08-07 05:07:36.796][INFO] Node 3 starting view 97
+[2026-08-07 05:07:36.800][INFO] 💎 Node 3 Commit block - Height: 93, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 94, tx_ids.len= 0
+[2026-08-07 05:07:36.846][INFO] 💎 Node 3 Commit block - Height: 94, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 95, tx_ids.len= 0
+[2026-08-07 05:07:36.870][INFO] Node 3 starting view 98
+[2026-08-07 05:07:36.889][INFO] Node 3 starting view 99
+[2026-08-07 05:07:36.891][INFO] 💎 Node 3 Commit block - Height: 95, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 96, tx_ids.len= 0
+[2026-08-07 05:07:36.892][INFO] Node 3 starting view 100
+[2026-08-07 05:07:36.895][INFO] 💎 Node 3 Commit block - Height: 96, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 97, tx_ids.len= 0
+[2026-08-07 05:07:36.896][INFO] Node 3 starting view 101
+[2026-08-07 05:07:36.898][INFO] 💎 Node 3 Commit block - Height: 97, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 98, tx_ids.len= 0
+[2026-08-07 05:07:36.900][INFO] 💎 Node 3 Commit block - Height: 98, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 99, tx_ids.len= 0
+[2026-08-07 05:07:36.904][INFO] Node 3 starting view 102
+[2026-08-07 05:07:36.905][INFO] Node 3 starting view 103
+[2026-08-07 05:07:36.908][INFO] 💎 Node 3 Commit block - Height: 99, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 100, tx_ids.len= 0
+[2026-08-07 05:07:36.911][INFO] Node 3 starting view 104
+[2026-08-07 05:07:36.918][INFO] 💎 Node 3 Commit block - Height: 100, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 101, tx_ids.len= 0
+[2026-08-07 05:07:36.924][INFO] Node 3 starting view 105
+[2026-08-07 05:07:36.926][INFO] 💎 Node 3 Commit block - Height: 101, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 102, tx_ids.len= 0
+[2026-08-07 05:07:36.931][INFO] 💎 Node 3 Commit block - Height: 102, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 103, tx_ids.len= 0
+[2026-08-07 05:07:36.937][INFO] Node 3 starting view 106
+[2026-08-07 05:07:36.942][INFO] Node 3 starting view 107
+[2026-08-07 05:07:36.945][INFO] 💎 Node 3 Commit block - Height: 103, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 104, tx_ids.len= 0
+[2026-08-07 05:07:36.949][INFO] Node 3 starting view 108
+[2026-08-07 05:07:36.954][INFO] 💎 Node 3 Commit block - Height: 104, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 105, tx_ids.len= 0
+[2026-08-07 05:07:36.963][INFO] Node 3 starting view 109
+[2026-08-07 05:07:36.967][INFO] 💎 Node 3 Commit block - Height: 105, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 106, tx_ids.len= 0
+[2026-08-07 05:07:36.970][INFO] 💎 Node 3 Commit block - Height: 106, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 107, tx_ids.len= 0
+[2026-08-07 05:07:36.975][INFO] Node 3 starting view 110
+[2026-08-07 05:07:36.980][INFO] Node 3 starting view 111
+[2026-08-07 05:07:36.985][INFO] 💎 Node 3 Commit block - Height: 107, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 108, tx_ids.len= 0
+[2026-08-07 05:07:36.991][INFO] Node 3 starting view 112
+[2026-08-07 05:07:36.995][INFO] 💎 Node 3 Commit block - Height: 108, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 109, tx_ids.len= 0
+[2026-08-07 05:07:36.998][INFO] Node 3 starting view 113
+[2026-08-07 05:07:37.005][INFO] 💎 Node 3 Commit block - Height: 109, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 110, tx_ids.len= 0
+[2026-08-07 05:07:37.008][INFO] 💎 Node 3 Commit block - Height: 110, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 111, tx_ids.len= 0
+[2026-08-07 05:07:37.014][INFO] Node 3 starting view 114
+[2026-08-07 05:07:37.016][INFO] Node 3 starting view 115
+[2026-08-07 05:07:37.020][INFO] 💎 Node 3 Commit block - Height: 111, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 112, tx_ids.len= 0
+[2026-08-07 05:07:37.025][INFO] Node 3 starting view 116
+[2026-08-07 05:07:37.029][INFO] 💎 Node 3 Commit block - Height: 112, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 113, tx_ids.len= 0
+[2026-08-07 05:07:37.034][INFO] Node 3 starting view 117
+[2026-08-07 05:07:37.039][INFO] 💎 Node 3 Commit block - Height: 113, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 114, tx_ids.len= 0
+[2026-08-07 05:07:37.045][INFO] 💎 Node 3 Commit block - Height: 114, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 115, tx_ids.len= 0
+[2026-08-07 05:07:37.050][INFO] Node 3 starting view 118
+[2026-08-07 05:07:37.055][INFO] Node 3 starting view 119
+[2026-08-07 05:07:37.059][INFO] 💎 Node 3 Commit block - Height: 115, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 116, tx_ids.len= 0
+[2026-08-07 05:07:37.074][INFO] Node 3 starting view 120
+[2026-08-07 05:07:37.078][INFO] 💎 Node 3 Commit block - Height: 116, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 117, tx_ids.len= 0
+[2026-08-07 05:07:37.091][INFO] Node 3 starting view 121
+[2026-08-07 05:07:37.100][INFO] 💎 Node 3 Commit block - Height: 117, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 118, tx_ids.len= 0
+[2026-08-07 05:07:37.103][INFO] 💎 Node 3 Commit block - Height: 118, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 119, tx_ids.len= 0
+[2026-08-07 05:07:37.107][INFO] Node 3 starting view 122
+[2026-08-07 05:07:37.114][INFO] Node 3 starting view 123
+[2026-08-07 05:07:37.120][INFO] 💎 Node 3 Commit block - Height: 119, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 120, tx_ids.len= 0
+[2026-08-07 05:07:37.125][INFO] Node 3 starting view 124
+[2026-08-07 05:07:37.129][INFO] 💎 Node 3 Commit block - Height: 120, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 121, tx_ids.len= 0
+[2026-08-07 05:07:37.133][INFO] Node 3 starting view 125
+[2026-08-07 05:07:37.137][INFO] 💎 Node 3 Commit block - Height: 121, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 122, tx_ids.len= 0
+[2026-08-07 05:07:37.144][INFO] 💎 Node 3 Commit block - Height: 122, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 123, tx_ids.len= 0
+[2026-08-07 05:07:37.148][INFO] Node 3 starting view 126
+[2026-08-07 05:07:37.151][INFO] Node 3 starting view 127
+[2026-08-07 05:07:37.159][INFO] 💎 Node 3 Commit block - Height: 123, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 124, tx_ids.len= 0
+[2026-08-07 05:07:37.162][INFO] Node 3 starting view 128
+[2026-08-07 05:07:37.174][INFO] 💎 Node 3 Commit block - Height: 124, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 125, tx_ids.len= 0
+[2026-08-07 05:07:37.182][INFO] Node 3 starting view 129
+[2026-08-07 05:07:37.189][INFO] 💎 Node 3 Commit block - Height: 125, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 126, tx_ids.len= 0
+[2026-08-07 05:07:37.192][INFO] 💎 Node 3 Commit block - Height: 126, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 127, tx_ids.len= 0
+[2026-08-07 05:07:37.199][INFO] Node 3 starting view 130
+[2026-08-07 05:07:37.205][INFO] Node 3 starting view 131
+[2026-08-07 05:07:37.212][INFO] 💎 Node 3 Commit block - Height: 127, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 128, tx_ids.len= 0
+[2026-08-07 05:07:37.216][INFO] Node 3 starting view 132
+[2026-08-07 05:07:37.220][INFO] 💎 Node 3 Commit block - Height: 128, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 129, tx_ids.len= 0
+[2026-08-07 05:07:37.224][INFO] Node 3 starting view 133
+[2026-08-07 05:07:37.229][INFO] 💎 Node 3 Commit block - Height: 129, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 130, tx_ids.len= 0
+[2026-08-07 05:07:37.237][INFO] 💎 Node 3 Commit block - Height: 130, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 131, tx_ids.len= 0
+[2026-08-07 05:07:37.240][INFO] Node 3 starting view 134
+[2026-08-07 05:07:37.247][INFO] Node 3 starting view 135
+[2026-08-07 05:07:37.251][INFO] 💎 Node 3 Commit block - Height: 131, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 132, tx_ids.len= 0
+[2026-08-07 05:07:37.259][INFO] Node 3 starting view 136
+[2026-08-07 05:07:37.270][INFO] 💎 Node 3 Commit block - Height: 132, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 133, tx_ids.len= 0
+[2026-08-07 05:07:37.275][INFO] Node 3 starting view 137
+[2026-08-07 05:07:37.279][INFO] 💎 Node 3 Commit block - Height: 133, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 134, tx_ids.len= 0
+[2026-08-07 05:07:37.282][INFO] 💎 Node 3 Commit block - Height: 134, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 135, tx_ids.len= 0
+[2026-08-07 05:07:37.289][INFO] Node 3 starting view 138
+[2026-08-07 05:07:37.297][INFO] Node 3 starting view 139
+[2026-08-07 05:07:37.301][INFO] 💎 Node 3 Commit block - Height: 135, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 136, tx_ids.len= 0
+[2026-08-07 05:07:37.305][INFO] Node 3 starting view 140
+[2026-08-07 05:07:37.313][INFO] 💎 Node 3 Commit block - Height: 136, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 137, tx_ids.len= 0
+[2026-08-07 05:07:37.326][INFO] Node 3 starting view 141
+[2026-08-07 05:07:37.327][INFO] 💎 Node 3 Commit block - Height: 137, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 138, tx_ids.len= 0
+[2026-08-07 05:07:37.330][INFO] 💎 Node 3 Commit block - Height: 138, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 139, tx_ids.len= 0
+[2026-08-07 05:07:37.333][INFO] Node 3 starting view 142
+[2026-08-07 05:07:37.337][INFO] Node 3 starting view 143
+[2026-08-07 05:07:37.344][INFO] 💎 Node 3 Commit block - Height: 139, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 140, tx_ids.len= 0
+[2026-08-07 05:07:37.350][INFO] Node 3 starting view 144
+[2026-08-07 05:07:37.354][INFO] 💎 Node 3 Commit block - Height: 140, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 141, tx_ids.len= 0
+[2026-08-07 05:07:37.372][INFO] Node 3 starting view 145
+[2026-08-07 05:07:37.376][INFO] 💎 Node 3 Commit block - Height: 141, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 142, tx_ids.len= 0
+[2026-08-07 05:07:37.394][INFO] 💎 Node 3 Commit block - Height: 142, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 143, tx_ids.len= 0
+[2026-08-07 05:07:37.411][INFO] Node 3 starting view 146
+[2026-08-07 05:07:37.414][INFO] Node 3 starting view 147
+[2026-08-07 05:07:37.420][INFO] 💎 Node 3 Commit block - Height: 143, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 144, tx_ids.len= 0
+[2026-08-07 05:07:37.426][INFO] Node 3 starting view 148
+[2026-08-07 05:07:37.432][INFO] 💎 Node 3 Commit block - Height: 144, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 145, tx_ids.len= 0
+[2026-08-07 05:07:37.435][INFO] Node 3 starting view 149
+[2026-08-07 05:07:37.442][INFO] 💎 Node 3 Commit block - Height: 145, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 146, tx_ids.len= 0
+[2026-08-07 05:07:37.455][INFO] 💎 Node 3 Commit block - Height: 146, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 147, tx_ids.len= 0
+[2026-08-07 05:07:37.465][INFO] Node 3 starting view 150
+[2026-08-07 05:07:37.479][INFO] Node 3 starting view 151
+[2026-08-07 05:07:37.482][INFO] 💎 Node 3 Commit block - Height: 147, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 148, tx_ids.len= 0
+[2026-08-07 05:07:37.486][INFO] Node 3 starting view 152
+[2026-08-07 05:07:37.487][INFO] 💎 Node 3 Commit block - Height: 148, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 149, tx_ids.len= 0
+[2026-08-07 05:07:37.489][INFO] Node 3 starting view 153
+[2026-08-07 05:07:37.499][INFO] 💎 Node 3 Commit block - Height: 149, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 150, tx_ids.len= 0
+[2026-08-07 05:07:37.506][INFO] 💎 Node 3 Commit block - Height: 150, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 151, tx_ids.len= 0
+[2026-08-07 05:07:37.510][INFO] Node 3 starting view 154
+[2026-08-07 05:07:37.513][INFO] Node 3 starting view 155
+[2026-08-07 05:07:37.516][INFO] 💎 Node 3 Commit block - Height: 151, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 152, tx_ids.len= 0
+[2026-08-07 05:07:37.519][INFO] Node 3 starting view 156
+[2026-08-07 05:07:37.524][INFO] 💎 Node 3 Commit block - Height: 152, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 153, tx_ids.len= 0
+[2026-08-07 05:07:37.529][INFO] Node 3 starting view 157
+[2026-08-07 05:07:37.535][INFO] 💎 Node 3 Commit block - Height: 153, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 154, tx_ids.len= 0
+[2026-08-07 05:07:37.538][INFO] 💎 Node 3 Commit block - Height: 154, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 155, tx_ids.len= 0
+[2026-08-07 05:07:37.540][INFO] Node 3 starting view 158
+[2026-08-07 05:07:37.543][INFO] Node 3 starting view 159
+[2026-08-07 05:07:37.547][INFO] 💎 Node 3 Commit block - Height: 155, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 156, tx_ids.len= 0
+[2026-08-07 05:07:37.551][INFO] Node 3 starting view 160
+[2026-08-07 05:07:37.553][INFO] 💎 Node 3 Commit block - Height: 156, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 157, tx_ids.len= 0
+[2026-08-07 05:07:37.557][INFO] Node 3 starting view 161
+[2026-08-07 05:07:37.561][INFO] 💎 Node 3 Commit block - Height: 157, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 158, tx_ids.len= 0
+[2026-08-07 05:07:37.565][INFO] 💎 Node 3 Commit block - Height: 158, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 159, tx_ids.len= 0
+[2026-08-07 05:07:37.568][INFO] Node 3 starting view 162
+[2026-08-07 05:07:37.574][INFO] Node 3 starting view 163
+[2026-08-07 05:07:37.578][INFO] 💎 Node 3 Commit block - Height: 159, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 160, tx_ids.len= 0
+[2026-08-07 05:07:37.582][INFO] Node 3 starting view 164
+[2026-08-07 05:07:37.585][INFO] 💎 Node 3 Commit block - Height: 160, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 161, tx_ids.len= 0
+[2026-08-07 05:07:37.594][INFO] Node 3 starting view 165
+[2026-08-07 05:07:37.605][INFO] 💎 Node 3 Commit block - Height: 161, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 162, tx_ids.len= 0
+[2026-08-07 05:07:37.610][INFO] 💎 Node 3 Commit block - Height: 162, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 163, tx_ids.len= 0
+[2026-08-07 05:07:37.614][INFO] Node 3 starting view 166
+[2026-08-07 05:07:37.620][INFO] Node 3 starting view 167
+[2026-08-07 05:07:37.622][INFO] 💎 Node 3 Commit block - Height: 163, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 164, tx_ids.len= 0
+[2026-08-07 05:07:37.626][INFO] Node 3 starting view 168
+[2026-08-07 05:07:37.633][INFO] 💎 Node 3 Commit block - Height: 164, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 165, tx_ids.len= 0
+[2026-08-07 05:07:37.637][INFO] Node 3 starting view 169
+[2026-08-07 05:07:37.645][INFO] 💎 Node 3 Commit block - Height: 165, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 166, tx_ids.len= 0
+[2026-08-07 05:07:37.647][INFO] 💎 Node 3 Commit block - Height: 166, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 167, tx_ids.len= 0
+[2026-08-07 05:07:37.649][INFO] Node 3 starting view 170
+[2026-08-07 05:07:37.652][INFO] Node 3 starting view 171
+[2026-08-07 05:07:37.658][INFO] 💎 Node 3 Commit block - Height: 167, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 168, tx_ids.len= 0
+[2026-08-07 05:07:37.661][INFO] Node 3 starting view 172
+[2026-08-07 05:07:37.667][INFO] 💎 Node 3 Commit block - Height: 168, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 169, tx_ids.len= 0
+[2026-08-07 05:07:37.672][INFO] Node 3 starting view 173
+[2026-08-07 05:07:37.678][INFO] 💎 Node 3 Commit block - Height: 169, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 170, tx_ids.len= 0
+[2026-08-07 05:07:37.683][INFO] 💎 Node 3 Commit block - Height: 170, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 171, tx_ids.len= 0
+[2026-08-07 05:07:37.693][INFO] Node 3 starting view 174
+[2026-08-07 05:07:37.709][INFO] Node 3 starting view 175
+[2026-08-07 05:07:37.714][INFO] 💎 Node 3 Commit block - Height: 171, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 172, tx_ids.len= 0
+[2026-08-07 05:07:37.720][INFO] Node 3 starting view 176
+[2026-08-07 05:07:37.725][INFO] 💎 Node 3 Commit block - Height: 172, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 173, tx_ids.len= 0
+[2026-08-07 05:07:37.727][INFO] Node 3 starting view 177
+[2026-08-07 05:07:37.730][INFO] 💎 Node 3 Commit block - Height: 173, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 174, tx_ids.len= 0
+[2026-08-07 05:07:37.732][INFO] 💎 Node 3 Commit block - Height: 174, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 175, tx_ids.len= 0
+[2026-08-07 05:07:37.736][INFO] Node 3 starting view 178
+[2026-08-07 05:07:37.739][INFO] Node 3 starting view 179
+[2026-08-07 05:07:37.742][INFO] 💎 Node 3 Commit block - Height: 175, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 176, tx_ids.len= 0
+[2026-08-07 05:07:37.748][INFO] Node 3 starting view 180
+[2026-08-07 05:07:37.753][INFO] 💎 Node 3 Commit block - Height: 176, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 177, tx_ids.len= 0
+[2026-08-07 05:07:37.756][INFO] Node 3 starting view 181
+[2026-08-07 05:07:37.759][INFO] 💎 Node 3 Commit block - Height: 177, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 178, tx_ids.len= 0
+[2026-08-07 05:07:37.764][INFO] 💎 Node 3 Commit block - Height: 178, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 179, tx_ids.len= 0
+[2026-08-07 05:07:37.766][INFO] Node 3 starting view 182
+[2026-08-07 05:07:37.771][INFO] Node 3 starting view 183
+[2026-08-07 05:07:37.778][INFO] 💎 Node 3 Commit block - Height: 179, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 180, tx_ids.len= 0
+[2026-08-07 05:07:37.780][INFO] Node 3 starting view 184
+[2026-08-07 05:07:37.786][INFO] 💎 Node 3 Commit block - Height: 180, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 181, tx_ids.len= 0
+[2026-08-07 05:07:37.792][INFO] Node 3 starting view 185
+[2026-08-07 05:07:37.800][INFO] 💎 Node 3 Commit block - Height: 181, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 182, tx_ids.len= 0
+[2026-08-07 05:07:37.806][INFO] 💎 Node 3 Commit block - Height: 182, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 183, tx_ids.len= 0
+[2026-08-07 05:07:37.809][INFO] Node 3 starting view 186
+[2026-08-07 05:07:37.813][INFO] Node 3 starting view 187
+[2026-08-07 05:07:37.819][INFO] 💎 Node 3 Commit block - Height: 183, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 184, tx_ids.len= 0
+[2026-08-07 05:07:37.829][INFO] Node 3 starting view 188
+[2026-08-07 05:07:37.837][INFO] 💎 Node 3 Commit block - Height: 184, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 185, tx_ids.len= 0
+[2026-08-07 05:07:37.841][INFO] Node 3 starting view 189
+[2026-08-07 05:07:37.847][INFO] 💎 Node 3 Commit block - Height: 185, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 186, tx_ids.len= 0
+[2026-08-07 05:07:37.852][INFO] 💎 Node 3 Commit block - Height: 186, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 187, tx_ids.len= 0
+[2026-08-07 05:07:37.857][INFO] Node 3 starting view 190
+[2026-08-07 05:07:37.863][INFO] Node 3 starting view 191
+[2026-08-07 05:07:37.868][INFO] 💎 Node 3 Commit block - Height: 187, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 188, tx_ids.len= 0
+[2026-08-07 05:07:37.872][INFO] Node 3 starting view 192
+[2026-08-07 05:07:37.882][INFO] 💎 Node 3 Commit block - Height: 188, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 189, tx_ids.len= 0
+[2026-08-07 05:07:37.886][INFO] Node 3 starting view 193
+[2026-08-07 05:07:37.893][INFO] 💎 Node 3 Commit block - Height: 189, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 190, tx_ids.len= 0
+[2026-08-07 05:07:37.899][INFO] 💎 Node 3 Commit block - Height: 190, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 191, tx_ids.len= 0
+[2026-08-07 05:07:37.905][INFO] Node 3 starting view 194
+[2026-08-07 05:07:37.912][INFO] Node 3 starting view 195
+[2026-08-07 05:07:37.921][INFO] 💎 Node 3 Commit block - Height: 191, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 192, tx_ids.len= 0
+[2026-08-07 05:07:37.929][INFO] Node 3 starting view 196
+[2026-08-07 05:07:37.936][INFO] 💎 Node 3 Commit block - Height: 192, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 193, tx_ids.len= 0
+[2026-08-07 05:07:37.938][INFO] Node 3 starting view 197
+[2026-08-07 05:07:37.942][INFO] 💎 Node 3 Commit block - Height: 193, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 194, tx_ids.len= 0
+[2026-08-07 05:07:37.948][INFO] 💎 Node 3 Commit block - Height: 194, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 195, tx_ids.len= 0
+[2026-08-07 05:07:37.949][INFO] Node 3 starting view 198
+[2026-08-07 05:07:37.956][INFO] Node 3 starting view 199
+[2026-08-07 05:07:37.958][INFO] 💎 Node 3 Commit block - Height: 195, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 196, tx_ids.len= 0
+[2026-08-07 05:07:37.960][INFO] Node 3 starting view 200
+[2026-08-07 05:07:37.963][INFO] 💎 Node 3 Commit block - Height: 196, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 197, tx_ids.len= 0
+[2026-08-07 05:07:37.964][INFO] Node 3 starting view 201
+[2026-08-07 05:07:37.970][INFO] 💎 Node 3 Commit block - Height: 197, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 198, tx_ids.len= 0
+[2026-08-07 05:07:37.973][INFO] 💎 Node 3 Commit block - Height: 198, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 199, tx_ids.len= 0
+[2026-08-07 05:07:37.975][INFO] Node 3 starting view 202
+[2026-08-07 05:07:37.977][INFO] Node 3 starting view 203
+[2026-08-07 05:07:37.979][INFO] 💎 Node 3 Commit block - Height: 199, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 200, tx_ids.len= 0
+[2026-08-07 05:07:37.981][INFO] Node 3 starting view 204
+[2026-08-07 05:07:37.983][INFO] 💎 Node 3 Commit block - Height: 200, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 201, tx_ids.len= 0
+[2026-08-07 05:07:37.985][INFO] Node 3 starting view 205
+[2026-08-07 05:07:37.991][INFO] 💎 Node 3 Commit block - Height: 201, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 202, tx_ids.len= 0
+[2026-08-07 05:07:37.993][INFO] 💎 Node 3 Commit block - Height: 202, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 203, tx_ids.len= 0
+[2026-08-07 05:07:37.995][INFO] Node 3 starting view 206
+[2026-08-07 05:07:37.997][INFO] Node 3 starting view 207
+[2026-08-07 05:07:37.999][INFO] 💎 Node 3 Commit block - Height: 203, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 204, tx_ids.len= 0
+[2026-08-07 05:07:38.006][INFO] Node 3 starting view 208
+[2026-08-07 05:07:38.009][INFO] 💎 Node 3 Commit block - Height: 204, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 205, tx_ids.len= 0
+[2026-08-07 05:07:38.015][INFO] Node 3 starting view 209
+[2026-08-07 05:07:38.023][INFO] 💎 Node 3 Commit block - Height: 205, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 206, tx_ids.len= 0
+[2026-08-07 05:07:38.035][INFO] 💎 Node 3 Commit block - Height: 206, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 207, tx_ids.len= 0
+[2026-08-07 05:07:38.049][INFO] Node 3 starting view 210
+[2026-08-07 05:07:38.060][INFO] Node 3 starting view 211
+[2026-08-07 05:07:38.066][INFO] 💎 Node 3 Commit block - Height: 207, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 208, tx_ids.len= 0
+[2026-08-07 05:07:38.070][INFO] Node 3 starting view 212
+[2026-08-07 05:07:38.075][INFO] 💎 Node 3 Commit block - Height: 208, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 209, tx_ids.len= 0
+[2026-08-07 05:07:38.082][INFO] Node 3 starting view 213
+[2026-08-07 05:07:38.086][INFO] 💎 Node 3 Commit block - Height: 209, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 210, tx_ids.len= 0
+[2026-08-07 05:07:38.089][INFO] 💎 Node 3 Commit block - Height: 210, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 211, tx_ids.len= 0
+[2026-08-07 05:07:38.093][INFO] Node 3 starting view 214
+[2026-08-07 05:07:38.096][INFO] Node 3 starting view 215
+[2026-08-07 05:07:38.099][INFO] 💎 Node 3 Commit block - Height: 211, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 212, tx_ids.len= 0
+[2026-08-07 05:07:38.103][INFO] Node 3 starting view 216
+[2026-08-07 05:07:38.111][INFO] 💎 Node 3 Commit block - Height: 212, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 213, tx_ids.len= 0
+[2026-08-07 05:07:38.114][INFO] Node 3 starting view 217
+[2026-08-07 05:07:38.118][INFO] 💎 Node 3 Commit block - Height: 213, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 214, tx_ids.len= 0
+[2026-08-07 05:07:38.121][INFO] 💎 Node 3 Commit block - Height: 214, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 215, tx_ids.len= 0
+[2026-08-07 05:07:38.131][INFO] Node 3 starting view 218
+[2026-08-07 05:07:38.137][INFO] Node 3 starting view 219
+[2026-08-07 05:07:38.141][INFO] 💎 Node 3 Commit block - Height: 215, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 216, tx_ids.len= 0
+[2026-08-07 05:07:38.145][INFO] Node 3 starting view 220
+[2026-08-07 05:07:38.150][INFO] 💎 Node 3 Commit block - Height: 216, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 217, tx_ids.len= 0
+[2026-08-07 05:07:38.159][INFO] Node 3 starting view 221
+[2026-08-07 05:07:38.163][INFO] 💎 Node 3 Commit block - Height: 217, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 218, tx_ids.len= 0
+[2026-08-07 05:07:38.167][INFO] 💎 Node 3 Commit block - Height: 218, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 219, tx_ids.len= 0
+[2026-08-07 05:07:38.173][INFO] Node 3 starting view 222
+[2026-08-07 05:07:38.178][INFO] Node 3 starting view 223
+[2026-08-07 05:07:38.185][INFO] 💎 Node 3 Commit block - Height: 219, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 220, tx_ids.len= 0
+[2026-08-07 05:07:38.192][INFO] Node 3 starting view 224
+[2026-08-07 05:07:38.197][INFO] 💎 Node 3 Commit block - Height: 220, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 221, tx_ids.len= 0
+[2026-08-07 05:07:38.207][INFO] Node 3 starting view 225
+[2026-08-07 05:07:38.211][INFO] 💎 Node 3 Commit block - Height: 221, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 222, tx_ids.len= 0
+[2026-08-07 05:07:38.217][INFO] 💎 Node 3 Commit block - Height: 222, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 223, tx_ids.len= 0
+[2026-08-07 05:07:38.221][INFO] Node 3 starting view 226
+[2026-08-07 05:07:38.230][INFO] Node 3 starting view 227
+[2026-08-07 05:07:38.236][INFO] 💎 Node 3 Commit block - Height: 223, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 224, tx_ids.len= 0
+[2026-08-07 05:07:38.242][INFO] Node 3 starting view 228
+[2026-08-07 05:07:38.251][INFO] 💎 Node 3 Commit block - Height: 224, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 225, tx_ids.len= 0
+[2026-08-07 05:07:38.253][INFO] Node 3 starting view 229
+[2026-08-07 05:07:38.257][INFO] 💎 Node 3 Commit block - Height: 225, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 226, tx_ids.len= 0
+[2026-08-07 05:07:38.263][INFO] 💎 Node 3 Commit block - Height: 226, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 227, tx_ids.len= 0
+[2026-08-07 05:07:38.267][INFO] Node 3 starting view 230
+[2026-08-07 05:07:38.274][INFO] Node 3 starting view 231
+[2026-08-07 05:07:38.279][INFO] 💎 Node 3 Commit block - Height: 227, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 228, tx_ids.len= 0
+[2026-08-07 05:07:38.284][INFO] Node 3 starting view 232
+[2026-08-07 05:07:38.287][INFO] 💎 Node 3 Commit block - Height: 228, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 229, tx_ids.len= 0
+[2026-08-07 05:07:38.294][INFO] Node 3 starting view 233
+[2026-08-07 05:07:38.297][INFO] 💎 Node 3 Commit block - Height: 229, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 230, tx_ids.len= 0
+[2026-08-07 05:07:38.304][INFO] 💎 Node 3 Commit block - Height: 230, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 231, tx_ids.len= 0
+[2026-08-07 05:07:38.309][INFO] Node 3 starting view 234
+[2026-08-07 05:07:38.317][INFO] Node 3 starting view 235
+[2026-08-07 05:07:38.321][INFO] 💎 Node 3 Commit block - Height: 231, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 232, tx_ids.len= 0
+[2026-08-07 05:07:38.326][INFO] Node 3 starting view 236
+[2026-08-07 05:07:38.331][INFO] 💎 Node 3 Commit block - Height: 232, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 233, tx_ids.len= 0
+[2026-08-07 05:07:38.338][INFO] Node 3 starting view 237
+[2026-08-07 05:07:38.344][INFO] 💎 Node 3 Commit block - Height: 233, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 234, tx_ids.len= 0
+[2026-08-07 05:07:38.351][INFO] 💎 Node 3 Commit block - Height: 234, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 235, tx_ids.len= 0
+[2026-08-07 05:07:38.355][INFO] Node 3 starting view 238
+[2026-08-07 05:07:38.364][INFO] Node 3 starting view 239
+[2026-08-07 05:07:38.367][INFO] 💎 Node 3 Commit block - Height: 235, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 236, tx_ids.len= 0
+[2026-08-07 05:07:38.372][INFO] Node 3 starting view 240
+[2026-08-07 05:07:38.378][INFO] 💎 Node 3 Commit block - Height: 236, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 237, tx_ids.len= 0
+[2026-08-07 05:07:38.385][INFO] Node 3 starting view 241
+[2026-08-07 05:07:38.392][INFO] 💎 Node 3 Commit block - Height: 237, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 238, tx_ids.len= 0
+[2026-08-07 05:07:38.399][INFO] 💎 Node 3 Commit block - Height: 238, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 239, tx_ids.len= 0
+[2026-08-07 05:07:38.405][INFO] Node 3 starting view 242
+[2026-08-07 05:07:38.411][INFO] Node 3 starting view 243
+[2026-08-07 05:07:38.413][INFO] 💎 Node 3 Commit block - Height: 239, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 240, tx_ids.len= 0
+[2026-08-07 05:07:38.418][INFO] Node 3 starting view 244
+[2026-08-07 05:07:38.426][INFO] 💎 Node 3 Commit block - Height: 240, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 241, tx_ids.len= 0
+[2026-08-07 05:07:38.431][INFO] Node 3 starting view 245
+[2026-08-07 05:07:38.436][INFO] 💎 Node 3 Commit block - Height: 241, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 242, tx_ids.len= 0
+[2026-08-07 05:07:38.441][INFO] 💎 Node 3 Commit block - Height: 242, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 243, tx_ids.len= 0
+[2026-08-07 05:07:38.452][INFO] Node 3 starting view 246
+[2026-08-07 05:07:38.464][INFO] Node 3 starting view 247
+[2026-08-07 05:07:38.475][INFO] 💎 Node 3 Commit block - Height: 243, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 244, tx_ids.len= 0
+[2026-08-07 05:07:38.481][INFO] Node 3 starting view 248
+[2026-08-07 05:07:38.482][INFO] 💎 Node 3 Commit block - Height: 244, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 245, tx_ids.len= 0
+[2026-08-07 05:07:38.490][INFO] Node 3 starting view 249
+[2026-08-07 05:07:38.495][INFO] 💎 Node 3 Commit block - Height: 245, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 246, tx_ids.len= 0
+[2026-08-07 05:07:38.499][INFO] 💎 Node 3 Commit block - Height: 246, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 247, tx_ids.len= 0
+[2026-08-07 05:07:38.503][INFO] Node 3 starting view 250
+[2026-08-07 05:07:38.508][INFO] Node 3 starting view 251
+[2026-08-07 05:07:38.525][INFO] 💎 Node 3 Commit block - Height: 247, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 248, tx_ids.len= 0
+[2026-08-07 05:07:38.534][INFO] Node 3 starting view 252
+[2026-08-07 05:07:38.544][INFO] 💎 Node 3 Commit block - Height: 248, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 249, tx_ids.len= 0
+[2026-08-07 05:07:38.548][INFO] Node 3 starting view 253
+[2026-08-07 05:07:38.554][INFO] 💎 Node 3 Commit block - Height: 249, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 250, tx_ids.len= 0
+[2026-08-07 05:07:38.560][INFO] 💎 Node 3 Commit block - Height: 250, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 251, tx_ids.len= 0
+[2026-08-07 05:07:38.565][INFO] Node 3 starting view 254
+[2026-08-07 05:07:38.569][INFO] Node 3 starting view 255
+[2026-08-07 05:07:38.572][INFO] 💎 Node 3 Commit block - Height: 251, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 252, tx_ids.len= 0
+[2026-08-07 05:07:38.577][INFO] Node 3 starting view 256
+[2026-08-07 05:07:38.580][INFO] 💎 Node 3 Commit block - Height: 252, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 253, tx_ids.len= 0
+[2026-08-07 05:07:38.585][INFO] Node 3 starting view 257
+[2026-08-07 05:07:38.594][INFO] 💎 Node 3 Commit block - Height: 253, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 254, tx_ids.len= 0
+[2026-08-07 05:07:38.598][INFO] 💎 Node 3 Commit block - Height: 254, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 255, tx_ids.len= 0
+[2026-08-07 05:07:38.602][INFO] Node 3 starting view 258
+[2026-08-07 05:07:38.605][INFO] Node 3 starting view 259
+[2026-08-07 05:07:38.607][INFO] 💎 Node 3 Commit block - Height: 255, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 256, tx_ids.len= 0
+[2026-08-07 05:07:38.612][INFO] Node 3 starting view 260
+[2026-08-07 05:07:38.617][INFO] 💎 Node 3 Commit block - Height: 256, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 257, tx_ids.len= 0
+[2026-08-07 05:07:38.621][INFO] Node 3 starting view 261
+[2026-08-07 05:07:38.624][INFO] 💎 Node 3 Commit block - Height: 257, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 258, tx_ids.len= 0
+[2026-08-07 05:07:38.629][INFO] 💎 Node 3 Commit block - Height: 258, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 259, tx_ids.len= 0
+[2026-08-07 05:07:38.631][INFO] Node 3 starting view 262
+[2026-08-07 05:07:38.638][INFO] Node 3 starting view 263
+[2026-08-07 05:07:38.643][INFO] 💎 Node 3 Commit block - Height: 259, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 260, tx_ids.len= 0
+[2026-08-07 05:07:38.645][INFO] Node 3 starting view 264
+[2026-08-07 05:07:38.650][INFO] 💎 Node 3 Commit block - Height: 260, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 261, tx_ids.len= 0
+[2026-08-07 05:07:38.652][INFO] Node 3 starting view 265
+[2026-08-07 05:07:38.655][INFO] 💎 Node 3 Commit block - Height: 261, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 262, tx_ids.len= 0
+[2026-08-07 05:07:38.660][INFO] 💎 Node 3 Commit block - Height: 262, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 263, tx_ids.len= 0
+[2026-08-07 05:07:38.664][INFO] Node 3 starting view 266
+[2026-08-07 05:07:38.672][INFO] Node 3 starting view 267
+[2026-08-07 05:07:38.684][INFO] 💎 Node 3 Commit block - Height: 263, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 264, tx_ids.len= 0
+[2026-08-07 05:07:38.689][INFO] Node 3 starting view 268
+[2026-08-07 05:07:38.696][INFO] 💎 Node 3 Commit block - Height: 264, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 265, tx_ids.len= 0
+[2026-08-07 05:07:38.699][INFO] Node 3 starting view 269
+[2026-08-07 05:07:38.703][INFO] 💎 Node 3 Commit block - Height: 265, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 266, tx_ids.len= 0
+[2026-08-07 05:07:38.710][INFO] 💎 Node 3 Commit block - Height: 266, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 267, tx_ids.len= 0
+[2026-08-07 05:07:38.714][INFO] Node 3 starting view 270
+[2026-08-07 05:07:38.719][INFO] Node 3 starting view 271
+[2026-08-07 05:07:38.722][INFO] 💎 Node 3 Commit block - Height: 267, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 268, tx_ids.len= 0
+[2026-08-07 05:07:38.725][INFO] Node 3 starting view 272
+[2026-08-07 05:07:38.734][INFO] 💎 Node 3 Commit block - Height: 268, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 269, tx_ids.len= 0
+[2026-08-07 05:07:38.743][INFO] Node 3 starting view 273
+[2026-08-07 05:07:38.754][INFO] 💎 Node 3 Commit block - Height: 269, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 270, tx_ids.len= 0
+[2026-08-07 05:07:38.756][INFO] 💎 Node 3 Commit block - Height: 270, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 271, tx_ids.len= 0
+[2026-08-07 05:07:38.762][INFO] Node 3 starting view 274
+[2026-08-07 05:07:38.767][INFO] Node 3 starting view 275
+[2026-08-07 05:07:38.785][INFO] 💎 Node 3 Commit block - Height: 271, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 272, tx_ids.len= 0
+[2026-08-07 05:07:38.801][INFO] Node 3 starting view 276
+[2026-08-07 05:07:38.816][INFO] 💎 Node 3 Commit block - Height: 272, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 273, tx_ids.len= 0
+[2026-08-07 05:07:38.829][INFO] Node 3 starting view 277
+[2026-08-07 05:07:38.858][INFO] 💎 Node 3 Commit block - Height: 273, TxCount: 0, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 0, TotalBlocks: 274, tx_ids.len= 0
+[2026-08-07 05:07:38.888][INFO] 💎 Node 3 Commit block - Height: 274, TxCount: 10528, E2E_TPS: 0.00, Pure_TPS: 0.00, Submit_TPS: 0.00, TotalTxs: 10528, TotalBlocks: 275, tx_ids.len= 10528
+[2026-08-07 05:07:38.902][INFO] Node 3 starting view 278
+[2026-08-07 05:07:38.941][INFO] Node 3 starting view 279
+[2026-08-07 05:07:39.021][INFO] 💎 Node 3 Commit block - Height: 275, TxCount: 10528, E2E_TPS: 0.00, Pure_TPS: 139437.09, Submit_TPS: 0.00, TotalTxs: 21056, TotalBlocks: 276, tx_ids.len= 10528
+[2026-08-07 05:07:39.042][INFO] Node 3 starting view 280
+[2026-08-07 05:07:39.110][INFO] 💎 Node 3 Commit block - Height: 276, TxCount: 17547, E2E_TPS: 1206343.75, Pure_TPS: 162193.28, Submit_TPS: 31.25, TotalTxs: 38603, TotalBlocks: 277, tx_ids.len= 17547
+[2026-08-07 05:07:39.114][INFO] Node 3 starting view 281
+[2026-08-07 05:07:39.147][INFO] 💎 Node 3 Commit block - Height: 277, TxCount: 7019, E2E_TPS: 773254.24, Pure_TPS: 172154.72, Submit_TPS: 16.95, TotalTxs: 45622, TotalBlocks: 278, tx_ids.len= 7019
+[2026-08-07 05:07:39.196][INFO] 💎 Node 3 Commit block - Height: 278, TxCount: 8774, E2E_TPS: 438677.42, Pure_TPS: 164833.33, Submit_TPS: 8.06, TotalTxs: 54396, TotalBlocks: 279, tx_ids.len= 8774
+[2026-08-07 05:07:39.201][INFO] Node 3 starting view 282
+[2026-08-07 05:07:39.230][INFO] Node 3 starting view 283
+[2026-08-07 05:07:39.251][INFO] 💎 Node 3 Commit block - Height: 279, TxCount: 0, E2E_TPS: 303888.27, Pure_TPS: 164833.33, Submit_TPS: 5.59, TotalTxs: 54396, TotalBlocks: 280, tx_ids.len= 0
+[2026-08-07 05:07:39.296][INFO] Node 3 starting view 284
+[2026-08-07 05:07:39.302][INFO] 💎 Node 3 Commit block - Height: 280, TxCount: 0, E2E_TPS: 235480.52, Pure_TPS: 164833.33, Submit_TPS: 4.33, TotalTxs: 54396, TotalBlocks: 281, tx_ids.len= 0
+[2026-08-07 05:07:39.345][INFO] Node 3 starting view 285
+[2026-08-07 05:07:39.445][INFO] 💎 Node 3 Commit block - Height: 281, TxCount: 7019, E2E_TPS: 178014.49, Pure_TPS: 111459.17, Submit_TPS: 2.90, TotalTxs: 61415, TotalBlocks: 282, tx_ids.len= 7019
+[2026-08-07 05:07:39.462][INFO] 💎 Node 3 Commit block - Height: 282, TxCount: 0, E2E_TPS: 157071.61, Pure_TPS: 111459.17, Submit_TPS: 2.56, TotalTxs: 61415, TotalBlocks: 283, tx_ids.len= 0
+[2026-08-07 05:07:39.468][INFO] Node 3 starting view 286
+[2026-08-07 05:07:39.567][INFO] 💎 Node 3 Commit block - Height: 283, TxCount: 7019, E2E_TPS: 139376.78, Pure_TPS: 98182.21, Submit_TPS: 2.04, TotalTxs: 68434, TotalBlocks: 284, tx_ids.len= 7019
+[2026-08-07 05:07:39.618][INFO] Node 3 starting view 288
+[2026-08-07 05:07:39.650][INFO] 💎 Node 3 Commit block - Height: 284, TxCount: 10528, E2E_TPS: 139262.79, Pure_TPS: 102148.77, Submit_TPS: 1.76, TotalTxs: 78962, TotalBlocks: 285, tx_ids.len= 10528
+[2026-08-07 05:07:39.652][INFO] Node 3 starting view 289
+[2026-08-07 05:07:39.680][INFO] 💎 Node 3 Commit block - Height: 285, TxCount: 0, E2E_TPS: 130085.67, Pure_TPS: 102148.77, Submit_TPS: 1.65, TotalTxs: 78962, TotalBlocks: 286, tx_ids.len= 0
+[2026-08-07 05:07:39.704][INFO] 💎 Node 3 Commit block - Height: 286, TxCount: 7019, E2E_TPS: 140034.20, Pure_TPS: 104853.66, Submit_TPS: 1.63, TotalTxs: 85981, TotalBlocks: 287, tx_ids.len= 7019
+[2026-08-07 05:07:39.705][INFO] Node 3 starting view 290
+[2026-08-07 05:07:39.774][INFO] Node 3 starting view 291
+[2026-08-07 05:07:39.803][INFO] 💎 Node 3 Commit block - Height: 287, TxCount: 0, E2E_TPS: 117782.19, Pure_TPS: 104853.66, Submit_TPS: 1.37, TotalTxs: 85981, TotalBlocks: 288, tx_ids.len= 0
+[2026-08-07 05:07:39.842][INFO] Node 3 starting view 292
+[2026-08-07 05:07:39.861][INFO] 💎 Node 3 Commit block - Height: 288, TxCount: 0, E2E_TPS: 109529.94, Pure_TPS: 104853.66, Submit_TPS: 1.27, TotalTxs: 85981, TotalBlocks: 289, tx_ids.len= 0
+[2026-08-07 05:07:39.895][INFO] Node 3 starting view 293
+[2026-08-07 05:07:39.901][INFO] 💎 Node 3 Commit block - Height: 289, TxCount: 8774, E2E_TPS: 114438.41, Pure_TPS: 91638.30, Submit_TPS: 2.42, TotalTxs: 94755, TotalBlocks: 290, tx_ids.len= 8774
+[2026-08-07 05:07:39.936][INFO] 💎 Node 3 Commit block - Height: 290, TxCount: 8774, E2E_TPS: 120522.70, Pure_TPS: 97209.39, Submit_TPS: 2.33, TotalTxs: 103529, TotalBlocks: 291, tx_ids.len= 8774
+[2026-08-07 05:07:39.938][INFO] Node 3 starting view 294
+[2026-08-07 05:07:39.949][INFO] Node 3 starting view 295
+[2026-08-07 05:07:39.950][INFO] 💎 Node 3 Commit block - Height: 291, TxCount: 0, E2E_TPS: 117646.59, Pure_TPS: 97209.39, Submit_TPS: 2.27, TotalTxs: 103529, TotalBlocks: 292, tx_ids.len= 0
+[2026-08-07 05:07:39.952][INFO] Node 3 starting view 296
+[2026-08-07 05:07:39.972][INFO] 💎 Node 3 Commit block - Height: 292, TxCount: 0, E2E_TPS: 115416.95, Pure_TPS: 97209.39, Submit_TPS: 2.23, TotalTxs: 103529, TotalBlocks: 293, tx_ids.len= 0
+[2026-08-07 05:07:39.994][INFO] Node 3 starting view 297
+[2026-08-07 05:07:40.078][INFO] 💎 Node 3 Commit block - Height: 293, TxCount: 0, E2E_TPS: 103425.57, Pure_TPS: 97209.39, Submit_TPS: 2.00, TotalTxs: 103529, TotalBlocks: 294, tx_ids.len= 0
+[2026-08-07 05:07:40.119][INFO] 💎 Node 3 Commit block - Height: 294, TxCount: 0, E2E_TPS: 99356.05, Pure_TPS: 97209.39, Submit_TPS: 1.92, TotalTxs: 103529, TotalBlocks: 295, tx_ids.len= 0
+[2026-08-07 05:07:40.132][INFO] Node 3 starting view 298
+[2026-08-07 05:07:40.151][INFO] Node 3 starting view 299
+[2026-08-07 05:07:40.226][INFO] 💎 Node 3 Commit block - Height: 295, TxCount: 5265, E2E_TPS: 94357.33, Pure_TPS: 80053.72, Submit_TPS: 1.73, TotalTxs: 108794, TotalBlocks: 296, tx_ids.len= 5265
+[2026-08-07 05:07:40.294][INFO] 💎 Node 3 Commit block - Height: 296, TxCount: 5265, E2E_TPS: 93337.97, Pure_TPS: 79872.55, Submit_TPS: 1.64, TotalTxs: 114059, TotalBlocks: 297, tx_ids.len= 5265
+[2026-08-07 05:07:40.297][INFO] Node 3 starting view 301
+[2026-08-07 05:07:40.310][INFO] 💎 Node 3 Commit block - Height: 297, TxCount: 0, E2E_TPS: 91983.06, Pure_TPS: 79872.55, Submit_TPS: 1.61, TotalTxs: 114059, TotalBlocks: 298, tx_ids.len= 0
+[2026-08-07 05:07:40.383][INFO] 💎 Node 3 Commit block - Height: 298, TxCount: 7019, E2E_TPS: 92425.95, Pure_TPS: 79866.09, Submit_TPS: 1.53, TotalTxs: 121078, TotalBlocks: 299, tx_ids.len= 7019
+[2026-08-07 05:07:40.386][INFO] Node 3 starting view 302
+[2026-08-07 05:07:40.507][INFO] Node 3 starting view 303
+[2026-08-07 05:07:40.522][INFO] 💎 Node 3 Commit block - Height: 299, TxCount: 0, E2E_TPS: 83387.05, Pure_TPS: 79866.09, Submit_TPS: 1.38, TotalTxs: 121078, TotalBlocks: 300, tx_ids.len= 0
+[2026-08-07 05:07:40.524][INFO] Node 3 starting view 304
+[2026-08-07 05:07:40.543][INFO] 💎 Node 3 Commit block - Height: 300, TxCount: 7019, E2E_TPS: 87858.02, Pure_TPS: 76980.77, Submit_TPS: 1.37, TotalTxs: 128097, TotalBlocks: 301, tx_ids.len= 7019
+[2026-08-07 05:07:40.577][INFO] Node 3 starting view 305
+[2026-08-07 05:07:40.598][INFO] 💎 Node 3 Commit block - Height: 301, TxCount: 0, E2E_TPS: 83888.02, Pure_TPS: 76980.77, Submit_TPS: 1.31, TotalTxs: 128097, TotalBlocks: 302, tx_ids.len= 0
+[2026-08-07 05:07:40.619][INFO] 💎 Node 3 Commit block - Height: 302, TxCount: 0, E2E_TPS: 83071.98, Pure_TPS: 76980.77, Submit_TPS: 1.30, TotalTxs: 128097, TotalBlocks: 303, tx_ids.len= 0
+[2026-08-07 05:07:40.635][INFO] Node 3 starting view 306
+[2026-08-07 05:07:40.636][INFO] Node 3 starting view 307
+[2026-08-07 05:07:40.653][INFO] 💎 Node 3 Commit block - Height: 303, TxCount: 0, E2E_TPS: 81125.40, Pure_TPS: 76980.77, Submit_TPS: 1.27, TotalTxs: 128097, TotalBlocks: 304, tx_ids.len= 0
+[2026-08-07 05:07:40.655][INFO] Node 3 starting view 308
+[2026-08-07 05:07:40.656][INFO] 💎 Node 3 Commit block - Height: 304, TxCount: 0, E2E_TPS: 80767.34, Pure_TPS: 76980.77, Submit_TPS: 1.26, TotalTxs: 128097, TotalBlocks: 305, tx_ids.len= 0
+[2026-08-07 05:07:40.693][INFO] 💎 Node 3 Commit block - Height: 305, TxCount: 0, E2E_TPS: 79121.06, Pure_TPS: 76980.77, Submit_TPS: 1.24, TotalTxs: 128097, TotalBlocks: 306, tx_ids.len= 0
+[2026-08-07 05:07:40.746][INFO] 💎 Node 3 Commit block - Height: 306, TxCount: 7019, E2E_TPS: 81004.80, Pure_TPS: 72099.79, Submit_TPS: 1.20, TotalTxs: 135116, TotalBlocks: 307, tx_ids.len= 7019
+[2026-08-07 05:07:40.747][INFO] Node 3 starting view 310
+[2026-08-07 05:07:40.764][INFO] Node 3 starting view 311
+[2026-08-07 05:07:40.766][INFO] 💎 Node 3 Commit block - Height: 307, TxCount: 0, E2E_TPS: 79714.45, Pure_TPS: 72099.79, Submit_TPS: 1.77, TotalTxs: 135116, TotalBlocks: 308, tx_ids.len= 0
+[2026-08-07 05:07:40.841][INFO] 💎 Node 3 Commit block - Height: 308, TxCount: 0, E2E_TPS: 76293.62, Pure_TPS: 72099.79, Submit_TPS: 1.69, TotalTxs: 135116, TotalBlocks: 309, tx_ids.len= 0
+[2026-08-07 05:07:40.899][INFO] Node 3 starting view 313
+[2026-08-07 05:07:40.964][INFO] 💎 Node 3 Commit block - Height: 309, TxCount: 0, E2E_TPS: 71414.38, Pure_TPS: 72099.79, Submit_TPS: 1.59, TotalTxs: 135116, TotalBlocks: 310, tx_ids.len= 0
+[2026-08-07 05:07:41.008][INFO] 💎 Node 3 Commit block - Height: 310, TxCount: 0, E2E_TPS: 69791.32, Pure_TPS: 72099.79, Submit_TPS: 1.55, TotalTxs: 135116, TotalBlocks: 311, tx_ids.len= 0
+[2026-08-07 05:07:41.019][INFO] Node 3 starting view 314
+[2026-08-07 05:07:41.037][INFO] Node 3 starting view 315
+[2026-08-07 05:07:41.113][INFO] 💎 Node 3 Commit block - Height: 311, TxCount: 7019, E2E_TPS: 69948.33, Pure_TPS: 63509.38, Submit_TPS: 1.48, TotalTxs: 142135, TotalBlocks: 312, tx_ids.len= 7019
+[2026-08-07 05:07:41.128][INFO] Node 3 starting view 316
+[2026-08-07 05:07:41.139][INFO] 💎 Node 3 Commit block - Height: 312, TxCount: 7019, E2E_TPS: 72159.65, Pure_TPS: 65619.45, Submit_TPS: 1.45, TotalTxs: 149154, TotalBlocks: 313, tx_ids.len= 7019
+[2026-08-07 05:07:41.171][INFO] Node 3 starting view 317
+[2026-08-07 05:07:41.185][INFO] 💎 Node 3 Commit block - Height: 313, TxCount: 0, E2E_TPS: 70555.35, Pure_TPS: 65619.45, Submit_TPS: 1.42, TotalTxs: 149154, TotalBlocks: 314, tx_ids.len= 0
+[2026-08-07 05:07:41.233][INFO] 💎 Node 3 Commit block - Height: 314, TxCount: 7019, E2E_TPS: 72503.71, Pure_TPS: 66174.58, Submit_TPS: 1.39, TotalTxs: 156173, TotalBlocks: 315, tx_ids.len= 7019
+[2026-08-07 05:07:41.239][INFO] Node 3 starting view 318
+[2026-08-07 05:07:41.352][INFO] 💎 Node 3 Commit block - Height: 315, TxCount: 0, E2E_TPS: 69042.00, Pure_TPS: 66174.58, Submit_TPS: 1.33, TotalTxs: 156173, TotalBlocks: 316, tx_ids.len= 0
+[2026-08-07 05:07:41.384][INFO] Node 3 starting view 320
+[2026-08-07 05:07:41.387][INFO] 💎 Node 3 Commit block - Height: 316, TxCount: 0, E2E_TPS: 67432.21, Pure_TPS: 66174.58, Submit_TPS: 1.30, TotalTxs: 156173, TotalBlocks: 317, tx_ids.len= 0
+[2026-08-07 05:07:41.391][INFO] Node 3 starting view 321
+[2026-08-07 05:07:41.408][INFO] 💎 Node 3 Commit block - Height: 317, TxCount: 10528, E2E_TPS: 71606.96, Pure_TPS: 65785.32, Submit_TPS: 1.29, TotalTxs: 166701, TotalBlocks: 318, tx_ids.len= 10528
+[2026-08-07 05:07:41.415][INFO] 💎 Node 3 Commit block - Height: 318, TxCount: 0, E2E_TPS: 71118.17, Pure_TPS: 65785.32, Submit_TPS: 1.28, TotalTxs: 166701, TotalBlocks: 319, tx_ids.len= 0
+[2026-08-07 05:07:41.416][INFO] Node 3 starting view 322
+[2026-08-07 05:07:41.423][INFO] Node 3 starting view 323
+[2026-08-07 05:07:41.488][INFO] 💎 Node 3 Commit block - Height: 319, TxCount: 0, E2E_TPS: 69170.54, Pure_TPS: 65785.32, Submit_TPS: 1.24, TotalTxs: 166701, TotalBlocks: 320, tx_ids.len= 0
+[2026-08-07 05:07:41.524][INFO] Node 3 starting view 324
+[2026-08-07 05:07:41.564][INFO] 💎 Node 3 Commit block - Height: 320, TxCount: 0, E2E_TPS: 67082.90, Pure_TPS: 65785.32, Submit_TPS: 1.21, TotalTxs: 166701, TotalBlocks: 321, tx_ids.len= 0
+[2026-08-07 05:07:41.607][INFO] Node 3 starting view 325
+[2026-08-07 05:07:41.634][INFO] 💎 Node 3 Commit block - Height: 321, TxCount: 0, E2E_TPS: 65117.58, Pure_TPS: 65785.32, Submit_TPS: 1.56, TotalTxs: 166701, TotalBlocks: 322, tx_ids.len= 0
+[2026-08-07 05:07:41.661][INFO] 💎 Node 3 Commit block - Height: 322, TxCount: 10528, E2E_TPS: 68746.70, Pure_TPS: 63659.48, Submit_TPS: 1.55, TotalTxs: 177229, TotalBlocks: 323, tx_ids.len= 10528
+[2026-08-07 05:07:41.663][INFO] Node 3 starting view 326
+[2026-08-07 05:07:41.664][INFO] Node 3 starting view 327
+[2026-08-07 05:07:41.665][INFO] 💎 Node 3 Commit block - Height: 323, TxCount: 0, E2E_TPS: 68296.34, Pure_TPS: 63659.48, Submit_TPS: 1.54, TotalTxs: 177229, TotalBlocks: 324, tx_ids.len= 0
+[2026-08-07 05:07:41.704][INFO] Node 3 starting view 328
+[2026-08-07 05:07:41.729][INFO] 💎 Node 3 Commit block - Height: 324, TxCount: 0, E2E_TPS: 66778.07, Pure_TPS: 63659.48, Submit_TPS: 1.51, TotalTxs: 177229, TotalBlocks: 325, tx_ids.len= 0
+[2026-08-07 05:07:41.742][INFO] Node 3 starting view 329
+[2026-08-07 05:07:41.841][INFO] 💎 Node 3 Commit block - Height: 325, TxCount: 0, E2E_TPS: 64166.91, Pure_TPS: 63659.48, Submit_TPS: 1.45, TotalTxs: 177229, TotalBlocks: 326, tx_ids.len= 0
+[2026-08-07 05:07:41.873][INFO] 💎 Node 3 Commit block - Height: 326, TxCount: 0, E2E_TPS: 63318.69, Pure_TPS: 63659.48, Submit_TPS: 1.43, TotalTxs: 177229, TotalBlocks: 327, tx_ids.len= 0
+[2026-08-07 05:07:41.890][INFO] Node 3 starting view 330
+[2026-08-07 05:07:42.006][INFO] Node 3 starting view 331
+[2026-08-07 05:07:42.064][INFO] 💎 Node 3 Commit block - Height: 327, TxCount: 7019, E2E_TPS: 61703.95, Pure_TPS: 57721.49, Submit_TPS: 1.34, TotalTxs: 184248, TotalBlocks: 328, tx_ids.len= 7019
+[2026-08-07 05:07:42.070][INFO] Node 3 starting view 332
+[2026-08-07 05:07:42.091][INFO] 💎 Node 3 Commit block - Height: 328, TxCount: 0, E2E_TPS: 61232.30, Pure_TPS: 57721.49, Submit_TPS: 1.33, TotalTxs: 184248, TotalBlocks: 329, tx_ids.len= 0
+[2026-08-07 05:07:42.120][INFO] Node 3 starting view 333
+[2026-08-07 05:07:42.155][INFO] 💎 Node 3 Commit block - Height: 329, TxCount: 7019, E2E_TPS: 62200.65, Pure_TPS: 58295.03, Submit_TPS: 1.30, TotalTxs: 191267, TotalBlocks: 330, tx_ids.len= 7019
+[2026-08-07 05:07:42.218][INFO] 💎 Node 3 Commit block - Height: 330, TxCount: 7019, E2E_TPS: 63128.30, Pure_TPS: 59242.61, Submit_TPS: 1.27, TotalTxs: 198286, TotalBlocks: 331, tx_ids.len= 7019
+[2026-08-07 05:07:42.230][INFO] Node 3 starting view 334
+[2026-08-07 05:07:42.319][INFO] Node 3 starting view 335
+[2026-08-07 05:07:42.326][INFO] 💎 Node 3 Commit block - Height: 331, TxCount: 0, E2E_TPS: 60898.65, Pure_TPS: 59242.61, Submit_TPS: 1.23, TotalTxs: 198286, TotalBlocks: 332, tx_ids.len= 0
+[2026-08-07 05:07:42.372][INFO] Node 3 starting view 336
+[2026-08-07 05:07:42.424][INFO] 💎 Node 3 Commit block - Height: 332, TxCount: 8774, E2E_TPS: 62012.58, Pure_TPS: 58408.74, Submit_TPS: 1.20, TotalTxs: 207060, TotalBlocks: 333, tx_ids.len= 8774
+[2026-08-07 05:07:42.428][INFO] Node 3 starting view 337
+[2026-08-07 05:07:42.438][INFO] 💎 Node 3 Commit block - Height: 333, TxCount: 0, E2E_TPS: 61533.43, Pure_TPS: 58408.74, Submit_TPS: 1.49, TotalTxs: 207060, TotalBlocks: 334, tx_ids.len= 0
+[2026-08-07 05:07:42.440][INFO] 💎 Node 3 Commit block - Height: 334, TxCount: 0, E2E_TPS: 61442.14, Pure_TPS: 58408.74, Submit_TPS: 1.48, TotalTxs: 207060, TotalBlocks: 335, tx_ids.len= 0
+[2026-08-07 05:07:42.440][INFO] Node 3 starting view 338
+[2026-08-07 05:07:42.573][INFO] 💎 Node 3 Commit block - Height: 335, TxCount: 0, E2E_TPS: 59278.56, Pure_TPS: 58408.74, Submit_TPS: 1.43, TotalTxs: 207060, TotalBlocks: 336, tx_ids.len= 0
+[2026-08-07 05:07:42.615][INFO] Node 3 starting view 340
+[2026-08-07 05:07:42.639][INFO] 💎 Node 3 Commit block - Height: 336, TxCount: 0, E2E_TPS: 58016.25, Pure_TPS: 58408.74, Submit_TPS: 1.40, TotalTxs: 207060, TotalBlocks: 337, tx_ids.len= 0
+[2026-08-07 05:07:42.673][INFO] Node 3 starting view 341
+[2026-08-07 05:07:42.677][INFO] 💎 Node 3 Commit block - Height: 337, TxCount: 0, E2E_TPS: 57452.83, Pure_TPS: 58408.74, Submit_TPS: 1.39, TotalTxs: 207060, TotalBlocks: 338, tx_ids.len= 0
+[2026-08-07 05:07:42.722][INFO] 💎 Node 3 Commit block - Height: 338, TxCount: 8774, E2E_TPS: 59197.48, Pure_TPS: 56031.41, Submit_TPS: 1.37, TotalTxs: 215834, TotalBlocks: 339, tx_ids.len= 8774
+[2026-08-07 05:07:42.727][INFO] Node 3 starting view 342
+[2026-08-07 05:07:42.753][INFO] Node 3 starting view 343
+[2026-08-07 05:07:42.755][INFO] 💎 Node 3 Commit block - Height: 339, TxCount: 0, E2E_TPS: 58570.96, Pure_TPS: 56031.41, Submit_TPS: 1.36, TotalTxs: 215834, TotalBlocks: 340, tx_ids.len= 0
+[2026-08-07 05:07:42.757][INFO] Node 3 starting view 344
+[2026-08-07 05:07:42.759][INFO] 💎 Node 3 Commit block - Height: 340, TxCount: 0, E2E_TPS: 58523.32, Pure_TPS: 56031.41, Submit_TPS: 1.36, TotalTxs: 215834, TotalBlocks: 341, tx_ids.len= 0
+[2026-08-07 05:07:42.784][INFO] Node 3 starting view 345
+[2026-08-07 05:07:42.784][INFO] 💎 Node 3 Commit block - Height: 341, TxCount: 0, E2E_TPS: 58113.62, Pure_TPS: 56031.41, Submit_TPS: 1.35, TotalTxs: 215834, TotalBlocks: 342, tx_ids.len= 0
+[2026-08-07 05:07:42.869][INFO] 💎 Node 3 Commit block - Height: 342, TxCount: 0, E2E_TPS: 56828.33, Pure_TPS: 56031.41, Submit_TPS: 1.32, TotalTxs: 215834, TotalBlocks: 343, tx_ids.len= 0
+[2026-08-07 05:07:42.875][INFO] Node 3 starting view 346
+[2026-08-07 05:07:42.995][INFO] Node 3 starting view 347
+[2026-08-07 05:07:43.204][INFO] 💎 Node 3 Commit block - Height: 343, TxCount: 0, E2E_TPS: 52476.05, Pure_TPS: 56031.41, Submit_TPS: 1.22, TotalTxs: 215834, TotalBlocks: 344, tx_ids.len= 0
+[2026-08-07 05:07:43.277][INFO] Node 3 starting view 348
+[2026-08-07 05:07:43.390][INFO] 💎 Node 3 Commit block - Height: 344, TxCount: 0, E2E_TPS: 50031.06, Pure_TPS: 56031.41, Submit_TPS: 1.39, TotalTxs: 215834, TotalBlocks: 345, tx_ids.len= 0
+[2026-08-07 05:07:43.471][INFO] Node 3 starting view 349
+[2026-08-07 05:07:43.511][INFO] 💎 Node 3 Commit block - Height: 345, TxCount: 8774, E2E_TPS: 50735.94, Pure_TPS: 48479.82, Submit_TPS: 1.36, TotalTxs: 224608, TotalBlocks: 346, tx_ids.len= 8774
+[2026-08-07 05:07:43.586][INFO] 💎 Node 3 Commit block - Height: 346, TxCount: 0, E2E_TPS: 49736.05, Pure_TPS: 48479.82, Submit_TPS: 1.33, TotalTxs: 224608, TotalBlocks: 347, tx_ids.len= 0
+[2026-08-07 05:07:43.591][INFO] Node 3 starting view 350
+[2026-08-07 05:07:43.691][INFO] Node 3 starting view 351
+[2026-08-07 05:07:43.784][INFO] 💎 Node 3 Commit block - Height: 347, TxCount: 8774, E2E_TPS: 49698.04, Pure_TPS: 47609.34, Submit_TPS: 1.28, TotalTxs: 233382, TotalBlocks: 348, tx_ids.len= 8774
+[2026-08-07 05:07:43.825][INFO] Node 3 starting view 352
+[2026-08-07 05:07:43.884][INFO] 💎 Node 3 Commit block - Height: 348, TxCount: 7019, E2E_TPS: 49969.03, Pure_TPS: 47917.08, Submit_TPS: 1.25, TotalTxs: 240401, TotalBlocks: 349, tx_ids.len= 7019
+[2026-08-07 05:07:44.027][INFO] Node 3 starting view 353
+[2026-08-07 05:07:44.108][INFO] 💎 Node 3 Commit block - Height: 349, TxCount: 0, E2E_TPS: 47831.48, Pure_TPS: 47917.08, Submit_TPS: 1.19, TotalTxs: 240401, TotalBlocks: 350, tx_ids.len= 0
+[2026-08-07 05:07:44.180][INFO] 💎 Node 3 Commit block - Height: 350, TxCount: 0, E2E_TPS: 47045.21, Pure_TPS: 47917.08, Submit_TPS: 1.37, TotalTxs: 240401, TotalBlocks: 351, tx_ids.len= 0
+[2026-08-07 05:07:44.181][INFO] Node 3 starting view 354
+[2026-08-07 05:07:44.298][INFO] Node 3 starting view 355
+[2026-08-07 05:07:44.400][INFO] 💎 Node 3 Commit block - Height: 351, TxCount: 8774, E2E_TPS: 46907.94, Pure_TPS: 45156.58, Submit_TPS: 1.32, TotalTxs: 249175, TotalBlocks: 352, tx_ids.len= 8774
+[2026-08-07 05:07:44.406][INFO] Node 3 starting view 356
+[2026-08-07 05:07:44.425][INFO] 💎 Node 3 Commit block - Height: 352, TxCount: 8774, E2E_TPS: 48314.10, Pure_TPS: 46519.03, Submit_TPS: 1.31, TotalTxs: 257949, TotalBlocks: 353, tx_ids.len= 8774
+[2026-08-07 05:07:44.464][INFO] Node 3 starting view 357
+[2026-08-07 05:07:44.625][INFO] 💎 Node 3 Commit block - Height: 353, TxCount: 8774, E2E_TPS: 48214.57, Pure_TPS: 46483.44, Submit_TPS: 1.27, TotalTxs: 266723, TotalBlocks: 354, tx_ids.len= 8774
+[2026-08-07 05:07:44.645][INFO] 💎 Node 3 Commit block - Height: 354, TxCount: 0, E2E_TPS: 47902.84, Pure_TPS: 46483.44, Submit_TPS: 1.26, TotalTxs: 266723, TotalBlocks: 355, tx_ids.len= 0
+[2026-08-07 05:07:44.646][INFO] Node 3 starting view 358
+[2026-08-07 05:07:44.751][INFO] Node 3 starting view 359
+[2026-08-07 05:07:44.831][INFO] 💎 Node 3 Commit block - Height: 355, TxCount: 0, E2E_TPS: 46298.04, Pure_TPS: 46483.44, Submit_TPS: 1.22, TotalTxs: 266723, TotalBlocks: 356, tx_ids.len= 0
+[2026-08-07 05:07:44.921][INFO] Node 3 starting view 360
+[2026-08-07 05:07:44.971][INFO] 💎 Node 3 Commit block - Height: 356, TxCount: 7019, E2E_TPS: 46531.02, Pure_TPS: 44956.64, Submit_TPS: 1.19, TotalTxs: 273742, TotalBlocks: 357, tx_ids.len= 7019
+[2026-08-07 05:07:45.013][INFO] Node 3 starting view 361
+[2026-08-07 05:07:45.044][INFO] 💎 Node 3 Commit block - Height: 357, TxCount: 8774, E2E_TPS: 47354.34, Pure_TPS: 45773.66, Submit_TPS: 1.34, TotalTxs: 282516, TotalBlocks: 358, tx_ids.len= 8774
+[2026-08-07 05:07:45.078][INFO] 💎 Node 3 Commit block - Height: 358, TxCount: 0, E2E_TPS: 47031.13, Pure_TPS: 45773.66, Submit_TPS: 1.33, TotalTxs: 282516, TotalBlocks: 359, tx_ids.len= 0
+[2026-08-07 05:07:45.092][INFO] Node 3 starting view 362
+[2026-08-07 05:07:45.287][INFO] Node 3 starting view 363
+[2026-08-07 05:07:45.421][INFO] 💎 Node 3 Commit block - Height: 359, TxCount: 7019, E2E_TPS: 45790.76, Pure_TPS: 44345.84, Submit_TPS: 1.27, TotalTxs: 289535, TotalBlocks: 360, tx_ids.len= 7019
+[2026-08-07 05:07:45.518][INFO] 💎 Node 3 Commit block - Height: 360, TxCount: 7019, E2E_TPS: 46063.06, Pure_TPS: 44634.71, Submit_TPS: 1.24, TotalTxs: 296554, TotalBlocks: 361, tx_ids.len= 7019
+[2026-08-07 05:07:45.595][INFO] Node 3 starting view 365
+[2026-08-07 05:07:45.663][INFO] 💎 Node 3 Commit block - Height: 361, TxCount: 8774, E2E_TPS: 46430.66, Pure_TPS: 45020.20, Submit_TPS: 1.22, TotalTxs: 305328, TotalBlocks: 362, tx_ids.len= 8774
+[2026-08-07 05:07:45.700][INFO] 💎 Node 3 Commit block - Height: 362, TxCount: 8774, E2E_TPS: 47461.77, Pure_TPS: 46028.87, Submit_TPS: 1.21, TotalTxs: 314102, TotalBlocks: 363, tx_ids.len= 8774
+[2026-08-07 05:07:45.702][INFO] Node 3 starting view 366
+[2026-08-07 05:07:45.719][INFO] Node 3 starting view 367
+[2026-08-07 05:07:45.774][INFO] 💎 Node 3 Commit block - Height: 363, TxCount: 0, E2E_TPS: 46901.90, Pure_TPS: 46028.87, Submit_TPS: 1.19, TotalTxs: 314102, TotalBlocks: 364, tx_ids.len= 0
+[2026-08-07 05:07:45.872][INFO] Node 3 starting view 368
+[2026-08-07 05:07:46.032][INFO] 💎 Node 3 Commit block - Height: 364, TxCount: 0, E2E_TPS: 45123.11, Pure_TPS: 46028.87, Submit_TPS: 1.29, TotalTxs: 314102, TotalBlocks: 365, tx_ids.len= 0
+[2026-08-07 05:07:46.111][INFO] 💎 Node 3 Commit block - Height: 365, TxCount: 0, E2E_TPS: 44623.10, Pure_TPS: 46028.87, Submit_TPS: 1.28, TotalTxs: 314102, TotalBlocks: 366, tx_ids.len= 0
+[2026-08-07 05:07:46.215][INFO] 💎 Node 3 Commit block - Height: 366, TxCount: 8774, E2E_TPS: 45296.86, Pure_TPS: 44024.41, Submit_TPS: 1.26, TotalTxs: 322876, TotalBlocks: 367, tx_ids.len= 8774
+[2026-08-07 05:07:46.247][INFO] Node 3 starting view 370
+[2026-08-07 05:07:46.378][INFO] Node 3 starting view 371
+[2026-08-07 05:07:46.430][INFO] 💎 Node 3 Commit block - Height: 367, TxCount: 7019, E2E_TPS: 44853.16, Pure_TPS: 43631.00, Submit_TPS: 1.22, TotalTxs: 329895, TotalBlocks: 368, tx_ids.len= 7019
+[2026-08-07 05:07:46.600][INFO] Node 3 starting view 372
+[2026-08-07 05:07:46.606][INFO] 💎 Node 3 Commit block - Height: 368, TxCount: 0, E2E_TPS: 43781.69, Pure_TPS: 43631.00, Submit_TPS: 1.33, TotalTxs: 329895, TotalBlocks: 369, tx_ids.len= 0
+[2026-08-07 05:07:46.706][INFO] Node 3 starting view 373
+[2026-08-07 05:07:46.805][INFO] 💎 Node 3 Commit block - Height: 369, TxCount: 7019, E2E_TPS: 43596.53, Pure_TPS: 42464.46, Submit_TPS: 1.29, TotalTxs: 336914, TotalBlocks: 370, tx_ids.len= 7019
+[2026-08-07 05:07:46.818][INFO] 💎 Node 3 Commit block - Height: 370, TxCount: 7019, E2E_TPS: 44447.27, Pure_TPS: 43294.56, Submit_TPS: 1.29, TotalTxs: 343933, TotalBlocks: 371, tx_ids.len= 7019
+[2026-08-07 05:07:46.824][INFO] Node 3 starting view 374
+[2026-08-07 05:07:46.829][INFO] Node 3 starting view 375
+[2026-08-07 05:07:46.934][INFO] 💎 Node 3 Commit block - Height: 371, TxCount: 0, E2E_TPS: 43874.60, Pure_TPS: 43294.56, Submit_TPS: 1.28, TotalTxs: 343933, TotalBlocks: 372, tx_ids.len= 0
+[2026-08-07 05:07:46.967][INFO] Node 3 starting view 376
+[2026-08-07 05:07:47.006][INFO] 💎 Node 3 Commit block - Height: 372, TxCount: 0, E2E_TPS: 43382.06, Pure_TPS: 43294.56, Submit_TPS: 1.26, TotalTxs: 343933, TotalBlocks: 373, tx_ids.len= 0
+[2026-08-07 05:07:47.108][INFO] Node 3 starting view 377
+[2026-08-07 05:07:47.118][INFO] 💎 Node 3 Commit block - Height: 373, TxCount: 0, E2E_TPS: 42756.46, Pure_TPS: 43294.56, Submit_TPS: 1.24, TotalTxs: 343933, TotalBlocks: 374, tx_ids.len= 0
+[2026-08-07 05:07:47.129][INFO] 💎 Node 3 Commit block - Height: 374, TxCount: 7019, E2E_TPS: 43569.46, Pure_TPS: 42482.87, Submit_TPS: 1.24, TotalTxs: 350952, TotalBlocks: 375, tx_ids.len= 7019
+[2026-08-07 05:07:47.130][INFO] Node 3 starting view 378
+[2026-08-07 05:07:47.227][INFO] Node 3 starting view 379
+[2026-08-07 05:07:47.282][INFO] 💎 Node 3 Commit block - Height: 375, TxCount: 0, E2E_TPS: 42741.69, Pure_TPS: 42482.87, Submit_TPS: 1.22, TotalTxs: 350952, TotalBlocks: 376, tx_ids.len= 0
+[2026-08-07 05:07:47.454][INFO] 💎 Node 3 Commit block - Height: 376, TxCount: 0, E2E_TPS: 41914.73, Pure_TPS: 42482.87, Submit_TPS: 1.31, TotalTxs: 350952, TotalBlocks: 377, tx_ids.len= 0
+[2026-08-07 05:07:47.646][INFO] 💎 Node 3 Commit block - Height: 377, TxCount: 0, E2E_TPS: 40927.35, Pure_TPS: 42482.87, Submit_TPS: 1.28, TotalTxs: 350952, TotalBlocks: 378, tx_ids.len= 0
+[2026-08-07 05:07:47.790][INFO] 💎 Node 3 Commit block - Height: 378, TxCount: 8774, E2E_TPS: 41400.16, Pure_TPS: 40441.26, Submit_TPS: 1.27, TotalTxs: 359726, TotalBlocks: 379, tx_ids.len= 8774
+[2026-08-07 05:07:47.827][INFO] Node 3 starting view 382
+[2026-08-07 05:07:48.178][INFO] 💎 Node 3 Commit block - Height: 379, TxCount: 10528, E2E_TPS: 40700.67, Pure_TPS: 39799.31, Submit_TPS: 1.32, TotalTxs: 370254, TotalBlocks: 380, tx_ids.len= 10528
+[2026-08-07 05:07:48.224][INFO] Node 3 starting view 384
+[2026-08-07 05:07:48.259][INFO] 💎 Node 3 Commit block - Height: 380, TxCount: 0, E2E_TPS: 40297.56, Pure_TPS: 39799.31, Submit_TPS: 1.31, TotalTxs: 370254, TotalBlocks: 381, tx_ids.len= 0
+[2026-08-07 05:07:48.433][INFO] Node 3 starting view 385
+[2026-08-07 05:07:48.494][INFO] 💎 Node 3 Commit block - Height: 381, TxCount: 17547, E2E_TPS: 41185.32, Pure_TPS: 40303.47, Submit_TPS: 1.27, TotalTxs: 387801, TotalBlocks: 382, tx_ids.len= 17547
+[2026-08-07 05:07:48.588][INFO] 💎 Node 3 Commit block - Height: 382, TxCount: 7019, E2E_TPS: 41551.25, Pure_TPS: 40669.45, Submit_TPS: 1.26, TotalTxs: 394820, TotalBlocks: 383, tx_ids.len= 7019
+[2026-08-07 05:07:48.618][INFO] Node 3 starting view 386
+[2026-08-07 05:07:48.782][INFO] Node 3 starting view 387
+[2026-08-07 05:07:48.804][INFO] 💎 Node 3 Commit block - Height: 383, TxCount: 8774, E2E_TPS: 41492.14, Pure_TPS: 40631.53, Submit_TPS: 1.23, TotalTxs: 403594, TotalBlocks: 384, tx_ids.len= 8774
+[2026-08-07 05:07:48.887][INFO] Node 3 starting view 388
+[2026-08-07 05:07:48.974][INFO] 💎 Node 3 Commit block - Height: 384, TxCount: 0, E2E_TPS: 40771.19, Pure_TPS: 40631.53, Submit_TPS: 1.21, TotalTxs: 403594, TotalBlocks: 385, tx_ids.len= 0
+[2026-08-07 05:07:49.157][INFO] Node 3 starting view 389
+[2026-08-07 05:07:49.238][INFO] 💎 Node 3 Commit block - Height: 385, TxCount: 7019, E2E_TPS: 40398.76, Pure_TPS: 39596.14, Submit_TPS: 1.28, TotalTxs: 410613, TotalBlocks: 386, tx_ids.len= 7019
+[2026-08-07 05:07:49.309][INFO] 💎 Node 3 Commit block - Height: 386, TxCount: 0, E2E_TPS: 40118.51, Pure_TPS: 39596.14, Submit_TPS: 1.27, TotalTxs: 410613, TotalBlocks: 387, tx_ids.len= 0
+[2026-08-07 05:07:49.324][INFO] Node 3 starting view 390
+[2026-08-07 05:07:49.324][INFO] Node 3 starting view 391
+[2026-08-07 05:07:49.460][INFO] 💎 Node 3 Commit block - Height: 387, TxCount: 7019, E2E_TPS: 40207.18, Pure_TPS: 39425.19, Submit_TPS: 1.25, TotalTxs: 417632, TotalBlocks: 388, tx_ids.len= 7019
+[2026-08-07 05:07:49.625][INFO] Node 3 starting view 392
+[2026-08-07 05:07:49.646][INFO] 💎 Node 3 Commit block - Height: 388, TxCount: 0, E2E_TPS: 39488.65, Pure_TPS: 39425.19, Submit_TPS: 1.23, TotalTxs: 417632, TotalBlocks: 389, tx_ids.len= 0
+[2026-08-07 05:07:49.651][INFO] Node 3 starting view 393
+[2026-08-07 05:07:49.857][INFO] 💎 Node 3 Commit block - Height: 389, TxCount: 0, E2E_TPS: 38744.97, Pure_TPS: 39425.19, Submit_TPS: 1.30, TotalTxs: 417632, TotalBlocks: 390, tx_ids.len= 0
+[2026-08-07 05:07:49.919][INFO] 💎 Node 3 Commit block - Height: 390, TxCount: 8774, E2E_TPS: 39401.77, Pure_TPS: 38665.67, Submit_TPS: 1.29, TotalTxs: 426406, TotalBlocks: 391, tx_ids.len= 8774
+[2026-08-07 05:07:49.945][INFO] Node 3 starting view 394
+[2026-08-07 05:07:50.380][INFO] Node 3 starting view 395
+[2026-08-07 05:07:50.522][INFO] 💎 Node 3 Commit block - Height: 391, TxCount: 0, E2E_TPS: 37237.45, Pure_TPS: 38665.67, Submit_TPS: 1.22, TotalTxs: 426406, TotalBlocks: 392, tx_ids.len= 0
+[2026-08-07 05:07:50.887][INFO] Node 3 starting view 396
+[2026-08-07 05:07:50.956][INFO] 💎 Node 3 Commit block - Height: 392, TxCount: 7019, E2E_TPS: 36520.48, Pure_TPS: 35897.30, Submit_TPS: 1.26, TotalTxs: 433425, TotalBlocks: 393, tx_ids.len= 7019
+[2026-08-07 05:07:51.300][INFO] Node 3 starting view 397
+[2026-08-07 05:07:51.430][INFO] 💎 Node 3 Commit block - Height: 393, TxCount: 26321, E2E_TPS: 37310.99, Pure_TPS: 36697.40, Submit_TPS: 1.22, TotalTxs: 459746, TotalBlocks: 394, tx_ids.len= 26321
+[2026-08-07 05:07:51.763][INFO] 💎 Node 3 Commit block - Height: 394, TxCount: 10530, E2E_TPS: 37167.15, Pure_TPS: 36571.66, Submit_TPS: 1.26, TotalTxs: 470276, TotalBlocks: 395, tx_ids.len= 10530
+[2026-08-07 05:07:51.869][INFO] Node 3 starting view 398
+[2026-08-07 05:07:52.605][INFO] 💎 Node 3 Commit block - Height: 395, TxCount: 0, E2E_TPS: 34747.75, Pure_TPS: 36571.66, Submit_TPS: 1.26, TotalTxs: 470276, TotalBlocks: 396, tx_ids.len= 0
+[2026-08-07 05:07:53.252][INFO] 💎 Node 3 Commit block - Height: 396, TxCount: 28075, E2E_TPS: 35174.41, Pure_TPS: 34670.24, Submit_TPS: 1.27, TotalTxs: 498351, TotalBlocks: 397, tx_ids.len= 28075
+[2026-08-07 05:07:53.364][INFO] Node 3 starting view 401
+[2026-08-07 05:07:53.749][INFO] 💎 Node 3 Commit block - Height: 397, TxCount: 36849, E2E_TPS: 36519.96, Pure_TPS: 36013.66, Submit_TPS: 1.23, TotalTxs: 535200, TotalBlocks: 398, tx_ids.len= 36849
+[2026-08-07 05:07:53.865][INFO] 💎 Node 3 Commit block - Height: 398, TxCount: 21056, E2E_TPS: 37661.21, Pure_TPS: 37143.10, Submit_TPS: 1.22, TotalTxs: 556256, TotalBlocks: 399, tx_ids.len= 21056
+[2026-08-07 05:07:53.866][INFO] Node 3 starting view 402
+[2026-08-07 05:07:54.695][INFO] 💎 Node 3 Commit block - Height: 399, TxCount: 19303, E2E_TPS: 36887.71, Pure_TPS: 36406.98, Submit_TPS: 1.22, TotalTxs: 575559, TotalBlocks: 400, tx_ids.len= 19303
+[2026-08-07 05:07:55.421][INFO] 💎 Node 3 Commit block - Height: 400, TxCount: 8774, E2E_TPS: 35793.75, Pure_TPS: 35347.65, Submit_TPS: 1.23, TotalTxs: 584333, TotalBlocks: 401, tx_ids.len= 8774
+[2026-08-07 05:07:55.996][INFO] Node 3 starting view 405
+[2026-08-07 05:07:56.381][INFO] 💎 Node 3 Commit block - Height: 401, TxCount: 28077, E2E_TPS: 35444.50, Pure_TPS: 35026.82, Submit_TPS: 1.22, TotalTxs: 612410, TotalBlocks: 402, tx_ids.len= 28077
+[2026-08-07 05:07:56.610][INFO] 💎 Node 3 Commit block - Height: 402, TxCount: 26322, E2E_TPS: 36442.75, Pure_TPS: 36019.34, Submit_TPS: 1.26, TotalTxs: 638732, TotalBlocks: 403, tx_ids.len= 26322
+[2026-08-07 05:07:56.626][INFO] Node 3 starting view 406
+[2026-08-07 05:07:57.482][INFO] Node 3 starting view 407
+[2026-08-07 05:07:57.980][INFO] 💎 Node 3 Commit block - Height: 403, TxCount: 40358, E2E_TPS: 35947.81, Pure_TPS: 35559.98, Submit_TPS: 1.22, TotalTxs: 679090, TotalBlocks: 404, tx_ids.len= 40358
+[2026-08-07 05:07:58.120][INFO] Node 3 starting view 408
+[2026-08-07 05:07:58.905][INFO] 💎 Node 3 Commit block - Height: 404, TxCount: 26323, E2E_TPS: 35764.20, Pure_TPS: 35394.48, Submit_TPS: 1.22, TotalTxs: 705413, TotalBlocks: 405, tx_ids.len= 26323
+[2026-08-07 05:08:00.086][INFO] Node 3 starting view 409
+[2026-08-07 05:08:01.419][INFO] 💎 Node 3 Commit block - Height: 405, TxCount: 64924, E2E_TPS: 34505.58, Pure_TPS: 34190.05, Submit_TPS: 1.21, TotalTxs: 770337, TotalBlocks: 406, tx_ids.len= 64924
+[2026-08-07 05:08:02.324][INFO] 💎 Node 3 Commit block - Height: 406, TxCount: 40361, E2E_TPS: 34904.76, Pure_TPS: 34597.86, Submit_TPS: 1.21, TotalTxs: 810698, TotalBlocks: 407, tx_ids.len= 40361
+[2026-08-07 05:08:02.340][INFO] Node 3 view 409 timed out!
+[2026-08-07 05:08:02.341][INFO] Node 3 starting view 410
+[2026-08-07 05:08:04.252][INFO] Node 3 starting view 411
+[2026-08-07 05:08:06.497][INFO] 💎 Node 3 Commit block - Height: 407, TxCount: 29832, E2E_TPS: 30652.78, Pure_TPS: 30424.19, Submit_TPS: 1.20, TotalTxs: 840530, TotalBlocks: 408, tx_ids.len= 29832
+[2026-08-07 05:08:06.499][INFO] Node 3 view 411 timed out!
+[2026-08-07 05:08:06.499][INFO] Node 3 starting view 412
+[2026-08-07 05:08:08.498][INFO] Node 3 view 412 timed out!
+[2026-08-07 05:08:08.519][INFO] Node 3 starting view 413
+[2026-08-07 05:08:10.577][INFO] Node 3 view 413 timed out!
+[2026-08-07 05:08:10.585][INFO] Node 3 starting view 414
+[2026-08-07 05:08:14.223][INFO] Node 3 view 415 timed out!
+[2026-08-07 05:08:14.239][INFO] Node 3 starting view 416
+[2026-08-07 05:08:16.422][INFO] Node 3 view 416 timed out!
+[2026-08-07 05:08:16.468][INFO] Node 3 starting view 417
+[2026-08-07 05:08:18.826][INFO] Node 3 view 417 timed out!
+[2026-08-07 05:08:18.835][INFO] Node 3 starting view 418
+[2026-08-07 05:08:20.969][INFO] Node 3 view 418 timed out!
+[2026-08-07 05:08:20.989][INFO] Node 3 starting view 419
+[2026-08-07 05:08:24.849][INFO] Node 3 starting view 420
+[2026-08-07 05:08:26.842][INFO] Node 3 starting view 421
+[2026-08-07 05:08:28.845][INFO] Node 3 view 421 timed out!
+[2026-08-07 05:08:29.342][INFO] Node 3 starting view 422
+[2026-08-07 05:08:32.599][INFO] Node 3 view 422 timed out!
+[2026-08-07 05:08:32.607][INFO] Node 3 starting view 423
+[2026-08-07 05:08:34.600][INFO] Node 3 view 423 timed out!
+[2026-08-07 05:08:36.033][INFO] Node 3 starting view 424
+[2026-08-07 05:08:36.612][INFO] Node 3 view 424 timed out!
+[2026-08-07 05:08:37.440][INFO] Node 3 starting view 425
+[2026-08-07 05:08:38.632][INFO] Node 3 view 425 timed out!
+[2026-08-07 05:08:39.399][INFO] Node 3 starting view 426
+[2026-08-07 05:08:42.652][INFO] Node 3 starting view 427
+[2026-08-07 05:08:44.653][INFO] Node 3 view 427 timed out!
+[2026-08-07 05:08:45.394][INFO] Node 3 starting view 428
+[2026-08-07 05:08:48.649][INFO] Node 3 view 429 timed out!
+[2026-08-07 05:08:50.849][INFO] Node 3 starting view 431
+[2026-08-07 05:08:52.815][INFO] Node 3 starting view 432
+[2026-08-07 05:08:54.662][INFO] Node 3 view 432 timed out!
+[2026-08-07 05:08:55.754][INFO] Node 3 starting view 433
+[2026-08-07 05:08:58.686][INFO] Node 3 starting view 434
+[2026-08-07 05:08:58.697][INFO] Node 3 view 434 timed out!
+[2026-08-07 05:08:58.699][INFO] Node 3 starting view 435
+[2026-08-07 05:09:00.713][INFO] Node 3 view 435 timed out!
+[2026-08-07 05:09:02.705][INFO] Node 3 view 436 timed out!
+[2026-08-07 05:09:04.724][INFO] Node 3 view 437 timed out!
+[2026-08-07 05:09:04.748][INFO] Node 3 starting view 438
+[2026-08-07 05:09:06.727][INFO] Node 3 view 438 timed out!
+[2026-08-07 05:09:06.765][INFO] Node 3 starting view 439
+[2026-08-07 05:09:09.438][INFO] Node 3 starting view 440
+[2026-08-07 05:09:10.728][INFO] Node 3 view 440 timed out!
+[2026-08-07 05:09:14.111][INFO] Node 3 starting view 442
+[2026-08-07 05:09:14.810][INFO] Node 3 view 442 timed out!
+[2026-08-07 05:09:14.816][INFO] Node 3 starting view 443
+[2026-08-07 05:09:19.603][INFO] Node 3 view 443 timed out!
+[2026-08-07 05:09:19.973][INFO] Node 3 starting view 444

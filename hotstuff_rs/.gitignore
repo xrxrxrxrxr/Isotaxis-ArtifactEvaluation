@@ -1,0 +1,7 @@
+# macOS filesystem artifacts
+*.DS_Store
+
+*target
+# Cargo.lock is intentionally tracked by the AE repository because the
+# container build uses Cargo's --locked mode.
+.vscode/*

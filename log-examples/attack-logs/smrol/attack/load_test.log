@@ -1,0 +1,161 @@
+2026-08-09T10:36:15.899382Z  INFO ThreadId(01) client: [logger] client logging initialized with filter 'info'
+2026-08-09T10:36:15.899589Z  INFO ThreadId(01) client: [client] transaction send mode: Smrol
+2026-08-09T10:36:15.899725Z  INFO ThreadId(01) client: [client] starting separated-state client: load_tester_001
+2026-08-09T10:36:15.899830Z  INFO ThreadId(01) client: [client] individual latency logging: disabled (aggregate summaries only); warm-up=5 s; aggregate interval=100 consensus samples
+2026-08-09T10:36:15.900206Z  INFO ThreadId(01) client: [client] initializing core: load_tester_001
+2026-08-09T10:36:15.900303Z  INFO ThreadId(01) client: [client] waiting for consensus nodes to start...
+2026-08-09T10:36:35.904476Z  INFO ThreadId(01) client: [client] establishing persistent connections to all nodes...
+2026-08-09T10:36:35.905016Z  INFO ThreadId(01) client: Resolved address for node 0: node0:9000
+2026-08-09T10:36:35.905162Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 0: node0:9000
+2026-08-09T10:36:35.907206Z  WARN ThreadId(01) client: [client] failed to connect to node 0 on attempt 1/10: Connection refused (os error 111); retrying in 500 ms
+2026-08-09T10:36:36.411566Z  INFO ThreadId(01) client: Resolved address for node 0: node0:9000
+2026-08-09T10:36:36.416779Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 0: node0:9000
+2026-08-09T10:36:36.418475Z  INFO ThreadId(01) client: [client] established persistent connection to node 0
+2026-08-09T10:36:36.418577Z  INFO ThreadId(09) client: [client] starting response receiver for node 0
+2026-08-09T10:36:36.418726Z  INFO ThreadId(01) client: [client] connected to node 0 on attempt 2/10
+2026-08-09T10:36:36.431454Z  INFO ThreadId(01) client: Resolved address for node 1: node1:9000
+2026-08-09T10:36:36.441572Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 1: node1:9000
+2026-08-09T10:36:36.458462Z  WARN ThreadId(01) client: [client] failed to connect to node 1 on attempt 1/10: Connection refused (os error 111); retrying in 500 ms
+2026-08-09T10:36:36.962814Z  INFO ThreadId(01) client: Resolved address for node 1: node1:9000
+2026-08-09T10:36:36.963315Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 1: node1:9000
+2026-08-09T10:36:36.968902Z  WARN ThreadId(01) client: [client] failed to connect to node 1 on attempt 2/10: Connection refused (os error 111); retrying in 500 ms
+2026-08-09T10:36:37.471883Z  INFO ThreadId(01) client: Resolved address for node 1: node1:9000
+2026-08-09T10:36:37.472434Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 1: node1:9000
+2026-08-09T10:36:37.474706Z  WARN ThreadId(01) client: [client] failed to connect to node 1 on attempt 3/10: Connection refused (os error 111); retrying in 500 ms
+2026-08-09T10:36:37.983959Z  INFO ThreadId(01) client: Resolved address for node 1: node1:9000
+2026-08-09T10:36:38.001395Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 1: node1:9000
+2026-08-09T10:36:38.018946Z  WARN ThreadId(01) client: [client] failed to connect to node 1 on attempt 4/10: Connection refused (os error 111); retrying in 500 ms
+2026-08-09T10:36:38.523782Z  INFO ThreadId(01) client: Resolved address for node 1: node1:9000
+2026-08-09T10:36:38.524115Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 1: node1:9000
+2026-08-09T10:36:38.526509Z  WARN ThreadId(01) client: [client] failed to connect to node 1 on attempt 5/10: Connection refused (os error 111); retrying in 500 ms
+2026-08-09T10:36:39.042328Z  INFO ThreadId(01) client: Resolved address for node 1: node1:9000
+2026-08-09T10:36:39.042662Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 1: node1:9000
+2026-08-09T10:36:39.058049Z  WARN ThreadId(01) client: [client] failed to connect to node 1 on attempt 6/10: Connection refused (os error 111); retrying in 500 ms
+2026-08-09T10:36:39.562399Z  INFO ThreadId(01) client: Resolved address for node 1: node1:9000
+2026-08-09T10:36:39.564098Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 1: node1:9000
+2026-08-09T10:36:39.570902Z  WARN ThreadId(01) client: [client] failed to connect to node 1 on attempt 7/10: Connection refused (os error 111); retrying in 500 ms
+2026-08-09T10:36:40.075764Z  INFO ThreadId(01) client: Resolved address for node 1: node1:9000
+2026-08-09T10:36:40.076103Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 1: node1:9000
+2026-08-09T10:36:40.077710Z  WARN ThreadId(01) client: [client] failed to connect to node 1 on attempt 8/10: Connection refused (os error 111); retrying in 500 ms
+2026-08-09T10:36:40.579761Z  INFO ThreadId(01) client: Resolved address for node 1: node1:9000
+2026-08-09T10:36:40.581169Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 1: node1:9000
+2026-08-09T10:36:40.583917Z  WARN ThreadId(01) client: [client] failed to connect to node 1 on attempt 9/10: Connection refused (os error 111); retrying in 500 ms
+2026-08-09T10:36:41.085889Z  INFO ThreadId(01) client: Resolved address for node 1: node1:9000
+2026-08-09T10:36:41.086160Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 1: node1:9000
+2026-08-09T10:36:41.087199Z ERROR ThreadId(01) client: [client] failed to connect to node 1 after 10 attempts: Connection refused (os error 111)
+2026-08-09T10:36:41.087534Z  INFO ThreadId(01) client: Resolved address for node 2: node2:9000
+2026-08-09T10:36:41.087920Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 2: node2:9000
+2026-08-09T10:36:41.088905Z  INFO ThreadId(09) client: [client] starting response receiver for node 2
+2026-08-09T10:36:41.088896Z  INFO ThreadId(01) client: [client] established persistent connection to node 2
+2026-08-09T10:36:41.090300Z  INFO ThreadId(01) client: [client] connected to node 2 on attempt 1/10
+2026-08-09T10:36:41.090826Z  INFO ThreadId(01) client: Resolved address for node 3: node3:9000
+2026-08-09T10:36:41.091156Z  INFO ThreadId(01) client: [client] establishing persistent connection to node 3: node3:9000
+2026-08-09T10:36:41.092103Z  INFO ThreadId(01) client: [client] established persistent connection to node 3
+2026-08-09T10:36:41.092120Z  INFO ThreadId(09) client: [client] starting response receiver for node 3
+2026-08-09T10:36:41.092432Z  INFO ThreadId(01) client: [client] connected to node 3 on attempt 1/10
+2026-08-09T10:36:41.093031Z  INFO ThreadId(01) client: [client] established 3 persistent connections
+2026-08-09T10:36:41.093200Z  INFO ThreadId(01) client: [client] target TPS: 400 x n
+2026-08-09T10:36:41.093417Z  INFO ThreadId(01) client: [client] consensus-only warm-up for 5 s; no transactions will be sent
+2026-08-09T10:36:46.094288Z  INFO ThreadId(01) client: [client] consensus-only warm-up complete; starting load test
+2026-08-09T10:36:46.095695Z  INFO ThreadId(01) client: [load-test] starting load test - target TPS: 400, duration: 100 s
+2026-08-09T10:36:46.096160Z  INFO ThreadId(01) client: [load-test] overriding batch size via ORDERING_BATCH_SIZE=1
+2026-08-09T10:36:46.096514Z  INFO ThreadId(01) client: [load-test] dispatching one batch per interval in round-robin order across 4 nodes; aggregate client rate does not scale with node count
+2026-08-09T10:36:46.097432Z  INFO ThreadId(01) client: [client-stats] first generated batch: physical txs=1, total bincode tx bytes=56, avg tx bytes=56.0
+2026-08-09T10:37:14.330526Z  INFO ThreadId(06) client: [latency] ============= aggregate latency report =============
+2026-08-09T10:37:14.330899Z  INFO ThreadId(06) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-09T10:37:14.331376Z  INFO ThreadId(06) client: [latency] excluded warm-up transactions=0
+2026-08-09T10:37:14.331779Z  INFO ThreadId(06) client: [ordering] latency statistics (samples: 101):
+2026-08-09T10:37:14.332369Z  INFO ThreadId(06) client:   Average: 21.49 ms
+2026-08-09T10:37:14.333436Z  INFO ThreadId(06) client:   P50: 18.397 ms
+2026-08-09T10:37:14.333784Z  INFO ThreadId(06) client:   P95: 41.713 ms
+2026-08-09T10:37:14.333935Z  INFO ThreadId(06) client:   P99: 51.075 ms
+2026-08-09T10:37:14.334148Z  INFO ThreadId(06) client: [consensus] latency statistics (samples: 100):
+2026-08-09T10:37:14.335080Z  INFO ThreadId(06) client:   Average: 205.23 ms
+2026-08-09T10:37:14.335412Z  INFO ThreadId(06) client:   P50: 167.959 ms
+2026-08-09T10:37:14.338270Z  INFO ThreadId(06) client:   P95: 451.79 ms
+2026-08-09T10:37:14.339420Z  INFO ThreadId(06) client:   P99: 699.818 ms
+2026-08-09T10:37:14.339776Z  INFO ThreadId(06) client: [pushed2hotstuff->consensus] latency statistics (samples: 100):
+2026-08-09T10:37:14.340881Z  INFO ThreadId(06) client:   Average: 183.57 ms
+2026-08-09T10:37:14.341259Z  INFO ThreadId(06) client:   P50: 144.915 ms
+2026-08-09T10:37:14.341851Z  INFO ThreadId(06) client:   P95: 417.253 ms
+2026-08-09T10:37:14.342234Z  INFO ThreadId(06) client:   P99: 684.838 ms
+2026-08-09T10:37:14.342672Z  INFO ThreadId(06) client: [latency] comparison analysis:
+2026-08-09T10:37:14.342982Z  INFO ThreadId(06) client:   Ordering average: 21.49 ms
+2026-08-09T10:37:14.343167Z  INFO ThreadId(06) client:   Consensus average: 205.23 ms
+2026-08-09T10:37:14.343433Z  INFO ThreadId(06) client:   Consensus/Ordering ratio: 9.55x
+2026-08-09T10:37:14.343803Z  INFO ThreadId(06) client:   Pushed2HotStuff->Consensus average: 183.57 ms
+2026-08-09T10:37:14.345912Z  INFO ThreadId(06) client: 📊 ==========================================
+2026-08-09T10:38:02.893579Z  INFO ThreadId(08) client: [latency] ============= aggregate latency report =============
+2026-08-09T10:38:02.894041Z  INFO ThreadId(08) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-09T10:38:02.894603Z  INFO ThreadId(08) client: [latency] excluded warm-up transactions=0
+2026-08-09T10:38:02.896632Z  INFO ThreadId(08) client: [ordering] latency statistics (samples: 202):
+2026-08-09T10:38:02.897319Z  INFO ThreadId(08) client:   Average: 21.22 ms
+2026-08-09T10:38:02.898624Z  INFO ThreadId(08) client:   P50: 18.523 ms
+2026-08-09T10:38:02.899646Z  INFO ThreadId(08) client:   P95: 41.809 ms
+2026-08-09T10:38:02.900020Z  INFO ThreadId(08) client:   P99: 51.075 ms
+2026-08-09T10:38:02.900400Z  INFO ThreadId(08) client: [consensus] latency statistics (samples: 200):
+2026-08-09T10:38:02.900859Z  INFO ThreadId(08) client:   Average: 163.37 ms
+2026-08-09T10:38:02.901215Z  INFO ThreadId(08) client:   P50: 130.792 ms
+2026-08-09T10:38:02.901334Z  INFO ThreadId(08) client:   P95: 397.932 ms
+2026-08-09T10:38:02.901767Z  INFO ThreadId(08) client:   P99: 590.314 ms
+2026-08-09T10:38:02.902149Z  INFO ThreadId(08) client: [pushed2hotstuff->consensus] latency statistics (samples: 200):
+2026-08-09T10:38:02.902969Z  INFO ThreadId(08) client:   Average: 142.07 ms
+2026-08-09T10:38:02.903638Z  INFO ThreadId(08) client:   P50: 107.793 ms
+2026-08-09T10:38:02.904333Z  INFO ThreadId(08) client:   P95: 372.475 ms
+2026-08-09T10:38:02.904461Z  INFO ThreadId(08) client:   P99: 535.133 ms
+2026-08-09T10:38:02.904615Z  INFO ThreadId(08) client: [latency] comparison analysis:
+2026-08-09T10:38:02.904857Z  INFO ThreadId(08) client:   Ordering average: 21.22 ms
+2026-08-09T10:38:02.905076Z  INFO ThreadId(08) client:   Consensus average: 163.37 ms
+2026-08-09T10:38:02.905679Z  INFO ThreadId(08) client:   Consensus/Ordering ratio: 7.70x
+2026-08-09T10:38:02.905983Z  INFO ThreadId(08) client:   Pushed2HotStuff->Consensus average: 142.07 ms
+2026-08-09T10:38:02.906063Z  INFO ThreadId(08) client: 📊 ==========================================
+2026-08-09T10:39:30.446844Z  INFO ThreadId(03) client: [latency] ============= aggregate latency report =============
+2026-08-09T10:39:30.447403Z  INFO ThreadId(03) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-09T10:39:30.448229Z  INFO ThreadId(03) client: [latency] excluded warm-up transactions=0
+2026-08-09T10:39:30.449422Z  INFO ThreadId(03) client: [ordering] latency statistics (samples: 305):
+2026-08-09T10:39:30.450716Z  INFO ThreadId(03) client:   Average: 21.72 ms
+2026-08-09T10:39:30.451356Z  INFO ThreadId(03) client:   P50: 19.452 ms
+2026-08-09T10:39:30.451584Z  INFO ThreadId(03) client:   P95: 41.259 ms
+2026-08-09T10:39:30.451724Z  INFO ThreadId(03) client:   P99: 51.075 ms
+2026-08-09T10:39:30.451913Z  INFO ThreadId(03) client: [consensus] latency statistics (samples: 300):
+2026-08-09T10:39:30.452081Z  INFO ThreadId(03) client:   Average: 160.29 ms
+2026-08-09T10:39:30.452215Z  INFO ThreadId(03) client:   P50: 138.455 ms
+2026-08-09T10:39:30.452355Z  INFO ThreadId(03) client:   P95: 350.938 ms
+2026-08-09T10:39:30.452566Z  INFO ThreadId(03) client:   P99: 486.535 ms
+2026-08-09T10:39:30.452791Z  INFO ThreadId(03) client: [pushed2hotstuff->consensus] latency statistics (samples: 300):
+2026-08-09T10:39:30.453352Z  INFO ThreadId(03) client:   Average: 138.54 ms
+2026-08-09T10:39:30.453579Z  INFO ThreadId(03) client:   P50: 116.754 ms
+2026-08-09T10:39:30.453709Z  INFO ThreadId(03) client:   P95: 327.237 ms
+2026-08-09T10:39:30.453859Z  INFO ThreadId(03) client:   P99: 467.418 ms
+2026-08-09T10:39:30.453999Z  INFO ThreadId(03) client: [latency] comparison analysis:
+2026-08-09T10:39:30.454108Z  INFO ThreadId(03) client:   Ordering average: 21.72 ms
+2026-08-09T10:39:30.454244Z  INFO ThreadId(03) client:   Consensus average: 160.29 ms
+2026-08-09T10:39:30.454371Z  INFO ThreadId(03) client:   Consensus/Ordering ratio: 7.38x
+2026-08-09T10:39:30.454545Z  INFO ThreadId(03) client:   Pushed2HotStuff->Consensus average: 138.54 ms
+2026-08-09T10:39:30.454643Z  INFO ThreadId(03) client: 📊 ==========================================
+2026-08-09T10:40:06.529400Z  INFO ThreadId(01) client: [client] shutdown signal received during load test
+2026-08-09T10:40:06.529802Z  INFO ThreadId(01) client: [latency] final summary before client exit
+2026-08-09T10:40:06.530080Z  INFO ThreadId(01) client: [latency] ============= aggregate latency report =============
+2026-08-09T10:40:06.530269Z  INFO ThreadId(01) client: [latency] warm-up: consensus-only, no client transactions, duration=5 s
+2026-08-09T10:40:06.530537Z  INFO ThreadId(01) client: [latency] excluded warm-up transactions=0
+2026-08-09T10:40:06.530731Z  INFO ThreadId(01) client: [ordering] latency statistics (samples: 336):
+2026-08-09T10:40:06.533035Z  INFO ThreadId(01) client:   Average: 21.67 ms
+2026-08-09T10:40:06.533774Z  INFO ThreadId(01) client:   P50: 19.283 ms
+2026-08-09T10:40:06.534090Z  INFO ThreadId(01) client:   P95: 41.259 ms
+2026-08-09T10:40:06.534256Z  INFO ThreadId(01) client:   P99: 51.075 ms
+2026-08-09T10:40:06.534479Z  INFO ThreadId(01) client: [consensus] latency statistics (samples: 331):
+2026-08-09T10:40:06.534689Z  INFO ThreadId(01) client:   Average: 161.37 ms
+2026-08-09T10:40:06.535124Z  INFO ThreadId(01) client:   P50: 140.523 ms
+2026-08-09T10:40:06.535241Z  INFO ThreadId(01) client:   P95: 333.994 ms
+2026-08-09T10:40:06.535378Z  INFO ThreadId(01) client:   P99: 458.984 ms
+2026-08-09T10:40:06.535560Z  INFO ThreadId(01) client: [pushed2hotstuff->consensus] latency statistics (samples: 331):
+2026-08-09T10:40:06.535886Z  INFO ThreadId(01) client:   Average: 139.68 ms
+2026-08-09T10:40:06.536151Z  INFO ThreadId(01) client:   P50: 120.363 ms
+2026-08-09T10:40:06.536924Z  INFO ThreadId(01) client:   P95: 311.964 ms
+2026-08-09T10:40:06.537604Z  INFO ThreadId(01) client:   P99: 431.711 ms
+2026-08-09T10:40:06.537707Z  INFO ThreadId(01) client: [latency] comparison analysis:
+2026-08-09T10:40:06.537806Z  INFO ThreadId(01) client:   Ordering average: 21.67 ms
+2026-08-09T10:40:06.537901Z  INFO ThreadId(01) client:   Consensus average: 161.37 ms
+2026-08-09T10:40:06.538530Z  INFO ThreadId(01) client:   Consensus/Ordering ratio: 7.45x
+2026-08-09T10:40:06.539681Z  INFO ThreadId(01) client:   Pushed2HotStuff->Consensus average: 139.68 ms
+2026-08-09T10:40:06.540154Z  INFO ThreadId(01) client: 📊 ==========================================

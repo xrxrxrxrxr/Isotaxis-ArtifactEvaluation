@@ -1,0 +1,32 @@
+logs/main.log
+*.folded
+hotstuff_runner/target/*
+ec2/logs-data
+ec2/env
+external
+target
+logs
+.DS_Store
+
+# Generated local evaluation output
+/ae-results/
+/python-fig/
+/.venv-ae/
+
+# Generated EC2 inventory, per-instance configuration, and collected output
+/ec2/hosts.txt
+/ec2/envs/
+/ec2/.adv-node
+/ec2/ec2-logs/
+/ec2/logs-data/
+/ec2/cmd.txt
+
+# Account-specific security-group exports (see README-AE.md for safe rules)
+/ingress.json
+/egress.json
+
+# Author-only image publishing helper; evaluators pull the pinned image
+/build.sh
+
+# Local compiler diagnostics
+/hotstuff_runner/*.log

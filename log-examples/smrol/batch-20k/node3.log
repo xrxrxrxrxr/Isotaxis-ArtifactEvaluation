@@ -1,0 +1,519 @@
+2026-08-06T11:44:07.749663Z  WARN ThreadId(01) docker_node: HOTSTUFF_NODE_LEAST_ID=0, HOTSTUFF_NODE_NUM=4
+2026-08-06T11:44:07.757792Z  WARN ThreadId(01) hotstuff_runner::telemetry: Prometheus metrics exporter started ✅ listen_addr=0.0.0.0:9893
+2026-08-06T11:44:07.760133Z  WARN ThreadId(01) hotstuff_runner::telemetry: ✅ wrote smrol.node_up=1 (boot) node_id=3
+2026-08-06T11:44:27.979001Z  WARN ThreadId(01) hotstuff_runner::tcp_node: Node 3 view timeout set to 2000 ms
+2026-08-06T11:44:28.043126Z  WARN ThreadId(01) hotstuff_runner::smrol::sequencing: SMROL_MEDIAN_INFLIGHT=3, SMROL_ORDER_FINALIZE_INFLIGHT=3, SMROL_FINAL_SIGN_INFLIGHT=3, SMROL_FINAL_VERIFY_INFLIGHT=3
+2026-08-06T11:44:28.044977Z  WARN ThreadId(01) hotstuff_runner::smrol::sequencing: [Sequencing] Node 3 multi-signature verification disabled: false
+2026-08-06T11:44:28.045246Z  WARN ThreadId(06) hotstuff_runner::smrol::sequencing: [Sequencing] Node 3 final verify dispatcher started
+2026-08-06T11:44:28.045940Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:44:28.051002Z ERROR ThreadId(23) hotstuff_runner::pompe_network: Node 3 failed to connect to node 1: Connection refused (os error 111)
+2026-08-06T11:44:29.985236Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 0 timed out; latency may accumulate
+2026-08-06T11:44:30.039740Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.121407Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.156038Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.225276Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.269046Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.341255Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.388765Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.427586Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.467082Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.503141Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.530717Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.573678Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.610959Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.644701Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.705980Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.745522Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.795333Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.828386Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.878170Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.922531Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:30.995405Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.053633Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.106514Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.161293Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.218297Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.258654Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.311117Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.346563Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.381792Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.422216Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.451923Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.512593Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.574421Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.614047Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.614676Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(134) far exceeds block count (33); potential sync issue    
+2026-08-06T11:44:31.642683Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.643697Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(138) far exceeds block count (34); potential sync issue    
+2026-08-06T11:44:31.679607Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.680208Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(142) far exceeds block count (35); potential sync issue    
+2026-08-06T11:44:31.723745Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.724019Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(146) far exceeds block count (36); potential sync issue    
+2026-08-06T11:44:31.776953Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.779437Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(150) far exceeds block count (37); potential sync issue    
+2026-08-06T11:44:31.821366Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.822739Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(154) far exceeds block count (38); potential sync issue    
+2026-08-06T11:44:31.861233Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.869464Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(158) far exceeds block count (39); potential sync issue    
+2026-08-06T11:44:31.907976Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.908525Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(162) far exceeds block count (40); potential sync issue    
+2026-08-06T11:44:31.955562Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.956147Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(166) far exceeds block count (41); potential sync issue    
+2026-08-06T11:44:31.992016Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:31.993446Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(170) far exceeds block count (42); potential sync issue    
+2026-08-06T11:44:32.022760Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.023281Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(174) far exceeds block count (43); potential sync issue    
+2026-08-06T11:44:32.075697Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.076774Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(178) far exceeds block count (44); potential sync issue    
+2026-08-06T11:44:32.106998Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.108280Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(182) far exceeds block count (45); potential sync issue    
+2026-08-06T11:44:32.142302Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.143179Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(186) far exceeds block count (46); potential sync issue    
+2026-08-06T11:44:32.201834Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.202738Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(190) far exceeds block count (47); potential sync issue    
+2026-08-06T11:44:32.321722Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.322669Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(194) far exceeds block count (48); potential sync issue    
+2026-08-06T11:44:32.514152Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.514566Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(198) far exceeds block count (49); potential sync issue    
+2026-08-06T11:44:32.551409Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.552107Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(202) far exceeds block count (50); potential sync issue    
+2026-08-06T11:44:32.598463Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.598564Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(206) far exceeds block count (51); potential sync issue    
+2026-08-06T11:44:32.646078Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.646180Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(210) far exceeds block count (52); potential sync issue    
+2026-08-06T11:44:32.692781Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.693172Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(214) far exceeds block count (53); potential sync issue    
+2026-08-06T11:44:32.740149Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.740623Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(218) far exceeds block count (54); potential sync issue    
+2026-08-06T11:44:32.804575Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.809954Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(222) far exceeds block count (55); potential sync issue    
+2026-08-06T11:44:32.852700Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.855166Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(226) far exceeds block count (56); potential sync issue    
+2026-08-06T11:44:32.916252Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.916691Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(230) far exceeds block count (57); potential sync issue    
+2026-08-06T11:44:32.950712Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.950991Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(234) far exceeds block count (58); potential sync issue    
+2026-08-06T11:44:32.998601Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:32.999599Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(238) far exceeds block count (59); potential sync issue    
+2026-08-06T11:44:33.022958Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:33.023756Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(242) far exceeds block count (60); potential sync issue    
+2026-08-06T11:44:33.047850Z  WARN ThreadId(06) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:44:33.050751Z  WARN ThreadId(01) docker_node: Node 1 port 20001 temporarily unreachable: Connection refused (os error 111)
+2026-08-06T11:44:33.065338Z  WARN ThreadId(01) docker_node: Node 2 port 20002 temporarily unreachable: Connection refused (os error 111)
+2026-08-06T11:44:33.066222Z  WARN ThreadId(01) docker_node: Node 3 port 20003 temporarily unreachable: Connection refused (os error 111)
+2026-08-06T11:44:33.121254Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:33.121759Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(246) far exceeds block count (61); potential sync issue    
+2026-08-06T11:44:33.181254Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:33.185241Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(250) far exceeds block count (62); potential sync issue    
+2026-08-06T11:44:33.245213Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:33.251550Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(254) far exceeds block count (63); potential sync issue    
+2026-08-06T11:44:33.304253Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:33.308634Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(258) far exceeds block count (64); potential sync issue    
+2026-08-06T11:44:33.360132Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:33.360607Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(262) far exceeds block count (65); potential sync issue    
+2026-08-06T11:44:33.398690Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:33.399140Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(266) far exceeds block count (66); potential sync issue    
+2026-08-06T11:44:33.438610Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:33.441278Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(270) far exceeds block count (67); potential sync issue    
+2026-08-06T11:44:33.543331Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 2107, attempting up to 2107 transactions this block    
+2026-08-06T11:44:33.546114Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(274) far exceeds block count (68); potential sync issue    
+2026-08-06T11:44:33.624881Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:33.626172Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(278) far exceeds block count (69); potential sync issue    
+2026-08-06T11:44:33.746021Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 3511, attempting up to 3511 transactions this block    
+2026-08-06T11:44:33.751638Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(282) far exceeds block count (70); potential sync issue    
+2026-08-06T11:44:33.876014Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:33.877898Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(286) far exceeds block count (71); potential sync issue    
+2026-08-06T11:44:33.989931Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:33.992225Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(290) far exceeds block count (72); potential sync issue    
+2026-08-06T11:44:34.045213Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Detected transaction backlog: submit rate (11.8) > confirm rate (0.0)
+2026-08-06T11:44:34.134887Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 3511, attempting up to 3511 transactions this block    
+2026-08-06T11:44:34.137011Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(294) far exceeds block count (73); potential sync issue    
+2026-08-06T11:44:34.225878Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Detected transaction backlog: submit rate (3.7) > confirm rate (0.0)
+2026-08-06T11:44:34.347968Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 2809, attempting up to 2809 transactions this block    
+2026-08-06T11:44:34.354180Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(298) far exceeds block count (74); potential sync issue    
+2026-08-06T11:44:34.954334Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 11233, attempting up to 11233 transactions this block    
+2026-08-06T11:44:34.966620Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(302) far exceeds block count (75); potential sync issue    
+2026-08-06T11:44:35.222583Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 8.367083ms
+2026-08-06T11:44:35.449470Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 10532, attempting up to 10532 transactions this block    
+2026-08-06T11:44:35.458827Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(306) far exceeds block count (76); potential sync issue    
+2026-08-06T11:44:35.560864Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 6.204041ms
+2026-08-06T11:44:36.462203Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 11935, attempting up to 11935 transactions this block    
+2026-08-06T11:44:36.466047Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(310) far exceeds block count (77); potential sync issue    
+2026-08-06T11:44:36.991131Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 2809, attempting up to 2809 transactions this block    
+2026-08-06T11:44:37.002225Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(314) far exceeds block count (78); potential sync issue    
+2026-08-06T11:44:37.239227Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 2809, attempting up to 2809 transactions this block    
+2026-08-06T11:44:37.241193Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(318) far exceeds block count (79); potential sync issue    
+2026-08-06T11:44:37.450605Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 5.612791ms
+2026-08-06T11:44:37.454361Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 9.140958ms
+2026-08-06T11:44:37.473401Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 2809, attempting up to 2809 transactions this block    
+2026-08-06T11:44:37.482127Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(322) far exceeds block count (80); potential sync issue    
+2026-08-06T11:44:37.753895Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 6319, attempting up to 6319 transactions this block    
+2026-08-06T11:44:37.760127Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(326) far exceeds block count (81); potential sync issue    
+2026-08-06T11:44:38.047321Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:44:38.070836Z  WARN ThreadId(04) docker_node: Node 3 Regular transaction queue backlog: 2809 transactions
+2026-08-06T11:44:38.099680Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 5618, attempting up to 5618 transactions this block    
+2026-08-06T11:44:38.113121Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(330) far exceeds block count (82); potential sync issue    
+2026-08-06T11:44:38.418782Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 3511, attempting up to 3511 transactions this block    
+2026-08-06T11:44:38.430928Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(334) far exceeds block count (83); potential sync issue    
+2026-08-06T11:44:38.544611Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 12.045958ms
+2026-08-06T11:44:38.871625Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 8427, attempting up to 8427 transactions this block    
+2026-08-06T11:44:38.883488Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(338) far exceeds block count (84); potential sync issue    
+2026-08-06T11:44:39.106240Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 2107, attempting up to 2107 transactions this block    
+2026-08-06T11:44:39.109149Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(342) far exceeds block count (85); potential sync issue    
+2026-08-06T11:44:39.467515Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 4212, attempting up to 4212 transactions this block    
+2026-08-06T11:44:39.475900Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(346) far exceeds block count (86); potential sync issue    
+2026-08-06T11:44:39.898675Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 6320, attempting up to 6320 transactions this block    
+2026-08-06T11:44:39.911067Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(350) far exceeds block count (87); potential sync issue    
+2026-08-06T11:44:40.417731Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 7022, attempting up to 7022 transactions this block    
+2026-08-06T11:44:40.422980Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(354) far exceeds block count (88); potential sync issue    
+2026-08-06T11:44:40.660253Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 5.176167ms
+2026-08-06T11:44:40.757650Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:40.758692Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(358) far exceeds block count (89); potential sync issue    
+2026-08-06T11:44:41.013618Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 2809, attempting up to 2809 transactions this block    
+2026-08-06T11:44:41.023047Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(362) far exceeds block count (90); potential sync issue    
+2026-08-06T11:44:41.403003Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 3511, attempting up to 3511 transactions this block    
+2026-08-06T11:44:41.416769Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(366) far exceeds block count (91); potential sync issue    
+2026-08-06T11:44:41.924615Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 5618, attempting up to 5618 transactions this block    
+2026-08-06T11:44:41.949980Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(370) far exceeds block count (92); potential sync issue    
+2026-08-06T11:44:42.336966Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 2809, attempting up to 2809 transactions this block    
+2026-08-06T11:44:42.353634Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(374) far exceeds block count (93); potential sync issue    
+2026-08-06T11:44:42.619636Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 2809, attempting up to 2809 transactions this block    
+2026-08-06T11:44:42.623203Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(378) far exceeds block count (94); potential sync issue    
+2026-08-06T11:44:42.771032Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:42.771189Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(382) far exceeds block count (95); potential sync issue    
+2026-08-06T11:44:43.047772Z  WARN ThreadId(06) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:44:43.068377Z  WARN ThreadId(06) docker_node: Node 3 Regular transaction queue backlog: 7022 transactions
+2026-08-06T11:44:43.699578Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 9129, attempting up to 9129 transactions this block    
+2026-08-06T11:44:43.708526Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(386) far exceeds block count (96); potential sync issue    
+2026-08-06T11:44:43.850024Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 5.649375ms
+2026-08-06T11:44:44.043889Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:44.044236Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(390) far exceeds block count (97); potential sync issue    
+2026-08-06T11:44:44.072862Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 7.664084ms
+2026-08-06T11:44:44.206099Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:44:44.214715Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(394) far exceeds block count (98); potential sync issue    
+2026-08-06T11:44:44.909751Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 8427, attempting up to 8427 transactions this block    
+2026-08-06T11:44:44.913906Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(398) far exceeds block count (99); potential sync issue    
+2026-08-06T11:44:44.924272Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 6.749583ms
+2026-08-06T11:44:45.868251Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 11233, attempting up to 11233 transactions this block    
+2026-08-06T11:44:45.899352Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(402) far exceeds block count (100); potential sync issue    
+2026-08-06T11:44:46.680020Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 6320, attempting up to 6320 transactions this block    
+2026-08-06T11:44:46.685495Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(406) far exceeds block count (101); potential sync issue    
+2026-08-06T11:44:47.129825Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 8427, attempting up to 8427 transactions this block    
+2026-08-06T11:44:47.139033Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(410) far exceeds block count (102); potential sync issue    
+2026-08-06T11:44:48.020364Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 9830, attempting up to 9830 transactions this block    
+2026-08-06T11:44:48.037668Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(414) far exceeds block count (103); potential sync issue    
+2026-08-06T11:44:48.047164Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:44:49.215165Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 14747, attempting up to 14747 transactions this block    
+2026-08-06T11:44:49.233285Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(418) far exceeds block count (104); potential sync issue    
+2026-08-06T11:44:49.855473Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 6320, attempting up to 6320 transactions this block    
+2026-08-06T11:44:49.863768Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(422) far exceeds block count (105); potential sync issue    
+2026-08-06T11:44:50.310778Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 3511, attempting up to 3511 transactions this block    
+2026-08-06T11:44:50.330885Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(426) far exceeds block count (106); potential sync issue    
+2026-08-06T11:44:51.246722Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 10533, attempting up to 10533 transactions this block    
+2026-08-06T11:44:51.265582Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(430) far exceeds block count (107); potential sync issue    
+2026-08-06T11:44:52.295219Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 13342, attempting up to 13342 transactions this block    
+2026-08-06T11:44:52.320312Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(434) far exceeds block count (108); potential sync issue    
+2026-08-06T11:44:53.050797Z  WARN ThreadId(05) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:44:53.073031Z  WARN ThreadId(05) docker_node: Node 3 Regular transaction queue backlog: 5618 transactions
+2026-08-06T11:44:53.074133Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 5618, attempting up to 5618 transactions this block    
+2026-08-06T11:44:53.078284Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(438) far exceeds block count (109); potential sync issue    
+2026-08-06T11:44:53.729373Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 12640, attempting up to 12640 transactions this block    
+2026-08-06T11:44:53.756758Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(442) far exceeds block count (110); potential sync issue    
+2026-08-06T11:44:54.503924Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 32.330833ms
+2026-08-06T11:44:54.880800Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 32.262125ms
+2026-08-06T11:44:54.917361Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 60.290291ms
+2026-08-06T11:44:55.281333Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 24575, attempting up to 24575 transactions this block    
+2026-08-06T11:44:55.356222Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(446) far exceeds block count (111); potential sync issue    
+2026-08-06T11:44:58.074496Z  WARN ThreadId(07) docker_node: Node 3 Regular transaction queue backlog: 35109 transactions
+2026-08-06T11:44:58.079205Z  WARN ThreadId(05) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:44:58.881467Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 10.577875ms
+2026-08-06T11:44:59.575252Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 57581, attempting up to 57581 transactions this block    
+2026-08-06T11:44:59.653318Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(450) far exceeds block count (112); potential sync issue    
+2026-08-06T11:45:02.673880Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 40728, attempting up to 40728 transactions this block    
+2026-08-06T11:45:02.749741Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(454) far exceeds block count (113); potential sync issue    
+2026-08-06T11:45:03.048305Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:45:03.072288Z  WARN ThreadId(09) docker_node: Node 3 Regular transaction queue backlog: 2809 transactions
+2026-08-06T11:45:04.342944Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 19660, attempting up to 19660 transactions this block    
+2026-08-06T11:45:04.363605Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(458) far exceeds block count (114); potential sync issue    
+2026-08-06T11:45:05.523271Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 22.65ms
+2026-08-06T11:45:05.983246Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 18961, attempting up to 18961 transactions this block    
+2026-08-06T11:45:06.058324Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(462) far exceeds block count (115); potential sync issue    
+2026-08-06T11:45:06.341469Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 6.77175ms
+2026-08-06T11:45:06.583140Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 5.878291ms
+2026-08-06T11:45:08.048329Z  WARN ThreadId(07) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:45:08.070285Z  WARN ThreadId(07) docker_node: Node 3 Regular transaction queue backlog: 28790 transactions
+2026-08-06T11:45:08.473315Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 34.979333ms
+2026-08-06T11:45:09.642331Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 11.363958ms
+2026-08-06T11:45:10.715801Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 57580, attempting up to 57580 transactions this block    
+2026-08-06T11:45:10.900429Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(466) far exceeds block count (116); potential sync issue    
+2026-08-06T11:45:11.353744Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 7.732417ms
+2026-08-06T11:45:11.358349Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 12.524708ms
+2026-08-06T11:45:12.761783Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 7.937333ms
+2026-08-06T11:45:13.049174Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:45:13.074191Z  WARN ThreadId(03) docker_node: Node 3 Regular transaction queue backlog: 21063 transactions
+2026-08-06T11:45:14.050638Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 7.815625ms
+2026-08-06T11:45:15.924355Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 467 timed out; latency may accumulate
+2026-08-06T11:45:17.591866Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 11.657125ms
+2026-08-06T11:45:17.723956Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 66003, attempting up to 66003 transactions this block    
+2026-08-06T11:45:17.801027Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(470) far exceeds block count (117); potential sync issue    
+2026-08-06T11:45:18.067129Z  WARN ThreadId(05) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:45:18.072300Z  WARN ThreadId(05) docker_node: Node 3 Regular transaction queue backlog: 2809 transactions
+2026-08-06T11:45:20.263189Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 5.757334ms
+2026-08-06T11:45:21.097669Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 35110, attempting up to 35110 transactions this block    
+2026-08-06T11:45:21.145982Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(474) far exceeds block count (118); potential sync issue    
+2026-08-06T11:45:23.043862Z  WARN ThreadId(04) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:45:23.064967Z  WARN ThreadId(09) docker_node: Node 3 Regular transaction queue backlog: 23876 transactions
+2026-08-06T11:45:24.373823Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 477 timed out; latency may accumulate
+2026-08-06T11:45:24.988017Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 50559, attempting up to 50559 transactions this block    
+2026-08-06T11:45:25.057173Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(478) far exceeds block count (119); potential sync issue    
+2026-08-06T11:45:26.924594Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 478 timed out; latency may accumulate
+2026-08-06T11:45:28.042433Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:45:28.066290Z  WARN ThreadId(07) docker_node: Node 3 Regular transaction queue backlog: 37218 transactions
+2026-08-06T11:45:28.583180Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 34.725417ms
+2026-08-06T11:45:28.590561Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 45.180667ms
+2026-08-06T11:45:28.931949Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 479 timed out; latency may accumulate
+2026-08-06T11:45:31.216170Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 480 timed out; latency may accumulate
+2026-08-06T11:45:32.829331Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 37218, attempting up to 37218 transactions this block    
+2026-08-06T11:45:32.883528Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(482) far exceeds block count (120); potential sync issue    
+2026-08-06T11:45:33.042849Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:45:35.056163Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:45:35.059284Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(486) far exceeds block count (121); potential sync issue    
+2026-08-06T11:45:37.347830Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:45:37.351769Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(490) far exceeds block count (122); potential sync issue    
+2026-08-06T11:45:38.042995Z  WARN ThreadId(07) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:45:38.332661Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:45:38.339799Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(494) far exceeds block count (123); potential sync issue    
+2026-08-06T11:45:39.748800Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:45:39.750281Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(498) far exceeds block count (124); potential sync issue    
+2026-08-06T11:45:39.898931Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 6.321208ms
+2026-08-06T11:45:42.278372Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:45:42.280272Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(502) far exceeds block count (125); potential sync issue    
+2026-08-06T11:45:43.043439Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:45:45.389876Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:45:45.395817Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(506) far exceeds block count (126); potential sync issue    
+2026-08-06T11:45:48.042857Z  WARN ThreadId(07) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:45:49.969659Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:45:49.971197Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(510) far exceeds block count (127); potential sync issue    
+2026-08-06T11:45:51.299381Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:45:51.300422Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(514) far exceeds block count (128); potential sync issue    
+2026-08-06T11:45:53.047744Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:45:54.464529Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:45:54.471450Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(518) far exceeds block count (129); potential sync issue    
+2026-08-06T11:45:57.953639Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:45:57.955356Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(522) far exceeds block count (130); potential sync issue    
+2026-08-06T11:45:58.048420Z  WARN ThreadId(07) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:45:58.049011Z  WARN ThreadId(07) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:00.303171Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:00.308378Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(526) far exceeds block count (131); potential sync issue    
+2026-08-06T11:46:02.136527Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:02.137058Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(530) far exceeds block count (132); potential sync issue    
+2026-08-06T11:46:03.053639Z  WARN ThreadId(09) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:03.056705Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:03.495389Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:03.501644Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(534) far exceeds block count (133); potential sync issue    
+2026-08-06T11:46:06.037965Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:06.053456Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(538) far exceeds block count (134); potential sync issue    
+2026-08-06T11:46:07.273642Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 8.793458ms
+2026-08-06T11:46:07.550515Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:07.551533Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(542) far exceeds block count (135); potential sync issue    
+2026-08-06T11:46:08.048547Z  WARN ThreadId(07) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:08.052703Z  WARN ThreadId(07) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:11.330558Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:11.334239Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(546) far exceeds block count (136); potential sync issue    
+2026-08-06T11:46:12.470842Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:12.473363Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(550) far exceeds block count (137); potential sync issue    
+2026-08-06T11:46:13.048742Z  WARN ThreadId(03) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:13.054370Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:14.426294Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:14.430215Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(554) far exceeds block count (138); potential sync issue    
+2026-08-06T11:46:16.295707Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 6.600458ms
+2026-08-06T11:46:16.344043Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 56.552041ms
+2026-08-06T11:46:16.450221Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:16.455325Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(558) far exceeds block count (139); potential sync issue    
+2026-08-06T11:46:18.054421Z  WARN ThreadId(04) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:18.059459Z  WARN ThreadId(04) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:19.218224Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:19.227100Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(562) far exceeds block count (140); potential sync issue    
+2026-08-06T11:46:22.113858Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:22.114463Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(566) far exceeds block count (141); potential sync issue    
+2026-08-06T11:46:23.047909Z  WARN ThreadId(03) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:23.053275Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:24.699336Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 6.188ms
+2026-08-06T11:46:25.824748Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:25.825036Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(570) far exceeds block count (142); potential sync issue    
+2026-08-06T11:46:27.949138Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:27.952899Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(574) far exceeds block count (143); potential sync issue    
+2026-08-06T11:46:28.048664Z  WARN ThreadId(03) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:28.050440Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:30.458989Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:30.465478Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(578) far exceeds block count (144); potential sync issue    
+2026-08-06T11:46:32.808644Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:32.813643Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(582) far exceeds block count (145); potential sync issue    
+2026-08-06T11:46:33.047923Z  WARN ThreadId(04) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:33.050528Z  WARN ThreadId(04) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:34.440677Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:34.441161Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(586) far exceeds block count (146); potential sync issue    
+2026-08-06T11:46:36.052556Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 8.68425ms
+2026-08-06T11:46:36.127627Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:36.128552Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(590) far exceeds block count (147); potential sync issue    
+2026-08-06T11:46:38.052750Z  WARN ThreadId(04) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:38.053416Z  WARN ThreadId(04) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:40.064276Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:40.064525Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(594) far exceeds block count (148); potential sync issue    
+2026-08-06T11:46:40.069975Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 593 timed out; latency may accumulate
+2026-08-06T11:46:41.955082Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:41.961911Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(598) far exceeds block count (149); potential sync issue    
+2026-08-06T11:46:43.047900Z  WARN ThreadId(09) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:43.048131Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:44.183864Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:46:44.192921Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(602) far exceeds block count (150); potential sync issue    
+2026-08-06T11:46:44.303234Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 6.275458ms
+2026-08-06T11:46:47.884333Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 5618, attempting up to 5618 transactions this block    
+2026-08-06T11:46:47.896459Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(606) far exceeds block count (151); potential sync issue    
+2026-08-06T11:46:48.048785Z  WARN ThreadId(07) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:48.052806Z  WARN ThreadId(07) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:51.497682Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 54063, attempting up to 54063 transactions this block    
+2026-08-06T11:46:51.563871Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(610) far exceeds block count (152); potential sync issue    
+2026-08-06T11:46:53.048763Z  WARN ThreadId(03) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:53.050660Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:53.077470Z  WARN ThreadId(04) docker_node: Node 3 Regular transaction queue backlog: 21066 transactions
+2026-08-06T11:46:53.252083Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 5.691125ms
+2026-08-06T11:46:54.188676Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 6.430417ms
+2026-08-06T11:46:57.260354Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 612 timed out; latency may accumulate
+2026-08-06T11:46:57.441956Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 10.567292ms
+2026-08-06T11:46:57.679844Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 10.393791ms
+2026-08-06T11:46:58.055673Z  WARN ThreadId(03) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:46:58.056445Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:46:58.069529Z  WARN ThreadId(07) docker_node: Node 3 Regular transaction queue backlog: 88475 transactions
+2026-08-06T11:46:58.415144Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 88475, attempting up to 88475 transactions this block    
+2026-08-06T11:46:58.601129Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(614) far exceeds block count (153); potential sync issue    
+2026-08-06T11:47:00.420312Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 614 timed out; latency may accumulate
+2026-08-06T11:47:02.282807Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 34.375584ms
+2026-08-06T11:47:03.048086Z  WARN ThreadId(05) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:03.062182Z  WARN ThreadId(05) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:04.561653Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:47:04.564172Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(618) far exceeds block count (154); potential sync issue    
+2026-08-06T11:47:05.507153Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 6.850458ms
+2026-08-06T11:47:06.328491Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:47:06.333459Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(622) far exceeds block count (155); potential sync issue    
+2026-08-06T11:47:07.141097Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 7.990167ms
+2026-08-06T11:47:08.047807Z  WARN ThreadId(03) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:08.049060Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:09.575142Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 17.119917ms
+2026-08-06T11:47:09.764696Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:47:09.767486Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(626) far exceeds block count (156); potential sync issue    
+2026-08-06T11:47:11.884440Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:47:11.888794Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(630) far exceeds block count (157); potential sync issue    
+2026-08-06T11:47:13.048469Z  WARN ThreadId(03) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:13.048571Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:18.048339Z  WARN ThreadId(09) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:18.050668Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:18.494418Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:47:18.501592Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(634) far exceeds block count (158); potential sync issue    
+2026-08-06T11:47:18.501109Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 633 timed out; latency may accumulate
+2026-08-06T11:47:20.023752Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 12.991917ms
+2026-08-06T11:47:20.553538Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[115, 15, 92, 106, 28, 223, 148, 68, 185, 49, 10, 25, 10, 254, 20, 129, 25, 97, 74, 158, 253, 62, 187, 214, 236, 155, 232, 112, 197, 204, 19, 71] view=635 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=635, locked.view=631, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[90, 193, 73, 214, 151, 140, 137, 221, 26, 26, 193, 106, 146, 177, 15, 215, 242, 219, 114, 68, 154, 44, 1, 135, 145, 220, 244, 87, 14, 180, 241, 232] highest_pc.view=632 locked.block=[214, 99, 96, 62, 144, 84, 192, 124, 102, 14, 36, 106, 127, 54, 111, 26, 220, 40, 250, 16, 122, 138, 221, 191, 13, 218, 3, 174, 144, 84, 106, 219] locked.view=631    
+2026-08-06T11:47:20.553829Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_BLOCK_FAIL: block=[37, 29, 58, 198, 121, 54, 61, 23, 232, 244, 26, 34, 16, 49, 146, 142, 101, 76, 101, 42, 161, 200, 3, 92, 52, 75, 244, 75, 59, 152, 189, 216] height=None | cond1(safe_pc)=false | cond2(is_block_justify)=true (justify.phase=Generic) | justify.block=[115, 15, 92, 106, 28, 223, 148, 68, 185, 49, 10, 25, 10, 254, 20, 129, 25, 97, 74, 158, 253, 62, 187, 214, 236, 155, 232, 112, 197, 204, 19, 71] justify.view=635 | highest_pc.block=[90, 193, 73, 214, 151, 140, 137, 221, 26, 26, 193, 106, 146, 177, 15, 215, 242, 219, 114, 68, 154, 44, 1, 135, 145, 220, 244, 87, 14, 180, 241, 232] highest_pc.view=632 | locked.block=[214, 99, 96, 62, 144, 84, 192, 124, 102, 14, 36, 106, 127, 54, 111, 26, 220, 40, 250, 16, 122, 138, 221, 191, 13, 218, 3, 174, 144, 84, 106, 219] locked.view=631    
+2026-08-06T11:47:21.147955Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[37, 29, 58, 198, 121, 54, 61, 23, 232, 244, 26, 34, 16, 49, 146, 142, 101, 76, 101, 42, 161, 200, 3, 92, 52, 75, 244, 75, 59, 152, 189, 216] view=636 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=636, locked.view=631, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[90, 193, 73, 214, 151, 140, 137, 221, 26, 26, 193, 106, 146, 177, 15, 215, 242, 219, 114, 68, 154, 44, 1, 135, 145, 220, 244, 87, 14, 180, 241, 232] highest_pc.view=632 locked.block=[214, 99, 96, 62, 144, 84, 192, 124, 102, 14, 36, 106, 127, 54, 111, 26, 220, 40, 250, 16, 122, 138, 221, 191, 13, 218, 3, 174, 144, 84, 106, 219] locked.view=631    
+2026-08-06T11:47:21.150827Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_BLOCK_FAIL: block=[108, 129, 211, 102, 83, 56, 90, 156, 48, 70, 243, 43, 246, 101, 185, 71, 160, 164, 96, 101, 190, 61, 194, 232, 229, 96, 71, 219, 32, 22, 217, 185] height=None | cond1(safe_pc)=false | cond2(is_block_justify)=true (justify.phase=Generic) | justify.block=[37, 29, 58, 198, 121, 54, 61, 23, 232, 244, 26, 34, 16, 49, 146, 142, 101, 76, 101, 42, 161, 200, 3, 92, 52, 75, 244, 75, 59, 152, 189, 216] justify.view=636 | highest_pc.block=[90, 193, 73, 214, 151, 140, 137, 221, 26, 26, 193, 106, 146, 177, 15, 215, 242, 219, 114, 68, 154, 44, 1, 135, 145, 220, 244, 87, 14, 180, 241, 232] highest_pc.view=632 | locked.block=[214, 99, 96, 62, 144, 84, 192, 124, 102, 14, 36, 106, 127, 54, 111, 26, 220, 40, 250, 16, 122, 138, 221, 191, 13, 218, 3, 174, 144, 84, 106, 219] locked.view=631    
+2026-08-06T11:47:22.220543Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[108, 129, 211, 102, 83, 56, 90, 156, 48, 70, 243, 43, 246, 101, 185, 71, 160, 164, 96, 101, 190, 61, 194, 232, 229, 96, 71, 219, 32, 22, 217, 185] view=637 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=637, locked.view=631, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[90, 193, 73, 214, 151, 140, 137, 221, 26, 26, 193, 106, 146, 177, 15, 215, 242, 219, 114, 68, 154, 44, 1, 135, 145, 220, 244, 87, 14, 180, 241, 232] highest_pc.view=632 locked.block=[214, 99, 96, 62, 144, 84, 192, 124, 102, 14, 36, 106, 127, 54, 111, 26, 220, 40, 250, 16, 122, 138, 221, 191, 13, 218, 3, 174, 144, 84, 106, 219] locked.view=631    
+2026-08-06T11:47:23.047911Z  WARN ThreadId(09) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:23.056938Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:23.594558Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[37, 29, 58, 198, 121, 54, 61, 23, 232, 244, 26, 34, 16, 49, 146, 142, 101, 76, 101, 42, 161, 200, 3, 92, 52, 75, 244, 75, 59, 152, 189, 216] view=636 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=636, locked.view=632, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[211, 205, 82, 186, 229, 181, 173, 82, 31, 200, 101, 25, 51, 5, 193, 127, 28, 59, 219, 84, 67, 84, 94, 84, 71, 13, 64, 229, 182, 246, 227, 106] highest_pc.view=634 locked.block=[90, 193, 73, 214, 151, 140, 137, 221, 26, 26, 193, 106, 146, 177, 15, 215, 242, 219, 114, 68, 154, 44, 1, 135, 145, 220, 244, 87, 14, 180, 241, 232] locked.view=632    
+2026-08-06T11:47:24.908435Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 637 timed out; latency may accumulate
+2026-08-06T11:47:25.292097Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:47:25.299907Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(638) far exceeds block count (159); potential sync issue    
+2026-08-06T11:47:26.462337Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] view=639 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=639, locked.view=635, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[37, 29, 58, 198, 121, 54, 61, 23, 232, 244, 26, 34, 16, 49, 146, 142, 101, 76, 101, 42, 161, 200, 3, 92, 52, 75, 244, 75, 59, 152, 189, 216] highest_pc.view=636 locked.block=[115, 15, 92, 106, 28, 223, 148, 68, 185, 49, 10, 25, 10, 254, 20, 129, 25, 97, 74, 158, 253, 62, 187, 214, 236, 155, 232, 112, 197, 204, 19, 71] locked.view=635    
+2026-08-06T11:47:26.465701Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_BLOCK_FAIL: block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] height=None | cond1(safe_pc)=false | cond2(is_block_justify)=true (justify.phase=Generic) | justify.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] justify.view=639 | highest_pc.block=[37, 29, 58, 198, 121, 54, 61, 23, 232, 244, 26, 34, 16, 49, 146, 142, 101, 76, 101, 42, 161, 200, 3, 92, 52, 75, 244, 75, 59, 152, 189, 216] highest_pc.view=636 | locked.block=[115, 15, 92, 106, 28, 223, 148, 68, 185, 49, 10, 25, 10, 254, 20, 129, 25, 97, 74, 158, 253, 62, 187, 214, 236, 155, 232, 112, 197, 204, 19, 71] locked.view=635    
+2026-08-06T11:47:26.468152Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] view=640 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=640, locked.view=635, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[37, 29, 58, 198, 121, 54, 61, 23, 232, 244, 26, 34, 16, 49, 146, 142, 101, 76, 101, 42, 161, 200, 3, 92, 52, 75, 244, 75, 59, 152, 189, 216] highest_pc.view=636 locked.block=[115, 15, 92, 106, 28, 223, 148, 68, 185, 49, 10, 25, 10, 254, 20, 129, 25, 97, 74, 158, 253, 62, 187, 214, 236, 155, 232, 112, 197, 204, 19, 71] locked.view=635    
+2026-08-06T11:47:26.469703Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_BLOCK_FAIL: block=[156, 12, 221, 92, 151, 211, 255, 73, 117, 3, 138, 49, 167, 121, 215, 179, 223, 149, 204, 166, 249, 83, 101, 105, 251, 18, 39, 12, 115, 156, 131, 197] height=None | cond1(safe_pc)=false | cond2(is_block_justify)=true (justify.phase=Generic) | justify.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] justify.view=640 | highest_pc.block=[37, 29, 58, 198, 121, 54, 61, 23, 232, 244, 26, 34, 16, 49, 146, 142, 101, 76, 101, 42, 161, 200, 3, 92, 52, 75, 244, 75, 59, 152, 189, 216] highest_pc.view=636 | locked.block=[115, 15, 92, 106, 28, 223, 148, 68, 185, 49, 10, 25, 10, 254, 20, 129, 25, 97, 74, 158, 253, 62, 187, 214, 236, 155, 232, 112, 197, 204, 19, 71] locked.view=635    
+2026-08-06T11:47:27.051984Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[156, 12, 221, 92, 151, 211, 255, 73, 117, 3, 138, 49, 167, 121, 215, 179, 223, 149, 204, 166, 249, 83, 101, 105, 251, 18, 39, 12, 115, 156, 131, 197] view=641 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=641, locked.view=635, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[37, 29, 58, 198, 121, 54, 61, 23, 232, 244, 26, 34, 16, 49, 146, 142, 101, 76, 101, 42, 161, 200, 3, 92, 52, 75, 244, 75, 59, 152, 189, 216] highest_pc.view=636 locked.block=[115, 15, 92, 106, 28, 223, 148, 68, 185, 49, 10, 25, 10, 254, 20, 129, 25, 97, 74, 158, 253, 62, 187, 214, 236, 155, 232, 112, 197, 204, 19, 71] locked.view=635    
+2026-08-06T11:47:27.311006Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 7.143416ms
+2026-08-06T11:47:27.969701Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] view=640 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=640, locked.view=635, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[37, 29, 58, 198, 121, 54, 61, 23, 232, 244, 26, 34, 16, 49, 146, 142, 101, 76, 101, 42, 161, 200, 3, 92, 52, 75, 244, 75, 59, 152, 189, 216] highest_pc.view=636 locked.block=[115, 15, 92, 106, 28, 223, 148, 68, 185, 49, 10, 25, 10, 254, 20, 129, 25, 97, 74, 158, 253, 62, 187, 214, 236, 155, 232, 112, 197, 204, 19, 71] locked.view=635    
+2026-08-06T11:47:28.052579Z  WARN ThreadId(09) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:28.055162Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:28.913892Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] view=640 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=640, locked.view=635, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[37, 29, 58, 198, 121, 54, 61, 23, 232, 244, 26, 34, 16, 49, 146, 142, 101, 76, 101, 42, 161, 200, 3, 92, 52, 75, 244, 75, 59, 152, 189, 216] highest_pc.view=636 locked.block=[115, 15, 92, 106, 28, 223, 148, 68, 185, 49, 10, 25, 10, 254, 20, 129, 25, 97, 74, 158, 253, 62, 187, 214, 236, 155, 232, 112, 197, 204, 19, 71] locked.view=635    
+2026-08-06T11:47:30.621972Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 641 timed out; latency may accumulate
+2026-08-06T11:47:31.066502Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 17553, attempting up to 17553 transactions this block    
+2026-08-06T11:47:31.091061Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(642) far exceeds block count (160); potential sync issue    
+2026-08-06T11:47:31.493683Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 25.973125ms
+2026-08-06T11:47:31.921331Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 48.09375ms
+2026-08-06T11:47:32.295507Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 29.473291ms
+2026-08-06T11:47:32.544045Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 39.51ms
+2026-08-06T11:47:32.765432Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 44.426958ms
+2026-08-06T11:47:33.048166Z  WARN ThreadId(07) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:33.048979Z  WARN ThreadId(07) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:33.071652Z  WARN ThreadId(05) docker_node: Node 3 Regular transaction queue backlog: 22470 transactions
+2026-08-06T11:47:33.292932Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 8.666292ms
+2026-08-06T11:47:33.400111Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 644 timed out; latency may accumulate
+2026-08-06T11:47:34.319085Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[215, 112, 26, 182, 131, 53, 12, 206, 81, 124, 144, 124, 95, 128, 236, 183, 242, 18, 230, 38, 50, 193, 195, 166, 205, 34, 135, 185, 185, 198, 217, 99] view=644 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=644, locked.view=639, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:47:34.328910Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_BLOCK_FAIL: block=[248, 218, 22, 224, 241, 18, 110, 99, 205, 41, 118, 150, 28, 77, 132, 215, 36, 124, 194, 111, 67, 230, 124, 90, 14, 173, 41, 206, 121, 11, 219, 255] height=None | cond1(safe_pc)=false | cond2(is_block_justify)=true (justify.phase=Generic) | justify.block=[215, 112, 26, 182, 131, 53, 12, 206, 81, 124, 144, 124, 95, 128, 236, 183, 242, 18, 230, 38, 50, 193, 195, 166, 205, 34, 135, 185, 185, 198, 217, 99] justify.view=644 | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 | locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:47:34.816012Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 6.873667ms
+2026-08-06T11:47:35.150156Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[215, 112, 26, 182, 131, 53, 12, 206, 81, 124, 144, 124, 95, 128, 236, 183, 242, 18, 230, 38, 50, 193, 195, 166, 205, 34, 135, 185, 185, 198, 217, 99] view=644 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=644, locked.view=639, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:47:36.925172Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 6.008ms
+2026-08-06T11:47:37.774092Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 6.163125ms
+2026-08-06T11:47:38.014079Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 8.985708ms
+2026-08-06T11:47:38.015933Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 11.020916ms
+2026-08-06T11:47:38.051649Z  WARN ThreadId(05) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:38.057447Z  WARN ThreadId(05) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:38.072718Z  WARN ThreadId(04) docker_node: Node 3 Regular transaction queue backlog: 72325 transactions
+2026-08-06T11:47:38.268857Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 5.529458ms
+2026-08-06T11:47:38.599247Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 5.693875ms
+2026-08-06T11:47:38.743232Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 86367, attempting up to 86367 transactions this block    
+2026-08-06T11:47:39.218537Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(646) far exceeds block count (161); potential sync issue    
+2026-08-06T11:47:39.754521Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 9.936333ms
+2026-08-06T11:47:39.793513Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 8.775375ms
+2026-08-06T11:47:39.990737Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 47.121792ms
+2026-08-06T11:47:40.074769Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 7.283958ms
+2026-08-06T11:47:41.326945Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 646 timed out; latency may accumulate
+2026-08-06T11:47:43.052362Z  WARN ThreadId(04) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:43.074432Z  WARN ThreadId(04) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:43.074554Z  WARN ThreadId(03) docker_node: Node 3 Regular transaction queue backlog: 37216 transactions
+2026-08-06T11:47:43.601998Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 22.404875ms
+2026-08-06T11:47:43.654581Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 28.298375ms
+2026-08-06T11:47:44.202126Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 6.604792ms
+2026-08-06T11:47:44.917076Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 28.309458ms
+2026-08-06T11:47:45.318453Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[215, 112, 26, 182, 131, 53, 12, 206, 81, 124, 144, 124, 95, 128, 236, 183, 242, 18, 230, 38, 50, 193, 195, 166, 205, 34, 135, 185, 185, 198, 217, 99] view=644 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=644, locked.view=639, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:47:45.324943Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_BLOCK_FAIL: block=[68, 252, 155, 82, 32, 30, 135, 236, 232, 108, 210, 183, 46, 219, 187, 82, 248, 7, 237, 55, 58, 72, 200, 229, 109, 251, 33, 6, 134, 221, 22, 101] height=None | cond1(safe_pc)=false | cond2(is_block_justify)=true (justify.phase=Generic) | justify.block=[215, 112, 26, 182, 131, 53, 12, 206, 81, 124, 144, 124, 95, 128, 236, 183, 242, 18, 230, 38, 50, 193, 195, 166, 205, 34, 135, 185, 185, 198, 217, 99] justify.view=644 | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 | locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:47:45.384319Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[215, 112, 26, 182, 131, 53, 12, 206, 81, 124, 144, 124, 95, 128, 236, 183, 242, 18, 230, 38, 50, 193, 195, 166, 205, 34, 135, 185, 185, 198, 217, 99] view=644 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=644, locked.view=639, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:47:45.973956Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 5.077458ms
+2026-08-06T11:47:46.285070Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 648 timed out; latency may accumulate
+2026-08-06T11:47:48.048166Z  WARN ThreadId(09) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:48.050171Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:48.072358Z  WARN ThreadId(05) docker_node: Node 3 Regular transaction queue backlog: 94095 transactions
+2026-08-06T11:47:48.783357Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 6.453666ms
+2026-08-06T11:47:48.811566Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 105331, attempting up to 105331 transactions this block    
+2026-08-06T11:47:49.164349Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(650) far exceeds block count (162); potential sync issue    
+2026-08-06T11:47:49.186550Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 7.481167ms
+2026-08-06T11:47:49.247194Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 12.148292ms
+2026-08-06T11:47:50.050293Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 7.283083ms
+2026-08-06T11:47:50.132725Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 1 slow write: 31.297ms
+2026-08-06T11:47:50.894284Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 8.556625ms
+2026-08-06T11:47:51.863193Z  WARN ThreadId(25) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 15.674875ms
+2026-08-06T11:47:51.864194Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 2 slow write: 15.550625ms
+2026-08-06T11:47:51.895042Z  WARN ThreadId(24) hotstuff_runner::smrol::network: ⚠️ [Check] Writer 3 -> 0 slow write: 6.325542ms
+2026-08-06T11:47:53.023210Z  WARN ThreadId(09) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:53.031980Z  WARN ThreadId(09) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:53.041781Z  WARN ThreadId(09) docker_node: Node 3 Regular transaction queue backlog: 49856 transactions
+2026-08-06T11:47:54.622226Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[215, 112, 26, 182, 131, 53, 12, 206, 81, 124, 144, 124, 95, 128, 236, 183, 242, 18, 230, 38, 50, 193, 195, 166, 205, 34, 135, 185, 185, 198, 217, 99] view=644 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=644, locked.view=639, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:47:54.622827Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_BLOCK_FAIL: block=[201, 76, 49, 235, 12, 87, 224, 251, 149, 212, 136, 85, 211, 82, 107, 1, 127, 20, 159, 212, 112, 226, 99, 159, 14, 94, 220, 16, 105, 244, 94, 225] height=None | cond1(safe_pc)=false | cond2(is_block_justify)=true (justify.phase=Generic) | justify.block=[215, 112, 26, 182, 131, 53, 12, 206, 81, 124, 144, 124, 95, 128, 236, 183, 242, 18, 230, 38, 50, 193, 195, 166, 205, 34, 135, 185, 185, 198, 217, 99] justify.view=644 | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 | locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:47:56.861371Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[215, 112, 26, 182, 131, 53, 12, 206, 81, 124, 144, 124, 95, 128, 236, 183, 242, 18, 230, 38, 50, 193, 195, 166, 205, 34, 135, 185, 185, 198, 217, 99] view=644 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=644, locked.view=639, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:47:56.872121Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_BLOCK_FAIL: block=[195, 59, 170, 175, 255, 30, 24, 193, 79, 143, 203, 190, 210, 215, 179, 73, 8, 61, 225, 153, 64, 95, 48, 98, 182, 17, 51, 196, 70, 32, 154, 116] height=None | cond1(safe_pc)=false | cond2(is_block_justify)=true (justify.phase=Generic) | justify.block=[215, 112, 26, 182, 131, 53, 12, 206, 81, 124, 144, 124, 95, 128, 236, 183, 242, 18, 230, 38, 50, 193, 195, 166, 205, 34, 135, 185, 185, 198, 217, 99] justify.view=644 | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 | locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:47:57.471665Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 652 timed out; latency may accumulate
+2026-08-06T11:47:58.020752Z  WARN ThreadId(07) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:47:58.026737Z  WARN ThreadId(07) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:47:58.042010Z  WARN ThreadId(06) docker_node: Node 3 Regular transaction queue backlog: 110943 transactions
+2026-08-06T11:47:59.678663Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 110943, attempting up to 110943 transactions this block    
+2026-08-06T11:48:00.278524Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(654) far exceeds block count (163); potential sync issue    
+2026-08-06T11:48:03.022832Z  WARN ThreadId(03) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:48:03.023491Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:48:03.475266Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 655 timed out; latency may accumulate
+2026-08-06T11:48:05.479596Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 656 timed out; latency may accumulate
+2026-08-06T11:48:06.807285Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[153, 17, 165, 145, 247, 81, 71, 230, 165, 19, 90, 186, 101, 58, 173, 101, 239, 10, 196, 142, 68, 102, 75, 60, 171, 215, 9, 6, 101, 205, 214, 8] view=656 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=656, locked.view=639, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:48:06.815409Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_BLOCK_FAIL: block=[29, 44, 48, 118, 254, 139, 68, 225, 46, 69, 73, 213, 255, 146, 88, 113, 251, 146, 97, 85, 143, 252, 185, 202, 201, 64, 252, 233, 14, 17, 30, 204] height=None | cond1(safe_pc)=false | cond2(is_block_justify)=true (justify.phase=Generic) | justify.block=[153, 17, 165, 145, 247, 81, 71, 230, 165, 19, 90, 186, 101, 58, 173, 101, 239, 10, 196, 142, 68, 102, 75, 60, 171, 215, 9, 6, 101, 205, 214, 8] justify.view=656 | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 | locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:48:07.348250Z  WARN ThreadId(20) hotstuff_rs::block_tree::invariants: SAFE_PC_FAIL: pc.block=[29, 44, 48, 118, 254, 139, 68, 225, 46, 69, 73, 213, 255, 146, 88, 113, 251, 146, 97, 85, 143, 252, 185, 202, 201, 64, 252, 233, 14, 17, 30, 204] view=657 phase=Generic | cond1(chain_id/genesis)=true (pc.chain_id=0, my.chain_id=0) | cond2(block_exists/genesis)=false (exists=false) | cond3(view>locked || extends)=true (pc.view=657, locked.view=639, extends=false) | cond4(phase/updates)=true (phase_special=false, has_updates=false) | highest_pc.block=[127, 218, 192, 85, 129, 130, 176, 15, 172, 122, 14, 71, 50, 165, 119, 128, 78, 235, 63, 112, 135, 106, 199, 63, 180, 208, 212, 189, 201, 144, 163, 93] highest_pc.view=640 locked.block=[29, 171, 199, 41, 87, 206, 168, 24, 216, 238, 35, 115, 60, 239, 14, 190, 233, 219, 250, 219, 133, 238, 27, 159, 209, 197, 50, 61, 136, 221, 19, 252] locked.view=639    
+2026-08-06T11:48:07.671894Z  WARN ThreadId(21) hotstuff_runner::tcp_node: Node 3 view 657 timed out; latency may accumulate
+2026-08-06T11:48:08.021978Z  WARN ThreadId(03) docker_node: Low processing efficiency: 0.0% - system may need tuning
+2026-08-06T11:48:08.022901Z  WARN ThreadId(03) docker_node:   Connection reuse ineffective (2.0 msg/conn)
+2026-08-06T11:48:08.455569Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 [produce_block] queue size: 0, attempting up to 0 transactions this block    
+2026-08-06T11:48:08.457029Z  WARN ThreadId(20) hotstuff_runner::app: Node 3 view(658) far exceeds block count (164); potential sync issue    
