@@ -45,14 +45,14 @@ implementations, a common HotStuff backend, four-replica Docker experiments,
 the global EC2 workflow, and the data and script for Figs.~2, 3, and 5--7.
 These components evaluate the latency, throughput--latency, and ordering-layer
 denial-of-service (DoS) results in Section VIII of the paper.  Operational
-details are in \texttt{README-AE.md}.
+details are in \textbf{\texttt{README-AE.md}}.
 
 \subsection{Description \& Requirements}
 
-The main Rust crate contains Isotaxis, Pompe, clients, and adversarial nodes;
+The main Rust crate contains \textbf{Isotaxis}, \textbf{Pompe}, \textbf{clients}, and \textbf{adversarial nodes};
 the bundled second crate is their modified HotStuff backend.  The two Compose
 files run the normal and attack cases.  Global deployment scripts are under
-\path{ec2}, and \path{gen-fig.py} regenerates the plots.
+\path{ec2/}, and \path{gen-fig.py} regenerates the plots.
 
 \subsubsection{How to access}
 
@@ -191,6 +191,7 @@ CLIENT_ORDERING_MODE=smrol
 ADVERSARY_MODE=smrol
 CLIENT_EXCLUDED_NODE_IDS=1
 ATTACK_SLEEP_MICROS=100
+ATTACK_START_DELAY_MS=2000
 \end{commandbox}
 
 For Pompe, change both protocol variables to \texttt{pompe} and set
@@ -216,6 +217,7 @@ logs are in \path{log-examples/attack-logs}; new results are in \path{logs}.
 
 \begin{commandbox}
 source .venv-ae/bin/activate
+mkdir -p python-fig
 python gen-fig.py
 \end{commandbox}
 
@@ -229,7 +231,10 @@ above.  E2 renders archived processed series; it is not a new AWS measurement.
 
 \textit{[Optional; about 5 compute-minutes per point or 4.5 compute-hours for
 the full sweep].}  This costly, state-changing workflow selects existing
-instances; first inspect the plan and dry-run:
+instances.
+Each region must have the security-group rules documented in README-AE.md;
+account-specific identifiers are not included in the artifact.
+First inspect the plan and dry-run:
 
 \begin{commandbox}
 cd ec2
@@ -239,19 +244,22 @@ NODE_INSTANCE_TYPE=c6a.2xlarge \
 \end{commandbox}
 
 Plans 16, 64, and 100 correspond to the Fig.~6 panels.  On an authorized
-account with initialized instances, \textit{execute:}
+account with existing instances and their SSH private key, \textit{execute:}
 
 \begin{commandbox}
+export SSH_KEY_PATH=/path/to/key.pem
 ./start_instances.sh \
   --plan plans/plan-16.json
 NODE_IP_SOURCE=public ./get_ips.sh
+make init && make deploy
+make pull && make start
 \end{commandbox}
 
-\path{get_ips.sh} invokes \texttt{make deploy}, which runs, collects logs, and
-stops the instances; do not invoke \texttt{make deploy/start} again.  Repeat
-the documented batch/load sweep for both protocols and record the plan and
-configuration.  \textit{Results:} \path{ec2/ec2-logs} contains client latency
-and committed throughput for reconstructing the selected Fig.~6 panel.
+These steps generate configuration, initialize and deploy the hosts, pull the
+pinned Docker Hub image, run the experiment, stop the containers, and collect
+logs.  Repeat the documented batch/load sweep for both protocols and record
+the plan and configuration.  \textit{Results:} \path{ec2/ec2-logs} contains
+client latency and committed throughput for reconstructing the Fig.~6 panel.
 
 \subsection{Customization}
 
