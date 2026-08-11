@@ -86,7 +86,6 @@ The main executables are:
 │   ├── get_ips.sh                # Discovers instances and generates configuration
 │   ├── generate-node-envs.sh     # Generates node/client environment files
 │   └── Makefile                  # Deploy, run, collect, and clean workflow
-├── plot.py                       # Latency parser and plot generator
 ├── gen-fig.py                    # Regenerates paper figures from embedded processed data
 └── requirements-plot.txt         # Pinned Python plotting dependency
 ```
@@ -717,7 +716,7 @@ reporting performance because it may affect the paper comparison.
 
 Confirm that the artifact-data archive was downloaded and extracted at the path
 documented by E2. The development repository alone does not currently contain
-the inputs expected by [plot.py](plot.py).
+the inputs expected by [gen-fig.py](gen-fig.py).
 
 ## Licenses and Third-Party Material
 
