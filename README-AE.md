@@ -413,26 +413,27 @@ Byzantine node1 process; it does not add Byzantine replicas.
 - all four nodes participate in HotStuff, the cluster continues committing
   blocks, and the client produces a final aggregate report;
 - compare three repeated normal runs with three repeated attack runs using the
-  median ordering latency and similar reported attack rates. The comparison
-  should show the qualitative trend in Fig. 7. In the archived local runs, the
-  [Pompe attack client log](log-examples/attack-logs/pompe/attack/load_test.log)
-  reports 19.83 ms average ordering latency (746 samples), compared with
-  3.14 ms (1,000 samples) in the
-  [Pompe normal client log](log-examples/attack-logs/pompe/normal/load_test.log),
-  an increase of approximately 6.3x,
-  whereas the [Isotaxis/SMROL attack client log](log-examples/attack-logs/smrol/attack/load_test.log)
-  reports 21.67 ms (336 samples), which remains comparable to 25.91 ms
-  (341 samples) in the
-  [Isotaxis/SMROL normal client log](log-examples/attack-logs/smrol/normal/load_test.log);
-- the Pompe logs report 443.42 ms average consensus latency under attack
-  (737 samples), versus 345.95 ms normally (996 samples). The corresponding
-  Isotaxis/SMROL values are 161.37 ms under attack (331 samples) and 168.96 ms
-  normally (341 samples). The Pompe consensus increase is a secondary local
-  effect of ordering delay and resource contention; node1 participates normally
-  in HotStuff, so its leader views do not add a fixed timeout. Because the
-  archived attack logs contain fewer completed samples than the normal logs,
-  they are used for this qualitative local comparison rather than a claim that
-  all 1,000 submitted transactions completed;
+  median ordering latency and similar reported attack rates. The archived
+  single-run examples give the following average latencies; each cell is shown
+  as `latency (samples)`, and the arrow denotes normal to attack:
+
+  | Protocol | Ordering latency: normal → attack | Consensus latency: normal → attack |
+  |---|---:|---:|
+  | Pompe | 3.14 ms (1,000) → 19.83 ms (746), **6.3x** | 345.95 ms (996) → 443.42 ms (737), 1.28x |
+  | Isotaxis/SMROL | 25.91 ms (341) → 21.67 ms (336), 0.84x | 168.96 ms (341) → 161.37 ms (331), 0.96x |
+
+  The most visible local attack effect is therefore Pompe's ordering latency,
+  while Isotaxis/SMROL ordering latency remains comparable to its normal run.
+  The source reports are the [Pompe normal](log-examples/attack-logs/pompe/normal/load_test.log),
+  [Pompe attack](log-examples/attack-logs/pompe/attack/load_test.log),
+  [Isotaxis/SMROL normal](log-examples/attack-logs/smrol/normal/load_test.log),
+  and [Isotaxis/SMROL attack](log-examples/attack-logs/smrol/attack/load_test.log)
+  client logs. The smaller Pompe consensus increase is a secondary local effect
+  of ordering delay and resource contention; node1 participates normally in
+  HotStuff, so its leader views do not add a fixed timeout. Because the archived
+  attack logs contain fewer completed samples than the normal logs, they support
+  a qualitative comparison rather than a claim that all 1,000 submitted
+  transactions completed;
 - the paper result changes Isotaxis from 2.597 s to 3.067 s and 1155 tx/s to
   978 tx/s, while Pompe changes from 2.030 s to 33.474 s and 1478 tx/s to
   90 tx/s. Exact values are not expected from this four-node smoke test, and the
@@ -558,8 +559,7 @@ SSH_PUBLIC_KEY_PATH="$HOME/.ssh/my-ec2-key.pub" \
 ./ec2/upload_pubkey.sh
 ```
 
-E3 does not build or publish a container image. Evaluators must not run
-`build.sh`; the EC2 Compose files pull the public linux/amd64 image directly
+The EC2 Compose files pull the public linux/amd64 image directly
 from Docker Hub. The default is pinned to the evaluated immutable digest:
 
 ```text
